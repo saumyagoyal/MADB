@@ -1,0 +1,383 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?query=artist%3ADrake&type=artist&offset=0&limit=10", 
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 35192826
+                }, 
+                "genres": [
+                    "canadian hip hop", 
+                    "canadian pop", 
+                    "hip hop", 
+                    "pop rap", 
+                    "rap"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4", 
+                "id": "3TVXtAsR1Inumwj472S9r4", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/012ecd119617ac24ab56620ace4b81735b172686", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 320, 
+                        "url": "https://i.scdn.co/image/55e3fb26d67b4d71321440b3a440eecd9d8f20f7", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 160, 
+                        "url": "https://i.scdn.co/image/ad10179d5f27ba77c7d6c95abd6e26f6a227e0d5", 
+                        "width": 160
+                    }
+                ], 
+                "name": "Drake", 
+                "popularity": 98, 
+                "type": "artist", 
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 341700
+                }, 
+                "genres": [
+                    "art rock", 
+                    "british folk", 
+                    "chamber pop", 
+                    "folk", 
+                    "folk rock", 
+                    "folk-pop", 
+                    "freak folk", 
+                    "indie folk", 
+                    "indie pop", 
+                    "indie rock", 
+                    "melancholia", 
+                    "rock", 
+                    "singer-songwriter", 
+                    "slow core", 
+                    "traditional folk"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y", 
+                "id": "5c3GLXai8YOMid29ZEuR9y", 
+                "images": [
+                    {
+                        "height": 1484, 
+                        "url": "https://i.scdn.co/image/d364b498f85ae764cd278fbba9a8ed7f00c3e434", 
+                        "width": 1000
+                    }, 
+                    {
+                        "height": 950, 
+                        "url": "https://i.scdn.co/image/087fb05851e498c2791ca99000acf35b0fd49f19", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 297, 
+                        "url": "https://i.scdn.co/image/9a74a7d885abe5da94ac812546d0146cfe4a1ceb", 
+                        "width": 200
+                    }, 
+                    {
+                        "height": 95, 
+                        "url": "https://i.scdn.co/image/267080662cf3c019ea8020a4e0e8dd5a7be4d909", 
+                        "width": 64
+                    }
+                ], 
+                "name": "Nick Drake", 
+                "popularity": 63, 
+                "type": "artist", 
+                "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 50104
+                }, 
+                "genres": [
+                    "contemporary country", 
+                    "country pop"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/29ijED2bnnprp2TciAK1aO", 
+                "id": "29ijED2bnnprp2TciAK1aO", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/26f7e576fdb359276baeefd6bb40018376e664fa", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 320, 
+                        "url": "https://i.scdn.co/image/2616d02877f7187a974cdb7dbbaefc1783ef8910", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 160, 
+                        "url": "https://i.scdn.co/image/359e122432ab86ef00e4a1331ebd8a089eb81312", 
+                        "width": 160
+                    }
+                ], 
+                "name": "Drake White", 
+                "popularity": 52, 
+                "type": "artist", 
+                "uri": "spotify:artist:29ijED2bnnprp2TciAK1aO"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 230190
+                }, 
+                "genres": [
+                    "post-teen pop"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/03ilIKH0i08IxmjKcn63ne", 
+                "id": "03ilIKH0i08IxmjKcn63ne", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/8a5b3d79e60dfd8c024be2cae7fe7a9d78ed01b2", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 320, 
+                        "url": "https://i.scdn.co/image/791a797e5a6e3b33eaa6a2fbf44cf99149c061a1", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 160, 
+                        "url": "https://i.scdn.co/image/7b002b864455e66bad45907252ab3a82c5c20c91", 
+                        "width": 160
+                    }
+                ], 
+                "name": "Drake Bell", 
+                "popularity": 59, 
+                "type": "artist", 
+                "uri": "spotify:artist:03ilIKH0i08IxmjKcn63ne"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 950
+                }, 
+                "genres": [
+                    "la pop"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/7rvB7ONJSqlmaCrcbhelir", 
+                "id": "7rvB7ONJSqlmaCrcbhelir", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/e2602c9a0c6f19c940b192ee2f08d304531cd82b", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 320, 
+                        "url": "https://i.scdn.co/image/9e6c6c3e6b8ac21f02c65f91b602dc853e20bac2", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 160, 
+                        "url": "https://i.scdn.co/image/6889775e667bb5266544d11b964b34fe7fbc6175", 
+                        "width": 160
+                    }
+                ], 
+                "name": "Jamie Drake", 
+                "popularity": 47, 
+                "type": "artist", 
+                "uri": "spotify:artist:7rvB7ONJSqlmaCrcbhelir"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3KLA7mvD10XxcjRbo3uTdB"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 5772
+                }, 
+                "genres": [
+                    "epicore", 
+                    "scorecore", 
+                    "soundtrack", 
+                    "video game music"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/3KLA7mvD10XxcjRbo3uTdB", 
+                "id": "3KLA7mvD10XxcjRbo3uTdB", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/0ce2215ad4b8ec6c5ce80caaa2bd96a3634a2a06", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 300, 
+                        "url": "https://i.scdn.co/image/b8f2dd08f7df065900665ac415d1966def7b35df", 
+                        "width": 300
+                    }, 
+                    {
+                        "height": 64, 
+                        "url": "https://i.scdn.co/image/a99735a571b590057d698e235e97bd6306ef7ba9", 
+                        "width": 64
+                    }
+                ], 
+                "name": "Christopher Drake", 
+                "popularity": 45, 
+                "type": "artist", 
+                "uri": "spotify:artist:3KLA7mvD10XxcjRbo3uTdB"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Zpu1Fk4QY2RYZj9rDlNnr"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 15
+                }, 
+                "genres": [], 
+                "href": "https://api.spotify.com/v1/artists/4Zpu1Fk4QY2RYZj9rDlNnr", 
+                "id": "4Zpu1Fk4QY2RYZj9rDlNnr", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/092cbafc7462dda74a631f5ae075b18ba77ea22a", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 300, 
+                        "url": "https://i.scdn.co/image/903755d6a11dd7149a55020c714eb44d4857984b", 
+                        "width": 300
+                    }, 
+                    {
+                        "height": 64, 
+                        "url": "https://i.scdn.co/image/1907448799b13be57616ec984ab63e958fd82beb", 
+                        "width": 64
+                    }
+                ], 
+                "name": "Drake Jackson", 
+                "popularity": 28, 
+                "type": "artist", 
+                "uri": "spotify:artist:4Zpu1Fk4QY2RYZj9rDlNnr"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0Jm1S6ygzF2F9XYWJCf6Hu"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 1501
+                }, 
+                "genres": [], 
+                "href": "https://api.spotify.com/v1/artists/0Jm1S6ygzF2F9XYWJCf6Hu", 
+                "id": "0Jm1S6ygzF2F9XYWJCf6Hu", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/5ea2b72632025ada984fe60729cc4c8e4a197a4d", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 320, 
+                        "url": "https://i.scdn.co/image/88d3706cf07a32a617f070f6f8f1d970bb366652", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 160, 
+                        "url": "https://i.scdn.co/image/d0479f765295706eb809fe8d4e39392893c737ac", 
+                        "width": 160
+                    }
+                ], 
+                "name": "Drake Chisholm", 
+                "popularity": 31, 
+                "type": "artist", 
+                "uri": "spotify:artist:0Jm1S6ygzF2F9XYWJCf6Hu"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/15QFACW5Ds2oQABA1Atqxs"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 2443
+                }, 
+                "genres": [
+                    "steel guitar"
+                ], 
+                "href": "https://api.spotify.com/v1/artists/15QFACW5Ds2oQABA1Atqxs", 
+                "id": "15QFACW5Ds2oQABA1Atqxs", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/a455f16540f6cb16e80fed67392f782d700a157a", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 300, 
+                        "url": "https://i.scdn.co/image/afcb0263096cf7c6b7b7c5d293655c5499900801", 
+                        "width": 300
+                    }, 
+                    {
+                        "height": 64, 
+                        "url": "https://i.scdn.co/image/d385e723fe702693e6eb32009f43faada7e27f61", 
+                        "width": 64
+                    }
+                ], 
+                "name": "Pete Drake", 
+                "popularity": 31, 
+                "type": "artist", 
+                "uri": "spotify:artist:15QFACW5Ds2oQABA1Atqxs"
+            }, 
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+                }, 
+                "followers": {
+                    "href": null, 
+                    "total": 397
+                }, 
+                "genres": [], 
+                "href": "https://api.spotify.com/v1/artists/2y7pPMQioLwMFUKhK9Pyow", 
+                "id": "2y7pPMQioLwMFUKhK9Pyow", 
+                "images": [
+                    {
+                        "height": 640, 
+                        "url": "https://i.scdn.co/image/95d7829c5c51b0fa86e608451249c77bfb638496", 
+                        "width": 640
+                    }, 
+                    {
+                        "height": 320, 
+                        "url": "https://i.scdn.co/image/b9e76b9bb9d7986daaeef371031f51401c0346b8", 
+                        "width": 320
+                    }, 
+                    {
+                        "height": 160, 
+                        "url": "https://i.scdn.co/image/1e09f8eef4a2a7ab1c0fd4017d14b704c72e5e9d", 
+                        "width": 160
+                    }
+                ], 
+                "name": "Eleni Drake", 
+                "popularity": 31, 
+                "type": "artist", 
+                "uri": "spotify:artist:2y7pPMQioLwMFUKhK9Pyow"
+            }
+        ], 
+        "limit": 10, 
+        "next": "https://api.spotify.com/v1/search?query=artist%3ADrake&type=artist&offset=10&limit=10", 
+        "offset": 0, 
+        "previous": null, 
+        "total": 445
+    }
+}
