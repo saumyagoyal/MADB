@@ -4,8 +4,12 @@ import json
 
 data_points = []
 result = requests.get('https://itunes.apple.com/search?term=guns+and+roses&limit=1')
-print (result.status_code)
-data_points.append(json.loads(result.text))
+
+# url='https://api.music.apple.com/v1/me/library/playlists'
+# auth_key=''
+# result = requests.get(url, headers={'Authorization': 'Bearer %s' % auth_key})
+# print (result.status_code)
+# data_points.append(json.loads(result.text))
 
 with open('apple_play.json', 'a+') as file:
 		file.write(json.dumps(data_points, indent=4, sort_keys=True))
