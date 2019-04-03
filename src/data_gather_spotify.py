@@ -20,6 +20,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager) #spo
 
 playlist_id=['37i9dQZEVXbLRQDuF5jeBp','37i9dQZEVXbKuaTI1Z1Afx']
 auth_key='BQBkt5GvvtxIomiHtfqjCQnw-JlhE56Jlpt77ReLZRpwB2e8cT6_omn9cvJRtgz4cFpeRIAydBXhORCDYXxbdvmtGpV0lTd_krFuyeymYVYHw2NdOqhvM0RPXNf5CIQpIWNJCJLkOB3c6K7JHoiragAwmkOhQ-8yIQ'
+data_points = []
 
 for i in playlist_id:
 	url= "https://api.spotify.com/v1/playlists/"+i+"/tracks"
@@ -27,8 +28,9 @@ for i in playlist_id:
 	auth_key='BQBkt5GvvtxIomiHtfqjCQnw-JlhE56Jlpt77ReLZRpwB2e8cT6_omn9cvJRtgz4cFpeRIAydBXhORCDYXxbdvmtGpV0lTd_krFuyeymYVYHw2NdOqhvM0RPXNf5CIQpIWNJCJLkOB3c6K7JHoiragAwmkOhQ-8yIQ'
 	result = requests.get(url, headers={'Authorization': 'Bearer %s' % auth_key})#, params=parameters)
 	print (result.status_code)
-	new = json.loads(result.text)
-	with open('file_play.json', 'w') as file:
-    	file.write(json.dumps(new, indent=4, sort_keys=True)) 
+	data_points.append(json.loads(result.text))
+
+with open('spotify_play.json', 'a+') as file:
+		file.write(json.dumps(data_points, indent=4, sort_keys=True))
 
 # Source, Artist_id, artist_name, track_id, track_name, popularity_of_track
