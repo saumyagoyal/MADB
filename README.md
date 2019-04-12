@@ -17,6 +17,12 @@ The following steps need to be performed:
 * Enter all details on the registration page and hit Submit
 * If success message shown, go to user_data.csv and verify
 
+## Sample User Data
+id,name,email,genre
+ss11485@nyu.edu,Saurabh,ss11485@nyu.edu,Rock
+smc324@nyu.edu,Suzanne,smc324@nyu.edu,Soul/R&B
+hp17@nyu.edu,Harry,hp17@nyu.edu,Jazz
+
 # Napster Data
 
 ## Napster Data Schema
@@ -34,4 +40,9 @@ params = {
 	"apikey" : "xxx",
 	"limit": 10
 }
-* Data is stored and appended to a CSV File called napster_play.csv 
+* Data is stored and appended to a CSV File called napster_play.csv
+
+## Napster Data CSV
+* Data is stored in a CSV format using the data scheme given above. For example,
+id,artist_name,track_name,track_url,genre
+2019-04-12 11:43:12.109128_1,Billie Eilish,bad guy,https://listen.hs.llnwd.net/g3/3/6/7/2/7/1496172763.mp3,Alternative
