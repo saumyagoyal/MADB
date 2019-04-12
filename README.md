@@ -12,7 +12,7 @@ The following steps need to be performed:
 
 ## Running Flask API
 * Go to command line and type python user_data.py
-* Once the server is running successfully, go to browser and type http://localhost:5000 (**Please disable Autofill in browser settings)
+* Once the server is running successfully, go to browser and type http://localhost:5000 (**Please disable Autofill in browser settings**)
 * Genre is populated using the Napster Genre API call
 * Enter all details on the registration page and hit Submit
 * If success message shown, go to user_data.csv and verify
