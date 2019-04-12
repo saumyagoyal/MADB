@@ -8,11 +8,11 @@ Client Secret 14d1aa898da940f2b06947620e366578
 
 **Download Python 3 and the following modules**
 *Flask - pip install flask
-*WTForms - pip install wtforms
+WTForms - pip install wtforms
 
 **To run the Flask Service:
 
 *Go to command line and type python user_data.py
-*Open your browser and go to http://localhost:5000
-*Enter the required details and hit Submit
-*If shown success message, open user_data.csv and verify if the registration details were appended
+Open your browser and go to http://localhost:5000
+Enter the required details and hit Submit
+If shown success message, open user_data.csv and verify if the registration details were appended
