@@ -18,10 +18,10 @@ The following steps need to be performed:
 * If success message shown, go to user_data.csv and verify
 
 ## Sample User Data
-id,name,email,genre
-ss11485@nyu.edu,Saurabh,ss11485@nyu.edu,Rock
-smc324@nyu.edu,Suzanne,smc324@nyu.edu,Soul/R&B
-hp17@nyu.edu,Harry,hp17@nyu.edu,Jazz
+* id,name,email,genre
+* ss11485@nyu.edu,Saurabh,ss11485@nyu.edu,Rock
+* smc324@nyu.edu,Suzanne,smc324@nyu.edu,Soul/R&B
+* hp17@nyu.edu,Harry,hp17@nyu.edu,Jazz
 
 # Napster Data
 
@@ -34,7 +34,7 @@ hp17@nyu.edu,Harry,hp17@nyu.edu,Jazz
 
 ## Napster Code
 * The Python code uses the Napster Public API - 
-e.g. 
+* e.g. 
 url= "http://api.napster.com/v2.2/genres/g.397/tracks/top"
 params = {
 	"apikey" : "xxx",
@@ -44,5 +44,5 @@ params = {
 
 ## Napster Data CSV
 * Data is stored in a CSV format using the data scheme given above. For example,
-id,artist_name,track_name,track_url,genre
-2019-04-12 11:43:12.109128_1,Billie Eilish,bad guy,https://listen.hs.llnwd.net/g3/3/6/7/2/7/1496172763.mp3,Alternative
+* id,artist_name,track_name,track_url,genre
+* 2019-04-12 11:43:12.109128_1,Billie Eilish,bad guy,https://listen.hs.llnwd.net/g3/3/6/7/2/7/1496172763.mp3,Alternative
