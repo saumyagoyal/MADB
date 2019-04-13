@@ -6,7 +6,8 @@ data_points = []
 
 url= "http://ws.audioscrobbler.com/2.0/"
 params = {
-	"method": "chart.gettoptracks",
+	"method": "tag.gettoptracks",
+	"tag": "disco"
 	"api_key": "e86f0e6ebb5cf5776b4276d520ea541e",
 	"format": "json"
 }
