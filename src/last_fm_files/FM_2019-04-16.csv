@@ -1,401 +1,400 @@
-Id,Genre,Artist,Song,Listeners,URL
-2019-04-16 22:48:41.431182_1,pop,Oasis,Wonderwall,1878153,https://www.last.fm/music/Oasis/_/Wonderwall
-2019-04-16 22:48:41.597582_2,pop,The Killers,Somebody Told Me,1654089,https://www.last.fm/music/The+Killers/_/Somebody+Told+Me
-2019-04-16 22:48:41.891554_3,pop,Coldplay,Viva la Vida,1637523,https://www.last.fm/music/Coldplay/_/Viva+la+Vida
-2019-04-16 22:48:42.043536_4,pop,Coldplay,Clocks,1615836,https://www.last.fm/music/Coldplay/_/Clocks
-2019-04-16 22:48:42.262349_5,pop,Coldplay,The Scientist,1607673,https://www.last.fm/music/Coldplay/_/The+Scientist
-2019-04-16 22:48:42.423838_6,pop,MGMT,Kids,1587041,https://www.last.fm/music/MGMT/_/Kids
-2019-04-16 22:48:42.581115_7,pop,Coldplay,Yellow,1573056,https://www.last.fm/music/Coldplay/_/Yellow
-2019-04-16 22:48:42.730847_8,pop,Coldplay,Fix You,1493265,https://www.last.fm/music/Coldplay/_/Fix+You
-2019-04-16 22:48:42.887784_9,pop,Gorillaz,Feel Good Inc.,1493044,https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.
-2019-04-16 22:48:43.042184_10,pop,Lady Gaga,Poker Face,1443981,https://www.last.fm/music/Lady+Gaga/_/Poker+Face
-2019-04-16 22:48:43.193089_11,pop,Snow Patrol,Chasing Cars,1386242,https://www.last.fm/music/Snow+Patrol/_/Chasing+Cars
-2019-04-16 22:48:43.346511_12,pop,Ke$ha,TiK ToK,1329947,https://www.last.fm/music/Ke$ha/_/TiK+ToK
-2019-04-16 22:48:43.635153_13,pop,Goo Goo Dolls,Iris,1306919,https://www.last.fm/music/Goo+Goo+Dolls/_/Iris
-2019-04-16 22:48:43.936932_14,pop,Jason Mraz,I'm Yours,1285137,https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours
-2019-04-16 22:48:44.093076_15,pop,Adele,Rolling in the Deep,1252856,https://www.last.fm/music/Adele/_/Rolling+in+the+Deep
-2019-04-16 22:48:44.420501_16,pop,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
-2019-04-16 22:48:44.604008_17,pop,Foster the People,Pumped Up Kicks,1230181,https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks
-2019-04-16 22:48:44.890930_18,pop,Michael Jackson,Billie Jean,1215483,https://www.last.fm/music/Michael+Jackson/_/Billie+Jean
-2019-04-16 22:48:45.048933_19,pop,R.E.M.,Losing My Religion,1198163,https://www.last.fm/music/R.E.M./_/Losing+My+Religion
-2019-04-16 22:48:45.265615_20,pop,Katy Perry,I Kissed a Girl,1195771,https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl
-2019-04-16 22:48:45.418445_21,pop,Amy Winehouse,Rehab,1181382,https://www.last.fm/music/Amy+Winehouse/_/Rehab
-2019-04-16 22:48:45.581058_22,pop,The Killers,Smile Like You Mean It,1175591,https://www.last.fm/music/The+Killers/_/Smile+Like+You+Mean+It
-2019-04-16 22:48:45.802903_23,pop,The Verve,Bitter Sweet Symphony,1166438,https://www.last.fm/music/The+Verve/_/Bitter+Sweet+Symphony
-2019-04-16 22:48:46.102619_24,pop,Amy Winehouse,Back to Black,1162709,https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black
-2019-04-16 22:48:46.257377_25,pop,a-ha,Take on Me,1154125,https://www.last.fm/music/a-ha/_/Take+on+Me
-2019-04-16 22:48:46.411483_26,pop,M.I.A.,Paper Planes,1143835,https://www.last.fm/music/M.I.A./_/Paper+Planes
-2019-04-16 22:48:46.563201_27,pop,The Fray,How to Save a Life,1142705,https://www.last.fm/music/The+Fray/_/How+to+Save+a+Life
-2019-04-16 22:48:46.716033_28,pop,Coldplay,Don't Panic,1140927,https://www.last.fm/music/Coldplay/_/Don%27t+Panic
-2019-04-16 22:48:46.943917_29,pop,Lady Gaga,Bad Romance,1140580,https://www.last.fm/music/Lady+Gaga/_/Bad+Romance
-2019-04-16 22:48:47.101504_30,pop,Maroon 5,She Will Be Loved,1129700,https://www.last.fm/music/Maroon+5/_/She+Will+Be+Loved
-2019-04-16 22:48:47.257117_31,pop,Florence + the Machine,Dog Days Are Over,1129375,https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over
-2019-04-16 22:48:47.412034_32,pop,The Postal Service,Such Great Heights,1117928,https://www.last.fm/music/The+Postal+Service/_/Such+Great+Heights
-2019-04-16 22:48:47.654682_33,pop,Coldplay,In My Place,1116217,https://www.last.fm/music/Coldplay/_/In+My+Place
-2019-04-16 22:48:47.889268_34,pop,Coldplay,Trouble,1114302,https://www.last.fm/music/Coldplay/_/Trouble
-2019-04-16 22:48:48.039403_35,pop,Gnarls Barkley,Crazy,1109377,https://www.last.fm/music/Gnarls+Barkley/_/Crazy
-2019-04-16 22:48:48.204542_36,pop,Coldplay,Speed of Sound,1083298,https://www.last.fm/music/Coldplay/_/Speed+of+Sound
-2019-04-16 22:48:48.362957_37,pop,Kanye West,Heartless,1079992,https://www.last.fm/music/Kanye+West/_/Heartless
-2019-04-16 22:48:48.588010_38,pop,Lady Gaga,Paparazzi,1068997,https://www.last.fm/music/Lady+Gaga/_/Paparazzi
-2019-04-16 22:48:48.765981_39,pop,Keane,Somewhere Only We Know,1067224,https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know
-2019-04-16 22:48:48.930200_40,pop,Maroon 5,This Love,1064940,https://www.last.fm/music/Maroon+5/_/This+Love
-2019-04-16 22:48:49.098573_41,pop,Michael Jackson,Thriller,1050566,https://www.last.fm/music/Michael+Jackson/_/Thriller
-2019-04-16 22:48:49.247748_42,pop,Gorillaz,DARE,1049957,https://www.last.fm/music/Gorillaz/_/DARE
-2019-04-16 22:48:49.397779_43,pop,The Cure,Friday I'm in Love,1044896,https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love
-2019-04-16 22:48:49.553898_44,pop,Amy Winehouse,You Know I'm No Good,1041174,https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good
-2019-04-16 22:48:49.772215_45,pop,Gotye,Somebody That I Used To Know,1039878,https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+To+Know
-2019-04-16 22:48:50.076344_46,pop,Lady Gaga,Just Dance,1032046,https://www.last.fm/music/Lady+Gaga/_/Just+Dance
-2019-04-16 22:48:50.238395_47,pop,U2,With or Without You,802372,https://www.last.fm/music/U2/_/With+or+Without+You
-2019-04-16 22:48:50.476061_48,pop,Coldplay,Violet Hill,1005222,https://www.last.fm/music/Coldplay/_/Violet+Hill
-2019-04-16 22:48:50.779138_49,pop,Simon & Garfunkel,The Sound of Silence,999438,https://www.last.fm/music/Simon+&+Garfunkel/_/The+Sound+of+Silence
-2019-04-16 22:48:50.933600_50,pop,Weezer,Island in the Sun,998754,https://www.last.fm/music/Weezer/_/Island+in+the+Sun
-2019-04-16 22:48:51.261508_1,classical,Ludwig van Beethoven,Für Elise,482830,https://www.last.fm/music/Ludwig+van+Beethoven/_/F%C3%BCr+Elise
-2019-04-16 22:48:51.411176_2,classical,Claude Debussy,Clair de lune,467836,https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune
-2019-04-16 22:48:51.574394_3,classical,Ludwig van Beethoven,Moonlight Sonata,349627,https://www.last.fm/music/Ludwig+van+Beethoven/_/Moonlight+Sonata
-2019-04-16 22:48:51.864370_4,classical,Yann Tiersen,Sur le fil,323674,https://www.last.fm/music/Yann+Tiersen/_/Sur+le+fil
-2019-04-16 22:48:52.017456_5,classical,Gorillaz,Orchestral Intro,320068,https://www.last.fm/music/Gorillaz/_/Orchestral+Intro
-2019-04-16 22:48:52.189732_6,classical,Yann Tiersen,Le Moulin,309888,https://www.last.fm/music/Yann+Tiersen/_/Le+Moulin
-2019-04-16 22:48:52.350383_7,classical,Yann Tiersen,La Dispute,308481,https://www.last.fm/music/Yann+Tiersen/_/La+Dispute
-2019-04-16 22:48:52.523792_8,classical,Yann Tiersen,A quai,284873,https://www.last.fm/music/Yann+Tiersen/_/A+quai
-2019-04-16 22:48:52.696765_9,classical,Zara Larsson,Lush Life,283656,https://www.last.fm/music/Zara+Larsson/_/Lush+Life
-2019-04-16 22:48:52.856766_10,classical,Ludwig van Beethoven,Symphony No. 9 (Scherzo),280629,https://www.last.fm/music/Ludwig+van+Beethoven/_/Symphony+No.+9+(Scherzo)
-2019-04-16 22:48:53.028823_11,classical,Yann Tiersen,La Noyée,274902,https://www.last.fm/music/Yann+Tiersen/_/La+Noy%C3%A9e
-2019-04-16 22:48:53.192354_12,classical,Agnes Obel,Riverside,261245,https://www.last.fm/music/Agnes+Obel/_/Riverside
-2019-04-16 22:48:53.355918_13,classical,Ludovico Einaudi,Nuvole Bianche,258967,https://www.last.fm/music/Ludovico+Einaudi/_/Nuvole+Bianche
-2019-04-16 22:48:53.518138_14,classical,Howard Shore,Concerning Hobbits,252502,https://www.last.fm/music/Howard+Shore/_/Concerning+Hobbits
-2019-04-16 22:48:53.818990_15,classical,Ludovico Einaudi,Divenire,245159,https://www.last.fm/music/Ludovico+Einaudi/_/Divenire
-2019-04-16 22:48:54.113070_16,classical,Yiruma,River Flows in You,244408,https://www.last.fm/music/Yiruma/_/River+Flows+in+You
-2019-04-16 22:48:54.277071_17,classical,Daft Punk,Adagio for Tron,243365,https://www.last.fm/music/Daft+Punk/_/Adagio+for+Tron
-2019-04-16 22:48:54.510795_18,classical,Johannes Brahms,Hungarian Dance No. 5,239346,https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5
-2019-04-16 22:48:54.810561_19,classical,Ludovico Einaudi,Fly,1050137,https://www.last.fm/music/Ludovico+Einaudi/_/Fly
-2019-04-16 22:48:54.961158_20,classical,Johann Sebastian Bach,Air,961723,https://www.last.fm/music/Johann+Sebastian+Bach/_/Air
-2019-04-16 22:48:55.129521_21,classical,Franz Schubert,Ave Maria,190190,https://www.last.fm/music/Franz+Schubert/_/Ave+Maria
-2019-04-16 22:48:55.295291_22,classical,Samuel Barber,Adagio For Strings,304846,https://www.last.fm/music/Samuel+Barber/_/Adagio+For+Strings
-2019-04-16 22:48:55.451542_23,classical,Ludovico Einaudi,Primavera,227124,https://www.last.fm/music/Ludovico+Einaudi/_/Primavera
-2019-04-16 22:48:55.607706_24,classical,Maurice Ravel,Bolero,213208,https://www.last.fm/music/Maurice+Ravel/_/Bolero
-2019-04-16 22:48:55.766221_25,classical,Muse,Prelude,249306,https://www.last.fm/music/Muse/_/Prelude
-2019-04-16 22:48:55.928789_26,classical,Richard Wagner,Ride of the Valkyries,204356,https://www.last.fm/music/Richard+Wagner/_/Ride+of+the+Valkyries
-2019-04-16 22:48:56.101117_27,classical,Clint Mansell,Together We Will Live Forever,203768,https://www.last.fm/music/Clint+Mansell/_/Together+We+Will+Live+Forever
-2019-04-16 22:48:56.271331_28,classical,Wolfgang Amadeus Mozart,Requiem,179243,https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Requiem
-2019-04-16 22:48:56.486930_29,classical,Coldplay,Postcards from Far Away,201111,https://www.last.fm/music/Coldplay/_/Postcards+from+Far+Away
-2019-04-16 22:48:56.656554_30,classical,Wolfgang Amadeus Mozart,Eine kleine Nachtmusik,199066,https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Eine+kleine+Nachtmusik
-2019-04-16 22:48:56.959778_31,classical,Max Richter,On the Nature of Daylight,195051,https://www.last.fm/music/Max+Richter/_/On+the+Nature+of+Daylight
-2019-04-16 22:48:57.265403_32,classical,Ludovico Einaudi,Le Onde,194835,https://www.last.fm/music/Ludovico+Einaudi/_/Le+Onde
-2019-04-16 22:48:57.433506_33,classical,Johann Sebastian Bach,Air on a G String,186796,https://www.last.fm/music/Johann+Sebastian+Bach/_/Air+on+a+G+String
-2019-04-16 22:48:57.585160_34,classical,Max Richter,Vladimir's Blues,186210,https://www.last.fm/music/Max+Richter/_/Vladimir%27s+Blues
-2019-04-16 22:48:57.739002_35,classical,Dua Lipa,Be The One,185703,https://www.last.fm/music/Dua+Lipa/_/Be+The+One
-2019-04-16 22:48:57.903732_36,classical,George Gershwin,Rhapsody in Blue,183356,https://www.last.fm/music/George+Gershwin/_/Rhapsody+in+Blue
-2019-04-16 22:48:58.055124_37,classical,Max Richter,Written on the Sky,181705,https://www.last.fm/music/Max+Richter/_/Written+on+the+Sky
-2019-04-16 22:48:58.220457_38,classical,Edvard Grieg,In the Hall of the Mountain King,177477,https://www.last.fm/music/Edvard+Grieg/_/In+the+Hall+of+the+Mountain+King
-2019-04-16 22:48:58.395900_39,classical,Philip Glass,Opening,174197,https://www.last.fm/music/Philip+Glass/_/Opening
-2019-04-16 22:48:58.628915_40,classical,Jon Hopkins,Small Memory,173198,https://www.last.fm/music/Jon+Hopkins/_/Small+Memory
-2019-04-16 22:48:58.793635_41,classical,Dua Lipa,Blow Your Mind (Mwah),169435,https://www.last.fm/music/Dua+Lipa/_/Blow+Your+Mind+(Mwah)
-2019-04-16 22:48:58.943943_42,classical,Hans Zimmer,Now We Are Free,168587,https://www.last.fm/music/Hans+Zimmer/_/Now+We+Are+Free
-2019-04-16 22:48:59.093893_43,classical,Ludovico Einaudi,Una Mattina,167441,https://www.last.fm/music/Ludovico+Einaudi/_/Una+Mattina
-2019-04-16 22:48:59.317553_44,classical,Adiemus,Adiemus,166578,https://www.last.fm/music/Adiemus/_/Adiemus
-2019-04-16 22:48:59.475128_45,classical,Ludovico Einaudi,I giorni,165933,https://www.last.fm/music/Ludovico+Einaudi/_/I+giorni
-2019-04-16 22:48:59.716291_46,classical,Arvo Pärt,Spiegel im Spiegel,165363,https://www.last.fm/music/Arvo+P%C3%A4rt/_/Spiegel+im+Spiegel
-2019-04-16 22:48:59.879971_47,classical,Johann Pachelbel,Canon in D Major,164264,https://www.last.fm/music/Johann+Pachelbel/_/Canon+in+D+Major
-2019-04-16 22:49:00.100671_48,classical,Vampire Weekend,Young Lion,163445,https://www.last.fm/music/Vampire+Weekend/_/Young+Lion
-2019-04-16 22:49:00.256925_49,classical,Apocalyptica,Enter Sandman,1114497,https://www.last.fm/music/Apocalyptica/_/Enter+Sandman
-2019-04-16 22:49:00.547127_50,classical,Eluvium,Prelude for Time Feelers,162055,https://www.last.fm/music/Eluvium/_/Prelude+for+Time+Feelers
-2019-04-16 22:49:01.080438_1,rock,Nirvana,Smells Like Teen Spirit,2066060,https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit
-2019-04-16 22:49:01.229779_2,rock,The Killers,Mr. Brightside,1981103,https://www.last.fm/music/The+Killers/_/Mr.+Brightside
-2019-04-16 22:49:01.379131_3,rock,Oasis,Wonderwall,1878153,https://www.last.fm/music/Oasis/_/Wonderwall
-2019-04-16 22:49:01.543682_4,rock,Nirvana,Come as You Are,1821802,https://www.last.fm/music/Nirvana/_/Come+as+You+Are
-2019-04-16 22:49:01.776737_5,rock,Franz Ferdinand,Take Me Out,1673872,https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out
-2019-04-16 22:49:01.923430_6,rock,The Killers,Somebody Told Me,1654089,https://www.last.fm/music/The+Killers/_/Somebody+Told+Me
-2019-04-16 22:49:02.071377_7,rock,Radiohead,Creep,1637968,https://www.last.fm/music/Radiohead/_/Creep
-2019-04-16 22:49:02.309549_8,rock,Coldplay,Viva la Vida,1637523,https://www.last.fm/music/Coldplay/_/Viva+la+Vida
-2019-04-16 22:49:02.598202_9,rock,Radiohead,Karma Police,1629065,https://www.last.fm/music/Radiohead/_/Karma+Police
-2019-04-16 22:49:02.900819_10,rock,Coldplay,Clocks,1615836,https://www.last.fm/music/Coldplay/_/Clocks
-2019-04-16 22:49:03.068385_11,rock,Red Hot Chili Peppers,Californication,1609029,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication
-2019-04-16 22:49:03.219785_12,rock,Coldplay,The Scientist,1607673,https://www.last.fm/music/Coldplay/_/The+Scientist
-2019-04-16 22:49:03.446217_13,rock,Coldplay,Yellow,1573056,https://www.last.fm/music/Coldplay/_/Yellow
-2019-04-16 22:49:03.675508_14,rock,Red Hot Chili Peppers,Under the Bridge,1536919,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge
-2019-04-16 22:49:03.843151_15,rock,The White Stripes,Seven Nation Army,1511001,https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army
-2019-04-16 22:49:03.995145_16,rock,System of a Down,Chop Suey!,1503958,https://www.last.fm/music/System+of+a+Down/_/Chop+Suey%21
-2019-04-16 22:49:04.165727_17,rock,Coldplay,Fix You,1493265,https://www.last.fm/music/Coldplay/_/Fix+You
-2019-04-16 22:49:04.327077_18,rock,Gorillaz,Feel Good Inc.,1493044,https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.
-2019-04-16 22:49:04.554275_19,rock,Kings of Leon,Sex on Fire,1484123,https://www.last.fm/music/Kings+of+Leon/_/Sex+on+Fire
-2019-04-16 22:49:04.721993_20,rock,Blur,Song 2,1452229,https://www.last.fm/music/Blur/_/Song+2
-2019-04-16 22:49:04.879297_21,rock,Nirvana,Lithium,1449236,https://www.last.fm/music/Nirvana/_/Lithium
-2019-04-16 22:49:05.083466_22,rock,Linkin Park,In the End,1410919,https://www.last.fm/music/Linkin+Park/_/In+the+End
-2019-04-16 22:49:05.389159_23,rock,Snow Patrol,Chasing Cars,1386242,https://www.last.fm/music/Snow+Patrol/_/Chasing+Cars
-2019-04-16 22:49:05.538921_24,rock,Guns N' Roses,Sweet Child o' Mine,10567,https://www.last.fm/music/Guns+N%27+Roses/_/Sweet+Child+o%27+Mine
-2019-04-16 22:49:05.701021_25,rock,Red Hot Chili Peppers,Scar Tissue,1377557,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Scar+Tissue
-2019-04-16 22:49:05.868203_26,rock,Queen,Bohemian Rhapsody,1371704,https://www.last.fm/music/Queen/_/Bohemian+Rhapsody
-2019-04-16 22:49:06.094849_27,rock,Red Hot Chili Peppers,Otherside,1367657,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Otherside
-2019-04-16 22:49:06.256851_28,rock,The Killers,When You Were Young,1366959,https://www.last.fm/music/The+Killers/_/When+You+Were+Young
-2019-04-16 22:49:06.556844_29,rock,Muse,Supermassive Black Hole,1363149,https://www.last.fm/music/Muse/_/Supermassive+Black+Hole
-2019-04-16 22:49:06.713936_30,rock,Kings of Leon,Use Somebody,1359439,https://www.last.fm/music/Kings+of+Leon/_/Use+Somebody
-2019-04-16 22:49:06.872510_31,rock,Muse,Starlight,1353016,https://www.last.fm/music/Muse/_/Starlight
-2019-04-16 22:49:07.021711_32,rock,Radiohead,Paranoid Android,1341255,https://www.last.fm/music/Radiohead/_/Paranoid+Android
-2019-04-16 22:49:07.320644_33,rock,Foo Fighters,Everlong,1323467,https://www.last.fm/music/Foo+Fighters/_/Everlong
-2019-04-16 22:49:07.469665_34,rock,Goo Goo Dolls,Iris,1306919,https://www.last.fm/music/Goo+Goo+Dolls/_/Iris
-2019-04-16 22:49:07.772058_35,rock,Radiohead,No Surprises,1305533,https://www.last.fm/music/Radiohead/_/No+Surprises
-2019-04-16 22:49:08.095690_36,rock,Led Zeppelin,Stairway to Heaven,1296161,https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven
-2019-04-16 22:49:08.254103_37,rock,Linkin Park,Numb,1274345,https://www.last.fm/music/Linkin+Park/_/Numb
-2019-04-16 22:49:08.418147_38,rock,Red Hot Chili Peppers,Dani California,1267212,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Dani+California
-2019-04-16 22:49:08.582097_39,rock,The Cranberries,Zombie,1260949,https://www.last.fm/music/The+Cranberries/_/Zombie
-2019-04-16 22:49:08.747538_40,rock,Arctic Monkeys,I Bet You Look Good on the Dancefloor,1251461,https://www.last.fm/music/Arctic+Monkeys/_/I+Bet+You+Look+Good+on+the+Dancefloor
-2019-04-16 22:49:08.910105_41,rock,Guns N' Roses,Welcome to the Jungle,1249992,https://www.last.fm/music/Guns+N%27+Roses/_/Welcome+to+the+Jungle
-2019-04-16 22:49:09.137284_42,rock,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
-2019-04-16 22:49:09.309525_43,rock,The Rolling Stones,Paint It Black,1233629,https://www.last.fm/music/The+Rolling+Stones/_/Paint+It+Black
-2019-04-16 22:49:09.462693_44,rock,The Killers,All These Things That I've Done,1229360,https://www.last.fm/music/The+Killers/_/All+These+Things+That+I%27ve+Done
-2019-04-16 22:49:09.621765_45,rock,Muse,Time Is Running Out,1228516,https://www.last.fm/music/Muse/_/Time+Is+Running+Out
-2019-04-16 22:49:09.768897_46,rock,Rage Against the Machine,Killing in the Name,1227767,https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name
-2019-04-16 22:49:09.931957_47,rock,Foo Fighters,The Pretender,1222789,https://www.last.fm/music/Foo+Fighters/_/The+Pretender
-2019-04-16 22:49:10.088495_48,rock,The Strokes,Reptilia,1220795,https://www.last.fm/music/The+Strokes/_/Reptilia
-2019-04-16 22:49:10.447460_49,rock,blink-182,All the Small Things,1202634,https://www.last.fm/music/blink-182/_/All+the+Small+Things
-2019-04-16 22:49:10.677962_50,rock,R.E.M.,Losing My Religion,1198163,https://www.last.fm/music/R.E.M./_/Losing+My+Religion
-2019-04-16 22:49:11.205750_1,jazz,Amy Winehouse,Rehab,1181382,https://www.last.fm/music/Amy+Winehouse/_/Rehab
-2019-04-16 22:49:11.497515_2,jazz,Amy Winehouse,Back to Black,1162709,https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black
-2019-04-16 22:49:11.653560_3,jazz,Amy Winehouse,You Know I'm No Good,1041174,https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good
-2019-04-16 22:49:11.880827_4,jazz,Amy Winehouse,Tears Dry on Their Own,855965,https://www.last.fm/music/Amy+Winehouse/_/Tears+Dry+on+Their+Own
-2019-04-16 22:49:12.070389_5,jazz,Louis Armstrong,What A Wonderful World,769021,https://www.last.fm/music/Louis+Armstrong/_/What+A+Wonderful+World
-2019-04-16 22:49:12.371625_6,jazz,Amy Winehouse,Love Is a Losing Game,768447,https://www.last.fm/music/Amy+Winehouse/_/Love+Is+a+Losing+Game
-2019-04-16 22:49:12.525366_7,jazz,Duffy,Mercy,756712,https://www.last.fm/music/Duffy/_/Mercy
-2019-04-16 22:49:12.682955_8,jazz,Norah Jones,Don't Know Why,746076,https://www.last.fm/music/Norah+Jones/_/Don%27t+Know+Why
-2019-04-16 22:49:12.850864_9,jazz,Aretha Franklin,Respect,734443,https://www.last.fm/music/Aretha+Franklin/_/Respect
-2019-04-16 22:49:13.153658_10,jazz,Radiohead,The National Anthem,733155,https://www.last.fm/music/Radiohead/_/The+National+Anthem
-2019-04-16 22:49:13.312168_11,jazz,Norah Jones,Come Away with Me,699062,https://www.last.fm/music/Norah+Jones/_/Come+Away+with+Me
-2019-04-16 22:49:13.601933_12,jazz,Amy Winehouse,Just Friends,649969,https://www.last.fm/music/Amy+Winehouse/_/Just+Friends
-2019-04-16 22:49:13.762635_13,jazz,Ray Charles,Hit the Road Jack,644023,https://www.last.fm/music/Ray+Charles/_/Hit+the+Road+Jack
-2019-04-16 22:49:13.926139_14,jazz,Amy Winehouse,Wake Up Alone,642295,https://www.last.fm/music/Amy+Winehouse/_/Wake+Up+Alone
-2019-04-16 22:49:14.140470_15,jazz,Corinne Bailey Rae,Put Your Records On,626921,https://www.last.fm/music/Corinne+Bailey+Rae/_/Put+Your+Records+On
-2019-04-16 22:49:14.360804_16,jazz,Amy Winehouse,He Can Only Hold Her,624751,https://www.last.fm/music/Amy+Winehouse/_/He+Can+Only+Hold+Her
-2019-04-16 22:49:14.665409_17,jazz,Nina Simone,Feeling Good,794026,https://www.last.fm/music/Nina+Simone/_/Feeling+Good
-2019-04-16 22:49:14.881495_18,jazz,Amy Winehouse,Some Unholy War,603783,https://www.last.fm/music/Amy+Winehouse/_/Some+Unholy+War
-2019-04-16 22:49:15.188623_19,jazz,Miles Davis,So What,692645,https://www.last.fm/music/Miles+Davis/_/So+What
-2019-04-16 22:49:15.419655_20,jazz,Norah Jones,Sunrise,557564,https://www.last.fm/music/Norah+Jones/_/Sunrise
-2019-04-16 22:49:15.730708_21,jazz,Miles Davis,Blue in Green,529340,https://www.last.fm/music/Miles+Davis/_/Blue+in+Green
-2019-04-16 22:49:15.964267_22,jazz,Norah Jones,Turn Me On,518083,https://www.last.fm/music/Norah+Jones/_/Turn+Me+On
-2019-04-16 22:49:16.192084_23,jazz,Frank Sinatra,My Way,547449,https://www.last.fm/music/Frank+Sinatra/_/My+Way
-2019-04-16 22:49:16.418018_24,jazz,Sting,Englishman in New York,489206,https://www.last.fm/music/Sting/_/Englishman+in+New+York
-2019-04-16 22:49:16.639866_25,jazz,Christina Aguilera,Ain't No Other Man,482461,https://www.last.fm/music/Christina+Aguilera/_/Ain%27t+No+Other+Man
-2019-04-16 22:49:16.864284_26,jazz,Amy Winehouse,Addicted,289784,https://www.last.fm/music/Amy+Winehouse/_/Addicted
-2019-04-16 22:49:17.085120_27,jazz,Adele,Cold Shoulder,473310,https://www.last.fm/music/Adele/_/Cold+Shoulder
-2019-04-16 22:49:17.314289_28,jazz,Christina Aguilera,Candyman,466361,https://www.last.fm/music/Christina+Aguilera/_/Candyman
-2019-04-16 22:49:17.625552_29,jazz,Adele,He Won't Go,466065,https://www.last.fm/music/Adele/_/He+Won%27t+Go
-2019-04-16 22:49:17.854588_30,jazz,The Cinematic Orchestra,To Build a Home,457973,https://www.last.fm/music/The+Cinematic+Orchestra/_/To+Build+a+Home
-2019-04-16 22:49:18.111659_31,jazz,Etta James,At Last,451205,https://www.last.fm/music/Etta+James/_/At+Last
-2019-04-16 22:49:18.416533_32,jazz,Daft Punk,Giorgio by Moroder,449573,https://www.last.fm/music/Daft+Punk/_/Giorgio+by+Moroder
-2019-04-16 22:49:18.635980_33,jazz,Van Morrison,Moondance,443594,https://www.last.fm/music/Van+Morrison/_/Moondance
-2019-04-16 22:49:18.859710_34,jazz,Björk,It's Oh So Quiet,443334,https://www.last.fm/music/Bj%C3%B6rk/_/It%27s+Oh+So+Quiet
-2019-04-16 22:49:19.180090_35,jazz,Ray Charles,Georgia On My Mind,428316,https://www.last.fm/music/Ray+Charles/_/Georgia+On+My+Mind
-2019-04-16 22:49:19.413541_36,jazz,Nina Simone,My Baby Just Cares for Me,424670,https://www.last.fm/music/Nina+Simone/_/My+Baby+Just+Cares+for+Me
-2019-04-16 22:49:19.636216_37,jazz,Adele,Best for Last,423799,https://www.last.fm/music/Adele/_/Best+for+Last
-2019-04-16 22:49:19.851574_38,jazz,Frank Sinatra,Fly Me to the Moon,420957,https://www.last.fm/music/Frank+Sinatra/_/Fly+Me+to+the+Moon
-2019-04-16 22:49:20.100054_39,jazz,Amy Winehouse,Me & Mr Jones,416320,https://www.last.fm/music/Amy+Winehouse/_/Me+&+Mr+Jones
-2019-04-16 22:49:20.330288_40,jazz,Miles Davis,Freddie Freeloader,411620,https://www.last.fm/music/Miles+Davis/_/Freddie+Freeloader
-2019-04-16 22:49:20.548477_41,jazz,Michael Bublé,Feeling Good,794026,https://www.last.fm/music/Michael+Bubl%C3%A9/_/Feeling+Good
-2019-04-16 22:49:20.785263_42,jazz,Norah Jones,Seven Years,257394,https://www.last.fm/music/Norah+Jones/_/Seven+Years
-2019-04-16 22:49:21.020834_43,jazz,Michael Bublé,Home,826874,https://www.last.fm/music/Michael+Bubl%C3%A9/_/Home
-2019-04-16 22:49:21.256370_44,jazz,Corinne Bailey Rae,Like a Star,401098,https://www.last.fm/music/Corinne+Bailey+Rae/_/Like+a+Star
-2019-04-16 22:49:21.497698_45,jazz,Nina Simone,I Put a Spell on You,400596,https://www.last.fm/music/Nina+Simone/_/I+Put+a+Spell+on+You
-2019-04-16 22:49:21.722485_46,jazz,Aretha Franklin,Think,584635,https://www.last.fm/music/Aretha+Franklin/_/Think
-2019-04-16 22:49:21.959675_47,jazz,Miles Davis,All Blues,392870,https://www.last.fm/music/Miles+Davis/_/All+Blues
-2019-04-16 22:49:22.184465_48,jazz,Buena Vista Social Club,Chan Chan,392669,https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan
-2019-04-16 22:49:22.473325_49,jazz,Frank Sinatra,I've Got You Under My Skin,391876,https://www.last.fm/music/Frank+Sinatra/_/I%27ve+Got+You+Under+My+Skin
-2019-04-16 22:49:22.702943_50,jazz,Frank Sinatra,Strangers in the Night,388180,https://www.last.fm/music/Frank+Sinatra/_/Strangers+in+the+Night
-2019-04-16 22:49:23.093023_1,rap,Kanye West,Stronger,1362543,https://www.last.fm/music/Kanye+West/_/Stronger
-2019-04-16 22:49:23.250145_2,rap,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
-2019-04-16 22:49:23.552539_3,rap,Lil' Wayne,Lollipop,1191882,https://www.last.fm/music/Lil%27+Wayne/_/Lollipop
-2019-04-16 22:49:23.768525_4,rap,Drake,Best I Ever Had,1083082,https://www.last.fm/music/Drake/_/Best+I+Ever+Had
-2019-04-16 22:49:23.922011_5,rap,Kanye West,Heartless,1079992,https://www.last.fm/music/Kanye+West/_/Heartless
-2019-04-16 22:49:24.087879_6,rap,50 Cent,In Da Club,971591,https://www.last.fm/music/50+Cent/_/In+Da+Club
-2019-04-16 22:49:24.392098_7,rap,Eminem,Lose Yourself,870816,https://www.last.fm/music/Eminem/_/Lose+Yourself
-2019-04-16 22:49:24.701479_8,rap,OutKast,Ms. Jackson,864914,https://www.last.fm/music/OutKast/_/Ms.+Jackson
-2019-04-16 22:49:24.857439_9,rap,T.I.,Whatever You Like,839757,https://www.last.fm/music/T.I./_/Whatever+You+Like
-2019-04-16 22:49:25.019071_10,rap,Dr. Dre,Still D.R.E.,825297,https://www.last.fm/music/Dr.+Dre/_/Still+D.R.E.
-2019-04-16 22:49:25.181330_11,rap,Jay-Z,99 Problems,819085,https://www.last.fm/music/Jay-Z/_/99+Problems
-2019-04-16 22:49:25.344873_12,rap,OutKast,Hey Ya!,813976,https://www.last.fm/music/OutKast/_/Hey+Ya%21
-2019-04-16 22:49:25.588857_13,rap,Ice Cube,It Was A Good Day,783153,https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day
-2019-04-16 22:49:25.748859_14,rap,The Notorious B.I.G.,Juicy,775669,https://www.last.fm/music/The+Notorious+B.I.G./_/Juicy
-2019-04-16 22:49:26.045815_15,rap,Eminem,Without Me,775137,https://www.last.fm/music/Eminem/_/Without+Me
-2019-04-16 22:49:26.209240_16,rap,Dr. Dre,The Next Episode,764494,https://www.last.fm/music/Dr.+Dre/_/The+Next+Episode
-2019-04-16 22:49:26.362624_17,rap,Eminem,The Real Slim Shady,753247,https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady
-2019-04-16 22:49:26.594585_18,rap,Kanye West,Love Lockdown,746851,https://www.last.fm/music/Kanye+West/_/Love+Lockdown
-2019-04-16 22:49:26.896535_19,rap,Kanye West,Can't Tell Me Nothing,744947,https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing
-2019-04-16 22:49:27.047503_20,rap,Black Eyed Peas,Boom Boom Pow,735289,https://www.last.fm/music/Black+Eyed+Peas/_/Boom+Boom+Pow
-2019-04-16 22:49:27.338645_21,rap,Kanye West,All of the Lights,721339,https://www.last.fm/music/Kanye+West/_/All+of+the+Lights
-2019-04-16 22:49:27.502760_22,rap,Beastie Boys,Sabotage,714766,https://www.last.fm/music/Beastie+Boys/_/Sabotage
-2019-04-16 22:49:27.665682_23,rap,The Game,Hate it or love it,486547,https://www.last.fm/music/The+Game/_/Hate+it+or+love+it
-2019-04-16 22:49:27.834517_24,rap,Lil' Wayne,Drop The World,700770,https://www.last.fm/music/Lil%27+Wayne/_/Drop+The+World
-2019-04-16 22:49:27.991092_25,rap,Coolio,Gangsta's Paradise,689359,https://www.last.fm/music/Coolio/_/Gangsta%27s+Paradise
-2019-04-16 22:49:28.148405_26,rap,Eminem,Not Afraid,56191,https://www.last.fm/music/Eminem/_/Not+Afraid
-2019-04-16 22:49:28.478906_27,rap,Drake,Forever,690350,https://www.last.fm/music/Drake/_/Forever
-2019-04-16 22:49:28.707078_28,rap,Kid Cudi,Soundtrack 2 My Life,664307,https://www.last.fm/music/Kid+Cudi/_/Soundtrack+2+My+Life
-2019-04-16 22:49:28.871184_29,rap,Wiz Khalifa,Say Yeah,661286,https://www.last.fm/music/Wiz+Khalifa/_/Say+Yeah
-2019-04-16 22:49:29.043734_30,rap,Black Eyed Peas,Pump It,650024,https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It
-2019-04-16 22:49:29.356496_31,rap,Eminem,Mockingbird,647363,https://www.last.fm/music/Eminem/_/Mockingbird
-2019-04-16 22:49:29.510526_32,rap,Kanye West,Power,646620,https://www.last.fm/music/Kanye+West/_/Power
-2019-04-16 22:49:29.802342_33,rap,Eminem,Sing for the Moment,634685,https://www.last.fm/music/Eminem/_/Sing+for+the+Moment
-2019-04-16 22:49:29.956418_34,rap,The Notorious B.I.G.,Hypnotize,742189,https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize
-2019-04-16 22:49:30.116705_35,rap,50 Cent,Candy Shop,633148,https://www.last.fm/music/50+Cent/_/Candy+Shop
-2019-04-16 22:49:30.273287_36,rap,Black Eyed Peas,Where Is the Love,628297,https://www.last.fm/music/Black+Eyed+Peas/_/Where+Is+the+Love
-2019-04-16 22:49:30.427609_37,rap,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),615341,https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Can%27t+Hold+Us+(feat.+Ray+Dalton)
-2019-04-16 22:49:30.583622_38,rap,Eminem,My Name Is,650041,https://www.last.fm/music/Eminem/_/My+Name+Is
-2019-04-16 22:49:30.739987_39,rap,Kanye West,Gold Digger,612800,https://www.last.fm/music/Kanye+West/_/Gold+Digger
-2019-04-16 22:49:30.897339_40,rap,Eminem,Stan,594028,https://www.last.fm/music/Eminem/_/Stan
-2019-04-16 22:49:31.055962_41,rap,House of Pain,Jump Around,610387,https://www.last.fm/music/House+of+Pain/_/Jump+Around
-2019-04-16 22:49:31.355928_42,rap,Black Eyed Peas,My Humps,592908,https://www.last.fm/music/Black+Eyed+Peas/_/My+Humps
-2019-04-16 22:49:31.517970_43,rap,Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),592542,https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Thrift+Shop+(feat.+Wanz)
-2019-04-16 22:49:31.688028_44,rap,Lil' Wayne,A Milli,590262,https://www.last.fm/music/Lil%27+Wayne/_/A+Milli
-2019-04-16 22:49:31.972675_45,rap,Lupe Fiasco,Superstar,407019,https://www.last.fm/music/Lupe+Fiasco/_/Superstar
-2019-04-16 22:49:32.208807_46,rap,Snoop Dogg,Drop It Like It's Hot,580813,https://www.last.fm/music/Snoop+Dogg/_/Drop+It+Like+It%27s+Hot
-2019-04-16 22:49:32.373222_47,rap,Drake,Over,1129375,https://www.last.fm/music/Drake/_/Over
-2019-04-16 22:49:32.532235_48,rap,Wu-Tang Clan,C.R.E.A.M.,574643,https://www.last.fm/music/Wu-Tang+Clan/_/C.R.E.A.M.
-2019-04-16 22:49:32.754713_49,rap,Black Eyed Peas,Meet Me Halfway,571366,https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway
-2019-04-16 22:49:32.910887_50,rap,Eminem,Love The Way You Lie,570607,https://www.last.fm/music/Eminem/_/Love+The+Way+You+Lie
-2019-04-16 22:49:33.298875_1,electronic,MGMT,Kids,1587041,https://www.last.fm/music/MGMT/_/Kids
-2019-04-16 22:49:33.595050_2,electronic,Gorillaz,Feel Good Inc.,1493044,https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.
-2019-04-16 22:49:33.749317_3,electronic,Lady Gaga,Poker Face,1443981,https://www.last.fm/music/Lady+Gaga/_/Poker+Face
-2019-04-16 22:49:33.913052_4,electronic,MGMT,Electric Feel,1407081,https://www.last.fm/music/MGMT/_/Electric+Feel
-2019-04-16 22:49:34.076469_5,electronic,MGMT,Time to Pretend,1401754,https://www.last.fm/music/MGMT/_/Time+to+Pretend
-2019-04-16 22:49:34.237039_6,electronic,Kanye West,Stronger,1362543,https://www.last.fm/music/Kanye+West/_/Stronger
-2019-04-16 22:49:34.466311_7,electronic,Radiohead,Paranoid Android,1341255,https://www.last.fm/music/Radiohead/_/Paranoid+Android
-2019-04-16 22:49:34.623647_8,electronic,Ke$ha,TiK ToK,1329947,https://www.last.fm/music/Ke$ha/_/TiK+ToK
-2019-04-16 22:49:34.788034_9,electronic,Massive Attack,Teardrop,1304746,https://www.last.fm/music/Massive+Attack/_/Teardrop
-2019-04-16 22:49:34.945611_10,electronic,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
-2019-04-16 22:49:35.240760_11,electronic,Daft Punk,"Harder, Better, Faster, Stronger",1231668,"https://www.last.fm/music/Daft+Punk/_/Harder,+Better,+Faster,+Stronger"
-2019-04-16 22:49:35.539423_12,electronic,Daft Punk,One More Time,1180042,https://www.last.fm/music/Daft+Punk/_/One+More+Time
-2019-04-16 22:49:35.700353_13,electronic,M.I.A.,Paper Planes,1143835,https://www.last.fm/music/M.I.A./_/Paper+Planes
-2019-04-16 22:49:35.851966_14,electronic,Lady Gaga,Bad Romance,1140580,https://www.last.fm/music/Lady+Gaga/_/Bad+Romance
-2019-04-16 22:49:36.012756_15,electronic,The Postal Service,Such Great Heights,1117928,https://www.last.fm/music/The+Postal+Service/_/Such+Great+Heights
-2019-04-16 22:49:36.178443_16,electronic,The xx,Intro,1095857,https://www.last.fm/music/The+xx/_/Intro
-2019-04-16 22:49:36.331764_17,electronic,Lady Gaga,Paparazzi,1068997,https://www.last.fm/music/Lady+Gaga/_/Paparazzi
-2019-04-16 22:49:36.487179_18,electronic,Gorillaz,DARE,1049957,https://www.last.fm/music/Gorillaz/_/DARE
-2019-04-16 22:49:36.646855_19,electronic,Gotye,Somebody That I Used To Know,1039878,https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+To+Know
-2019-04-16 22:49:36.811335_20,electronic,Lady Gaga,Just Dance,1032046,https://www.last.fm/music/Lady+Gaga/_/Just+Dance
-2019-04-16 22:49:36.971812_21,electronic,The xx,Crystalised,992765,https://www.last.fm/music/The+xx/_/Crystalised
-2019-04-16 22:49:37.131423_22,electronic,Black Eyed Peas,I Gotta Feeling,988396,https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling
-2019-04-16 22:49:37.424169_23,electronic,Radiohead,Everything in Its Right Place,987830,https://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place
-2019-04-16 22:49:37.578601_24,electronic,M83,Midnight City,973503,https://www.last.fm/music/M83/_/Midnight+City
-2019-04-16 22:49:37.731044_25,electronic,Radiohead,Airbag,961723,https://www.last.fm/music/Radiohead/_/Airbag
-2019-04-16 22:49:37.902035_26,electronic,Radiohead,15 Step,959015,https://www.last.fm/music/Radiohead/_/15+Step
-2019-04-16 22:49:38.054182_27,electronic,Radiohead,All I Need,945316,https://www.last.fm/music/Radiohead/_/All+I+Need
-2019-04-16 22:49:38.216650_28,electronic,Phoenix,1901,935612,https://www.last.fm/music/Phoenix/_/1901
-2019-04-16 22:49:38.373843_29,electronic,The xx,Islands,914078,https://www.last.fm/music/The+xx/_/Islands
-2019-04-16 22:49:38.535272_30,electronic,The Killers,Human,911111,https://www.last.fm/music/The+Killers/_/Human
-2019-04-16 22:49:38.690305_31,electronic,Radiohead,Reckoner,910383,https://www.last.fm/music/Radiohead/_/Reckoner
-2019-04-16 22:49:38.850527_32,electronic,The xx,VCR,909591,https://www.last.fm/music/The+xx/_/VCR
-2019-04-16 22:49:39.005413_33,electronic,Daft Punk,Around the World,906625,https://www.last.fm/music/Daft+Punk/_/Around+the+World
-2019-04-16 22:49:39.163350_34,electronic,Radiohead,Bodysnatchers,902487,https://www.last.fm/music/Radiohead/_/Bodysnatchers
-2019-04-16 22:49:39.313233_35,electronic,Massive Attack,Angel,696933,https://www.last.fm/music/Massive+Attack/_/Angel
-2019-04-16 22:49:39.465725_36,electronic,Depeche Mode,Enjoy the Silence,890443,https://www.last.fm/music/Depeche+Mode/_/Enjoy+the+Silence
-2019-04-16 22:49:39.627945_37,electronic,Phoenix,Lisztomania,887610,https://www.last.fm/music/Phoenix/_/Lisztomania
-2019-04-16 22:49:39.776167_38,electronic,Two Door Cinema Club,What You Know,879453,https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know
-2019-04-16 22:49:39.937595_39,electronic,Moby,Porcelain,877054,https://www.last.fm/music/Moby/_/Porcelain
-2019-04-16 22:49:40.166542_40,electronic,Radiohead,Jigsaw Falling Into Place,874692,https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place
-2019-04-16 22:49:40.489315_41,electronic,MGMT,Weekend Wars,866717,https://www.last.fm/music/MGMT/_/Weekend+Wars
-2019-04-16 22:49:40.657974_42,electronic,Portishead,Glory Box,865753,https://www.last.fm/music/Portishead/_/Glory+Box
-2019-04-16 22:49:40.824699_43,electronic,Radiohead,House of Cards,862190,https://www.last.fm/music/Radiohead/_/House+of+Cards
-2019-04-16 22:49:40.986056_44,electronic,Radiohead,Idioteque,858438,https://www.last.fm/music/Radiohead/_/Idioteque
-2019-04-16 22:49:41.221759_45,electronic,Radiohead,Subterranean Homesick Alien,855921,https://www.last.fm/music/Radiohead/_/Subterranean+Homesick+Alien
-2019-04-16 22:49:41.457156_46,electronic,Passion Pit,Sleepyhead,848153,https://www.last.fm/music/Passion+Pit/_/Sleepyhead
-2019-04-16 22:49:41.715728_47,electronic,Lady Gaga,LoveGame,846496,https://www.last.fm/music/Lady+Gaga/_/LoveGame
-2019-04-16 22:49:41.872111_48,electronic,Radiohead,Nude,846464,https://www.last.fm/music/Radiohead/_/Nude
-2019-04-16 22:49:42.033677_49,electronic,Lorde,Royals,839275,https://www.last.fm/music/Lorde/_/Royals
-2019-04-16 22:49:42.191830_50,electronic,Lady Gaga,Alejandro,838224,https://www.last.fm/music/Lady+Gaga/_/Alejandro
-2019-04-16 22:49:42.594705_1,soul,Adele,Rolling in the Deep,1252856,https://www.last.fm/music/Adele/_/Rolling+in+the+Deep
-2019-04-16 22:49:42.755452_2,soul,Amy Winehouse,Rehab,1181382,https://www.last.fm/music/Amy+Winehouse/_/Rehab
-2019-04-16 22:49:42.972544_3,soul,Amy Winehouse,Back to Black,1162709,https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black
-2019-04-16 22:49:43.127350_4,soul,Gnarls Barkley,Crazy,1109377,https://www.last.fm/music/Gnarls+Barkley/_/Crazy
-2019-04-16 22:49:43.283962_5,soul,Amy Winehouse,You Know I'm No Good,1041174,https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good
-2019-04-16 22:49:43.468484_6,soul,Adele,Someone Like You,995757,https://www.last.fm/music/Adele/_/Someone+Like+You
-2019-04-16 22:49:43.635155_7,soul,Beyoncé,Halo,967663,https://www.last.fm/music/Beyonc%C3%A9/_/Halo
-2019-04-16 22:49:43.795993_8,soul,Florence + the Machine,You've Got the Love,910782,https://www.last.fm/music/Florence+%252B+the+Machine/_/You%27ve+Got+the+Love
-2019-04-16 22:49:43.964377_9,soul,Adele,Set Fire to the Rain,869051,https://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain
-2019-04-16 22:49:44.115540_10,soul,Amy Winehouse,Tears Dry on Their Own,855965,https://www.last.fm/music/Amy+Winehouse/_/Tears+Dry+on+Their+Own
-2019-04-16 22:49:44.427811_11,soul,Leona Lewis,Bleeding Love,830056,https://www.last.fm/music/Leona+Lewis/_/Bleeding+Love
-2019-04-16 22:49:44.804812_12,soul,Beyoncé,Irreplaceable,811687,https://www.last.fm/music/Beyonc%C3%A9/_/Irreplaceable
-2019-04-16 22:49:44.985402_13,soul,Adele,Chasing Pavements,809768,https://www.last.fm/music/Adele/_/Chasing+Pavements
-2019-04-16 22:49:45.287861_14,soul,The Jackson 5,I Want You Back,806298,https://www.last.fm/music/The+Jackson+5/_/I+Want+You+Back
-2019-04-16 22:49:45.466066_15,soul,Amy Winehouse,Love Is a Losing Game,768447,https://www.last.fm/music/Amy+Winehouse/_/Love+Is+a+Losing+Game
-2019-04-16 22:49:45.636741_16,soul,Duffy,Mercy,756712,https://www.last.fm/music/Duffy/_/Mercy
-2019-04-16 22:49:45.810799_17,soul,Beyoncé,Crazy in Love,736831,https://www.last.fm/music/Beyonc%C3%A9/_/Crazy+in+Love
-2019-04-16 22:49:46.097712_18,soul,Lana Del Rey,Blue Jeans,735948,https://www.last.fm/music/Lana+Del+Rey/_/Blue+Jeans
-2019-04-16 22:49:46.276816_19,soul,Aretha Franklin,Respect,734443,https://www.last.fm/music/Aretha+Franklin/_/Respect
-2019-04-16 22:49:46.484777_20,soul,Stevie Wonder,Superstition,712142,https://www.last.fm/music/Stevie+Wonder/_/Superstition
-2019-04-16 22:49:46.668001_21,soul,Adele,Make You Feel My Love,708897,https://www.last.fm/music/Adele/_/Make+You+Feel+My+Love
-2019-04-16 22:49:46.836457_22,soul,Al Green,Let's Stay Together,686435,https://www.last.fm/music/Al+Green/_/Let%27s+Stay+Together
-2019-04-16 22:49:46.993043_23,soul,Rihanna,Unfaithful,674469,https://www.last.fm/music/Rihanna/_/Unfaithful
-2019-04-16 22:49:47.152385_24,soul,Bill Withers,Ain't No Sunshine,671444,https://www.last.fm/music/Bill+Withers/_/Ain%27t+No+Sunshine
-2019-04-16 22:49:47.455222_25,soul,Hozier,Take Me to Church,662988,https://www.last.fm/music/Hozier/_/Take+Me+to+Church
-2019-04-16 22:49:47.624007_26,soul,"Earth, Wind & Fire",September,661565,"https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
-2019-04-16 22:49:47.791866_27,soul,Beyoncé,If I Were a Boy,653893,https://www.last.fm/music/Beyonc%C3%A9/_/If+I+Were+a+Boy
-2019-04-16 22:49:48.098388_28,soul,Amy Winehouse,Just Friends,649969,https://www.last.fm/music/Amy+Winehouse/_/Just+Friends
-2019-04-16 22:49:48.366981_29,soul,Alicia Keys,No One,1087455,https://www.last.fm/music/Alicia+Keys/_/No+One
-2019-04-16 22:49:48.521315_30,soul,Ray Charles,Hit the Road Jack,644023,https://www.last.fm/music/Ray+Charles/_/Hit+the+Road+Jack
-2019-04-16 22:49:48.834493_31,soul,Amy Winehouse,Wake Up Alone,642295,https://www.last.fm/music/Amy+Winehouse/_/Wake+Up+Alone
-2019-04-16 22:49:49.002257_32,soul,John Mayer,Waiting on the World to Change,641943,https://www.last.fm/music/John+Mayer/_/Waiting+on+the+World+to+Change
-2019-04-16 22:49:49.160322_33,soul,Adele,Rumour Has It,635272,https://www.last.fm/music/Adele/_/Rumour+Has+It
-2019-04-16 22:49:49.311809_34,soul,Dusty Springfield,Son of a Preacher Man,626939,https://www.last.fm/music/Dusty+Springfield/_/Son+of+a+Preacher+Man
-2019-04-16 22:49:49.618035_35,soul,Corinne Bailey Rae,Put Your Records On,626921,https://www.last.fm/music/Corinne+Bailey+Rae/_/Put+Your+Records+On
-2019-04-16 22:49:49.922560_36,soul,Amy Winehouse,He Can Only Hold Her,624751,https://www.last.fm/music/Amy+Winehouse/_/He+Can+Only+Hold+Her
-2019-04-16 22:49:50.219707_37,soul,Nina Simone,Feeling Good,794026,https://www.last.fm/music/Nina+Simone/_/Feeling+Good
-2019-04-16 22:49:50.385216_38,soul,Mario,Let Me Love You,226823,https://www.last.fm/music/Mario/_/Let+Me+Love+You
-2019-04-16 22:49:50.625015_39,soul,Amy Winehouse,Some Unholy War,603783,https://www.last.fm/music/Amy+Winehouse/_/Some+Unholy+War
-2019-04-16 22:49:50.912483_40,soul,Pharrell Williams,Happy,600939,https://www.last.fm/music/Pharrell+Williams/_/Happy
-2019-04-16 22:49:51.078849_41,soul,The Temptations,My Girl,536538,https://www.last.fm/music/The+Temptations/_/My+Girl
-2019-04-16 22:49:51.258891_42,soul,The Jackson 5,ABC,595607,https://www.last.fm/music/The+Jackson+5/_/ABC
-2019-04-16 22:49:51.407491_43,soul,Ben E. King,Stand By Me,594028,https://www.last.fm/music/Ben+E.+King/_/Stand+By+Me
-2019-04-16 22:49:51.573029_44,soul,Justin Timberlake,Rock Your Body,585857,https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body
-2019-04-16 22:49:51.732515_45,soul,Frank Ocean,Thinkin Bout You,584635,https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You
-2019-04-16 22:49:51.968969_46,soul,Christina Aguilera,Beautiful,989668,https://www.last.fm/music/Christina+Aguilera/_/Beautiful
-2019-04-16 22:49:52.124195_47,soul,Adele,Hometown Glory,574284,https://www.last.fm/music/Adele/_/Hometown+Glory
-2019-04-16 22:49:52.341919_48,soul,Alicia Keys,Fallin',37797,https://www.last.fm/music/Alicia+Keys/_/Fallin%27
-2019-04-16 22:49:52.492986_49,soul,Otis Redding,(Sittin' On) The Dock of the Bay,10313,https://www.last.fm/music/Otis+Redding/_/(Sittin%27+On)+The+Dock+of+the+Bay
-2019-04-16 22:49:52.797145_50,soul,Michael Jackson,Man in the Mirror,566088,https://www.last.fm/music/Michael+Jackson/_/Man+in+the+Mirror
-2019-04-16 22:49:53.324153_1,metal,System of a Down,Chop Suey!,1503958,https://www.last.fm/music/System+of+a+Down/_/Chop+Suey%21
-2019-04-16 22:49:53.622909_2,metal,Linkin Park,In the End,1410919,https://www.last.fm/music/Linkin+Park/_/In+the+End
-2019-04-16 22:49:53.783866_3,metal,Linkin Park,Numb,1274345,https://www.last.fm/music/Linkin+Park/_/Numb
-2019-04-16 22:49:53.948031_4,metal,Guns N' Roses,Welcome to the Jungle,1249992,https://www.last.fm/music/Guns+N%27+Roses/_/Welcome+to+the+Jungle
-2019-04-16 22:49:54.174750_5,metal,Rage Against the Machine,Killing in the Name,1227767,https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name
-2019-04-16 22:49:54.324382_6,metal,Black Sabbath,Paranoid,1341255,https://www.last.fm/music/Black+Sabbath/_/Paranoid
-2019-04-16 22:49:54.476343_7,metal,System of a Down,Toxicity,1165886,https://www.last.fm/music/System+of+a+Down/_/Toxicity
-2019-04-16 22:49:54.801717_8,metal,Metallica,Enter Sandman,1114497,https://www.last.fm/music/Metallica/_/Enter+Sandman
-2019-04-16 22:49:54.966680_9,metal,Guns N' Roses,Paradise City,1108792,https://www.last.fm/music/Guns+N%27+Roses/_/Paradise+City
-2019-04-16 22:49:55.119676_10,metal,Evanescence,Bring Me to Life,1105179,https://www.last.fm/music/Evanescence/_/Bring+Me+to+Life
-2019-04-16 22:49:55.270397_11,metal,AC/DC,Back in Black,1104866,https://www.last.fm/music/AC%2FDC/_/Back+in+Black
-2019-04-16 22:49:55.424592_12,metal,Metallica,Nothing Else Matters,1101671,https://www.last.fm/music/Metallica/_/Nothing+Else+Matters
-2019-04-16 22:49:55.724095_13,metal,AC/DC,Highway to Hell,1015307,https://www.last.fm/music/AC%2FDC/_/Highway+to+Hell
-2019-04-16 22:49:55.869718_14,metal,Linkin Park,Faint,1011929,https://www.last.fm/music/Linkin+Park/_/Faint
-2019-04-16 22:49:56.025289_15,metal,System of a Down,Lonely Day,1006340,https://www.last.fm/music/System+of+a+Down/_/Lonely+Day
-2019-04-16 22:49:56.185861_16,metal,Linkin Park,One Step Closer,986296,https://www.last.fm/music/Linkin+Park/_/One+Step+Closer
-2019-04-16 22:49:56.406271_17,metal,Three Days Grace,I Hate Everything About You,981638,https://www.last.fm/music/Three+Days+Grace/_/I+Hate+Everything+About+You
-2019-04-16 22:49:56.564849_18,metal,Linkin Park,What I've Done,961829,https://www.last.fm/music/Linkin+Park/_/What+I%27ve+Done
-2019-04-16 22:49:56.712452_19,metal,System of a Down,B.Y.O.B.,958214,https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.
-2019-04-16 22:49:56.860058_20,metal,System of a Down,Aerials,939222,https://www.last.fm/music/System+of+a+Down/_/Aerials
-2019-04-16 22:49:57.008660_21,metal,Motörhead,Ace of Spades,937964,https://www.last.fm/music/Mot%C3%B6rhead/_/Ace+of+Spades
-2019-04-16 22:49:57.177208_22,metal,Evanescence,My Immortal,930559,https://www.last.fm/music/Evanescence/_/My+Immortal
-2019-04-16 22:49:57.340771_23,metal,Linkin Park,Crawling,927935,https://www.last.fm/music/Linkin+Park/_/Crawling
-2019-04-16 22:49:57.561182_24,metal,Linkin Park,Breaking the Habit,900003,https://www.last.fm/music/Linkin+Park/_/Breaking+the+Habit
-2019-04-16 22:49:57.718761_25,metal,Black Sabbath,Iron Man,891177,https://www.last.fm/music/Black+Sabbath/_/Iron+Man
-2019-04-16 22:49:57.877336_26,metal,Papa Roach,Last Resort,890972,https://www.last.fm/music/Papa+Roach/_/Last+Resort
-2019-04-16 22:49:58.022948_27,metal,Linkin Park,Somewhere I Belong,890132,https://www.last.fm/music/Linkin+Park/_/Somewhere+I+Belong
-2019-04-16 22:49:58.245358_28,metal,Disturbed,Down With the Sickness,885510,https://www.last.fm/music/Disturbed/_/Down+With+the+Sickness
-2019-04-16 22:49:58.396946_29,metal,Korn,Freak on a Leash,877821,https://www.last.fm/music/Korn/_/Freak+on+a+Leash
-2019-04-16 22:49:58.558514_30,metal,Metallica,Master of Puppets,863716,https://www.last.fm/music/Metallica/_/Master+of+Puppets
-2019-04-16 22:49:58.719086_31,metal,Rage Against the Machine,Bulls on Parade,849826,https://www.last.fm/music/Rage+Against+the+Machine/_/Bulls+on+Parade
-2019-04-16 22:49:58.882647_32,metal,Metallica,One,1180042,https://www.last.fm/music/Metallica/_/One
-2019-04-16 22:49:59.035240_33,metal,Linkin Park,Papercut,842280,https://www.last.fm/music/Linkin+Park/_/Papercut
-2019-04-16 22:49:59.273603_34,metal,AC/DC,You Shook Me All Night Long,827025,https://www.last.fm/music/AC%2FDC/_/You+Shook+Me+All+Night+Long
-2019-04-16 22:49:59.426195_35,metal,Limp Bizkit,Behind Blue Eyes,815633,https://www.last.fm/music/Limp+Bizkit/_/Behind+Blue+Eyes
-2019-04-16 22:49:59.589209_36,metal,Slipknot,Wait and Bleed,813670,https://www.last.fm/music/Slipknot/_/Wait+and+Bleed
-2019-04-16 22:49:59.747335_37,metal,Metallica,The Unforgiven,806100,https://www.last.fm/music/Metallica/_/The+Unforgiven
-2019-04-16 22:50:00.039554_38,metal,Linkin Park,Bleed It Out,802632,https://www.last.fm/music/Linkin+Park/_/Bleed+It+Out
-2019-04-16 22:50:00.203116_39,metal,Slipknot,Before I Forget,779524,https://www.last.fm/music/Slipknot/_/Before+I+Forget
-2019-04-16 22:50:00.500321_40,metal,Guns N' Roses,Knockin' on Heaven's Door,6055,https://www.last.fm/music/Guns+N%27+Roses/_/Knockin%27+on+Heaven%27s+Door
-2019-04-16 22:50:00.651915_41,metal,Three Days Grace,Animal I Have Become,760536,https://www.last.fm/music/Three+Days+Grace/_/Animal+I+Have+Become
-2019-04-16 22:50:00.832432_42,metal,Evanescence,Going Under,754758,https://www.last.fm/music/Evanescence/_/Going+Under
-2019-04-16 22:50:00.997990_43,metal,AC/DC,Thunderstruck,751806,https://www.last.fm/music/AC%2FDC/_/Thunderstruck
-2019-04-16 22:50:01.162549_44,metal,Linkin Park,Leave Out All the Rest,751342,https://www.last.fm/music/Linkin+Park/_/Leave+Out+All+the+Rest
-2019-04-16 22:50:01.317136_45,metal,Rage Against the Machine,Guerrilla Radio,745679,https://www.last.fm/music/Rage+Against+the+Machine/_/Guerrilla+Radio
-2019-04-16 22:50:01.469729_46,metal,System of a Down,Hypnotize,742189,https://www.last.fm/music/System+of+a+Down/_/Hypnotize
-2019-04-16 22:50:01.629302_47,metal,Rage Against the Machine,Bombtrack,725496,https://www.last.fm/music/Rage+Against+the+Machine/_/Bombtrack
-2019-04-16 22:50:01.788878_48,metal,Rage Against the Machine,Wake Up,663357,https://www.last.fm/music/Rage+Against+the+Machine/_/Wake+Up
-2019-04-16 22:50:01.950443_49,metal,Bullet for My Valentine,Tears Don't Fall,713258,https://www.last.fm/music/Bullet+for+My+Valentine/_/Tears+Don%27t+Fall
-2019-04-16 22:50:02.172848_50,metal,Drowning Pool,Bodies,710796,https://www.last.fm/music/Drowning+Pool/_/Bodies
+2019-04-16 23:10:07.594556_1,pop,Oasis,Wonderwall,1878153,https://www.last.fm/music/Oasis/_/Wonderwall
+2019-04-16 23:10:07.765262_2,pop,The Killers,Somebody Told Me,1654089,https://www.last.fm/music/The+Killers/_/Somebody+Told+Me
+2019-04-16 23:10:07.913581_3,pop,Coldplay,Viva la Vida,1637523,https://www.last.fm/music/Coldplay/_/Viva+la+Vida
+2019-04-16 23:10:08.143465_4,pop,Coldplay,Clocks,1615836,https://www.last.fm/music/Coldplay/_/Clocks
+2019-04-16 23:10:08.307097_5,pop,Coldplay,The Scientist,1607673,https://www.last.fm/music/Coldplay/_/The+Scientist
+2019-04-16 23:10:08.480675_6,pop,MGMT,Kids,1587041,https://www.last.fm/music/MGMT/_/Kids
+2019-04-16 23:10:08.634113_7,pop,Coldplay,Yellow,1573056,https://www.last.fm/music/Coldplay/_/Yellow
+2019-04-16 23:10:08.792908_8,pop,Coldplay,Fix You,1493265,https://www.last.fm/music/Coldplay/_/Fix+You
+2019-04-16 23:10:08.958486_9,pop,Gorillaz,Feel Good Inc.,1493044,https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.
+2019-04-16 23:10:09.253274_10,pop,Lady Gaga,Poker Face,1443981,https://www.last.fm/music/Lady+Gaga/_/Poker+Face
+2019-04-16 23:10:09.405707_11,pop,Snow Patrol,Chasing Cars,1386242,https://www.last.fm/music/Snow+Patrol/_/Chasing+Cars
+2019-04-16 23:10:09.640156_12,pop,Ke$ha,TiK ToK,1329947,https://www.last.fm/music/Ke$ha/_/TiK+ToK
+2019-04-16 23:10:09.791718_13,pop,Goo Goo Dolls,Iris,1306919,https://www.last.fm/music/Goo+Goo+Dolls/_/Iris
+2019-04-16 23:10:09.960704_14,pop,Jason Mraz,I'm Yours,1285137,https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours
+2019-04-16 23:10:10.124746_15,pop,Adele,Rolling in the Deep,1252856,https://www.last.fm/music/Adele/_/Rolling+in+the+Deep
+2019-04-16 23:10:10.297709_16,pop,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
+2019-04-16 23:10:10.622967_17,pop,Foster the People,Pumped Up Kicks,1230181,https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks
+2019-04-16 23:10:10.786327_18,pop,Michael Jackson,Billie Jean,1215483,https://www.last.fm/music/Michael+Jackson/_/Billie+Jean
+2019-04-16 23:10:10.958307_19,pop,R.E.M.,Losing My Religion,1198163,https://www.last.fm/music/R.E.M./_/Losing+My+Religion
+2019-04-16 23:10:11.123998_20,pop,Katy Perry,I Kissed a Girl,1195771,https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl
+2019-04-16 23:10:11.368290_21,pop,Amy Winehouse,Rehab,1181382,https://www.last.fm/music/Amy+Winehouse/_/Rehab
+2019-04-16 23:10:11.528827_22,pop,The Killers,Smile Like You Mean It,1175591,https://www.last.fm/music/The+Killers/_/Smile+Like+You+Mean+It
+2019-04-16 23:10:11.682714_23,pop,The Verve,Bitter Sweet Symphony,1166438,https://www.last.fm/music/The+Verve/_/Bitter+Sweet+Symphony
+2019-04-16 23:10:11.841056_24,pop,Amy Winehouse,Back to Black,1162709,https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black
+2019-04-16 23:10:11.995284_25,pop,a-ha,Take on Me,1154125,https://www.last.fm/music/a-ha/_/Take+on+Me
+2019-04-16 23:10:12.306930_26,pop,M.I.A.,Paper Planes,1143835,https://www.last.fm/music/M.I.A./_/Paper+Planes
+2019-04-16 23:10:12.465730_27,pop,The Fray,How to Save a Life,1142705,https://www.last.fm/music/The+Fray/_/How+to+Save+a+Life
+2019-04-16 23:10:12.696737_28,pop,Coldplay,Don't Panic,1140927,https://www.last.fm/music/Coldplay/_/Don%27t+Panic
+2019-04-16 23:10:12.854681_29,pop,Lady Gaga,Bad Romance,1140580,https://www.last.fm/music/Lady+Gaga/_/Bad+Romance
+2019-04-16 23:10:13.028033_30,pop,Maroon 5,She Will Be Loved,1129700,https://www.last.fm/music/Maroon+5/_/She+Will+Be+Loved
+2019-04-16 23:10:13.193335_31,pop,Florence + the Machine,Dog Days Are Over,1129375,https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over
+2019-04-16 23:10:13.353653_32,pop,The Postal Service,Such Great Heights,1117928,https://www.last.fm/music/The+Postal+Service/_/Such+Great+Heights
+2019-04-16 23:10:13.507557_33,pop,Coldplay,In My Place,1116217,https://www.last.fm/music/Coldplay/_/In+My+Place
+2019-04-16 23:10:13.683062_34,pop,Coldplay,Trouble,1114302,https://www.last.fm/music/Coldplay/_/Trouble
+2019-04-16 23:10:13.843152_35,pop,Gnarls Barkley,Crazy,1109377,https://www.last.fm/music/Gnarls+Barkley/_/Crazy
+2019-04-16 23:10:13.996907_36,pop,Coldplay,Speed of Sound,1083298,https://www.last.fm/music/Coldplay/_/Speed+of+Sound
+2019-04-16 23:10:14.154563_37,pop,Kanye West,Heartless,1079992,https://www.last.fm/music/Kanye+West/_/Heartless
+2019-04-16 23:10:14.320506_38,pop,Lady Gaga,Paparazzi,1068997,https://www.last.fm/music/Lady+Gaga/_/Paparazzi
+2019-04-16 23:10:14.471573_39,pop,Keane,Somewhere Only We Know,1067224,https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know
+2019-04-16 23:10:14.634648_40,pop,Maroon 5,This Love,1064940,https://www.last.fm/music/Maroon+5/_/This+Love
+2019-04-16 23:10:14.791936_41,pop,Michael Jackson,Thriller,1050566,https://www.last.fm/music/Michael+Jackson/_/Thriller
+2019-04-16 23:10:14.961397_42,pop,Gorillaz,DARE,1049957,https://www.last.fm/music/Gorillaz/_/DARE
+2019-04-16 23:10:15.126764_43,pop,The Cure,Friday I'm in Love,1044896,https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love
+2019-04-16 23:10:15.288762_44,pop,Amy Winehouse,You Know I'm No Good,1041174,https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good
+2019-04-16 23:10:15.447851_45,pop,Gotye,Somebody That I Used To Know,1039878,https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+To+Know
+2019-04-16 23:10:15.615740_46,pop,Lady Gaga,Just Dance,1032046,https://www.last.fm/music/Lady+Gaga/_/Just+Dance
+2019-04-16 23:10:15.777526_47,pop,U2,With or Without You,802372,https://www.last.fm/music/U2/_/With+or+Without+You
+2019-04-16 23:10:15.927639_48,pop,Coldplay,Violet Hill,1005222,https://www.last.fm/music/Coldplay/_/Violet+Hill
+2019-04-16 23:10:16.104354_49,pop,Simon & Garfunkel,The Sound of Silence,999438,https://www.last.fm/music/Simon+&+Garfunkel/_/The+Sound+of+Silence
+2019-04-16 23:10:16.271956_50,pop,Weezer,Island in the Sun,998754,https://www.last.fm/music/Weezer/_/Island+in+the+Sun
+2019-04-16 23:10:16.946680_1,classical,Ludwig van Beethoven,Für Elise,482830,https://www.last.fm/music/Ludwig+van+Beethoven/_/F%C3%BCr+Elise
+2019-04-16 23:10:17.110647_2,classical,Claude Debussy,Clair de lune,467836,https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune
+2019-04-16 23:10:17.344327_3,classical,Ludwig van Beethoven,Moonlight Sonata,349627,https://www.last.fm/music/Ludwig+van+Beethoven/_/Moonlight+Sonata
+2019-04-16 23:10:17.515286_4,classical,Yann Tiersen,Sur le fil,323674,https://www.last.fm/music/Yann+Tiersen/_/Sur+le+fil
+2019-04-16 23:10:17.675249_5,classical,Gorillaz,Orchestral Intro,320068,https://www.last.fm/music/Gorillaz/_/Orchestral+Intro
+2019-04-16 23:10:17.826268_6,classical,Yann Tiersen,Le Moulin,309888,https://www.last.fm/music/Yann+Tiersen/_/Le+Moulin
+2019-04-16 23:10:17.988491_7,classical,Yann Tiersen,La Dispute,308481,https://www.last.fm/music/Yann+Tiersen/_/La+Dispute
+2019-04-16 23:10:18.293161_8,classical,Yann Tiersen,A quai,284873,https://www.last.fm/music/Yann+Tiersen/_/A+quai
+2019-04-16 23:10:18.484313_9,classical,Zara Larsson,Lush Life,283656,https://www.last.fm/music/Zara+Larsson/_/Lush+Life
+2019-04-16 23:10:18.669282_10,classical,Ludwig van Beethoven,Symphony No. 9 (Scherzo),280629,https://www.last.fm/music/Ludwig+van+Beethoven/_/Symphony+No.+9+(Scherzo)
+2019-04-16 23:10:18.839675_11,classical,Yann Tiersen,La Noyée,274902,https://www.last.fm/music/Yann+Tiersen/_/La+Noy%C3%A9e
+2019-04-16 23:10:19.078831_12,classical,Agnes Obel,Riverside,261245,https://www.last.fm/music/Agnes+Obel/_/Riverside
+2019-04-16 23:10:19.366452_13,classical,Ludovico Einaudi,Nuvole Bianche,258967,https://www.last.fm/music/Ludovico+Einaudi/_/Nuvole+Bianche
+2019-04-16 23:10:19.537313_14,classical,Howard Shore,Concerning Hobbits,252502,https://www.last.fm/music/Howard+Shore/_/Concerning+Hobbits
+2019-04-16 23:10:19.838796_15,classical,Ludovico Einaudi,Divenire,245159,https://www.last.fm/music/Ludovico+Einaudi/_/Divenire
+2019-04-16 23:10:20.052088_16,classical,Yiruma,River Flows in You,244408,https://www.last.fm/music/Yiruma/_/River+Flows+in+You
+2019-04-16 23:10:20.274636_17,classical,Daft Punk,Adagio for Tron,243365,https://www.last.fm/music/Daft+Punk/_/Adagio+for+Tron
+2019-04-16 23:10:20.601585_18,classical,Johannes Brahms,Hungarian Dance No. 5,239346,https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5
+2019-04-16 23:10:20.763826_19,classical,Ludovico Einaudi,Fly,1050137,https://www.last.fm/music/Ludovico+Einaudi/_/Fly
+2019-04-16 23:10:21.073921_20,classical,Johann Sebastian Bach,Air,961723,https://www.last.fm/music/Johann+Sebastian+Bach/_/Air
+2019-04-16 23:10:21.236147_21,classical,Franz Schubert,Ave Maria,190190,https://www.last.fm/music/Franz+Schubert/_/Ave+Maria
+2019-04-16 23:10:21.466516_22,classical,Samuel Barber,Adagio For Strings,304846,https://www.last.fm/music/Samuel+Barber/_/Adagio+For+Strings
+2019-04-16 23:10:21.640249_23,classical,Ludovico Einaudi,Primavera,227124,https://www.last.fm/music/Ludovico+Einaudi/_/Primavera
+2019-04-16 23:10:21.880641_24,classical,Maurice Ravel,Bolero,213208,https://www.last.fm/music/Maurice+Ravel/_/Bolero
+2019-04-16 23:10:22.041432_25,classical,Muse,Prelude,249306,https://www.last.fm/music/Muse/_/Prelude
+2019-04-16 23:10:22.212315_26,classical,Richard Wagner,Ride of the Valkyries,204356,https://www.last.fm/music/Richard+Wagner/_/Ride+of+the+Valkyries
+2019-04-16 23:10:22.376039_27,classical,Clint Mansell,Together We Will Live Forever,203768,https://www.last.fm/music/Clint+Mansell/_/Together+We+Will+Live+Forever
+2019-04-16 23:10:22.617852_28,classical,Wolfgang Amadeus Mozart,Requiem,179243,https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Requiem
+2019-04-16 23:10:22.790675_29,classical,Coldplay,Postcards from Far Away,201111,https://www.last.fm/music/Coldplay/_/Postcards+from+Far+Away
+2019-04-16 23:10:22.946697_30,classical,Wolfgang Amadeus Mozart,Eine kleine Nachtmusik,199066,https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Eine+kleine+Nachtmusik
+2019-04-16 23:10:23.113857_31,classical,Max Richter,On the Nature of Daylight,195051,https://www.last.fm/music/Max+Richter/_/On+the+Nature+of+Daylight
+2019-04-16 23:10:23.276419_32,classical,Ludovico Einaudi,Le Onde,194835,https://www.last.fm/music/Ludovico+Einaudi/_/Le+Onde
+2019-04-16 23:10:23.435221_33,classical,Johann Sebastian Bach,Air on a G String,186796,https://www.last.fm/music/Johann+Sebastian+Bach/_/Air+on+a+G+String
+2019-04-16 23:10:23.580235_34,classical,Max Richter,Vladimir's Blues,186210,https://www.last.fm/music/Max+Richter/_/Vladimir%27s+Blues
+2019-04-16 23:10:23.739685_35,classical,Dua Lipa,Be The One,185703,https://www.last.fm/music/Dua+Lipa/_/Be+The+One
+2019-04-16 23:10:23.904282_36,classical,George Gershwin,Rhapsody in Blue,183356,https://www.last.fm/music/George+Gershwin/_/Rhapsody+in+Blue
+2019-04-16 23:10:24.065088_37,classical,Max Richter,Written on the Sky,181705,https://www.last.fm/music/Max+Richter/_/Written+on+the+Sky
+2019-04-16 23:10:24.242017_38,classical,Edvard Grieg,In the Hall of the Mountain King,177477,https://www.last.fm/music/Edvard+Grieg/_/In+the+Hall+of+the+Mountain+King
+2019-04-16 23:10:24.406499_39,classical,Philip Glass,Opening,174197,https://www.last.fm/music/Philip+Glass/_/Opening
+2019-04-16 23:10:24.631096_40,classical,Jon Hopkins,Small Memory,173198,https://www.last.fm/music/Jon+Hopkins/_/Small+Memory
+2019-04-16 23:10:24.911995_41,classical,Dua Lipa,Blow Your Mind (Mwah),169435,https://www.last.fm/music/Dua+Lipa/_/Blow+Your+Mind+(Mwah)
+2019-04-16 23:10:25.082283_42,classical,Hans Zimmer,Now We Are Free,168587,https://www.last.fm/music/Hans+Zimmer/_/Now+We+Are+Free
+2019-04-16 23:10:25.244952_43,classical,Ludovico Einaudi,Una Mattina,167441,https://www.last.fm/music/Ludovico+Einaudi/_/Una+Mattina
+2019-04-16 23:10:25.408930_44,classical,Adiemus,Adiemus,166578,https://www.last.fm/music/Adiemus/_/Adiemus
+2019-04-16 23:10:25.589236_45,classical,Ludovico Einaudi,I giorni,165933,https://www.last.fm/music/Ludovico+Einaudi/_/I+giorni
+2019-04-16 23:10:25.753716_46,classical,Arvo Pärt,Spiegel im Spiegel,165363,https://www.last.fm/music/Arvo+P%C3%A4rt/_/Spiegel+im+Spiegel
+2019-04-16 23:10:25.917081_47,classical,Johann Pachelbel,Canon in D Major,164264,https://www.last.fm/music/Johann+Pachelbel/_/Canon+in+D+Major
+2019-04-16 23:10:26.072699_48,classical,Vampire Weekend,Young Lion,163445,https://www.last.fm/music/Vampire+Weekend/_/Young+Lion
+2019-04-16 23:10:26.226363_49,classical,Apocalyptica,Enter Sandman,1114497,https://www.last.fm/music/Apocalyptica/_/Enter+Sandman
+2019-04-16 23:10:26.385613_50,classical,Eluvium,Prelude for Time Feelers,162055,https://www.last.fm/music/Eluvium/_/Prelude+for+Time+Feelers
+2019-04-16 23:10:26.720874_1,rock,Nirvana,Smells Like Teen Spirit,2066060,https://www.last.fm/music/Nirvana/_/Smells+Like+Teen+Spirit
+2019-04-16 23:10:27.018952_2,rock,The Killers,Mr. Brightside,1981103,https://www.last.fm/music/The+Killers/_/Mr.+Brightside
+2019-04-16 23:10:27.188146_3,rock,Oasis,Wonderwall,1878153,https://www.last.fm/music/Oasis/_/Wonderwall
+2019-04-16 23:10:27.351709_4,rock,Nirvana,Come as You Are,1821802,https://www.last.fm/music/Nirvana/_/Come+as+You+Are
+2019-04-16 23:10:27.514218_5,rock,Franz Ferdinand,Take Me Out,1673872,https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out
+2019-04-16 23:10:27.686398_6,rock,The Killers,Somebody Told Me,1654089,https://www.last.fm/music/The+Killers/_/Somebody+Told+Me
+2019-04-16 23:10:27.860104_7,rock,Radiohead,Creep,1637968,https://www.last.fm/music/Radiohead/_/Creep
+2019-04-16 23:10:28.023844_8,rock,Coldplay,Viva la Vida,1637523,https://www.last.fm/music/Coldplay/_/Viva+la+Vida
+2019-04-16 23:10:28.184785_9,rock,Radiohead,Karma Police,1629065,https://www.last.fm/music/Radiohead/_/Karma+Police
+2019-04-16 23:10:28.334317_10,rock,Coldplay,Clocks,1615836,https://www.last.fm/music/Coldplay/_/Clocks
+2019-04-16 23:10:28.499586_11,rock,Red Hot Chili Peppers,Californication,1609029,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication
+2019-04-16 23:10:28.647288_12,rock,Coldplay,The Scientist,1607673,https://www.last.fm/music/Coldplay/_/The+Scientist
+2019-04-16 23:10:28.880548_13,rock,Coldplay,Yellow,1573056,https://www.last.fm/music/Coldplay/_/Yellow
+2019-04-16 23:10:29.051361_14,rock,Red Hot Chili Peppers,Under the Bridge,1536919,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Under+the+Bridge
+2019-04-16 23:10:29.275040_15,rock,The White Stripes,Seven Nation Army,1511001,https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army
+2019-04-16 23:10:29.446286_16,rock,System of a Down,Chop Suey!,1503958,https://www.last.fm/music/System+of+a+Down/_/Chop+Suey%21
+2019-04-16 23:10:29.617715_17,rock,Coldplay,Fix You,1493265,https://www.last.fm/music/Coldplay/_/Fix+You
+2019-04-16 23:10:29.791585_18,rock,Gorillaz,Feel Good Inc.,1493044,https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.
+2019-04-16 23:10:29.967051_19,rock,Kings of Leon,Sex on Fire,1484123,https://www.last.fm/music/Kings+of+Leon/_/Sex+on+Fire
+2019-04-16 23:10:30.187628_20,rock,Blur,Song 2,1452229,https://www.last.fm/music/Blur/_/Song+2
+2019-04-16 23:10:30.349566_21,rock,Nirvana,Lithium,1449236,https://www.last.fm/music/Nirvana/_/Lithium
+2019-04-16 23:10:30.507910_22,rock,Linkin Park,In the End,1410919,https://www.last.fm/music/Linkin+Park/_/In+the+End
+2019-04-16 23:10:30.651580_23,rock,Snow Patrol,Chasing Cars,1386242,https://www.last.fm/music/Snow+Patrol/_/Chasing+Cars
+2019-04-16 23:10:30.813199_24,rock,Guns N' Roses,Sweet Child o' Mine,10567,https://www.last.fm/music/Guns+N%27+Roses/_/Sweet+Child+o%27+Mine
+2019-04-16 23:10:31.123213_25,rock,Red Hot Chili Peppers,Scar Tissue,1377557,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Scar+Tissue
+2019-04-16 23:10:31.433812_26,rock,Queen,Bohemian Rhapsody,1371704,https://www.last.fm/music/Queen/_/Bohemian+Rhapsody
+2019-04-16 23:10:31.584382_27,rock,Red Hot Chili Peppers,Otherside,1367657,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Otherside
+2019-04-16 23:10:31.746865_28,rock,The Killers,When You Were Young,1366959,https://www.last.fm/music/The+Killers/_/When+You+Were+Young
+2019-04-16 23:10:31.983257_29,rock,Muse,Supermassive Black Hole,1363149,https://www.last.fm/music/Muse/_/Supermassive+Black+Hole
+2019-04-16 23:10:32.154510_30,rock,Kings of Leon,Use Somebody,1359439,https://www.last.fm/music/Kings+of+Leon/_/Use+Somebody
+2019-04-16 23:10:32.307237_31,rock,Muse,Starlight,1353016,https://www.last.fm/music/Muse/_/Starlight
+2019-04-16 23:10:32.464776_32,rock,Radiohead,Paranoid Android,1341255,https://www.last.fm/music/Radiohead/_/Paranoid+Android
+2019-04-16 23:10:33.627470_33,rock,Foo Fighters,Everlong,1323467,https://www.last.fm/music/Foo+Fighters/_/Everlong
+2019-04-16 23:10:33.862461_34,rock,Goo Goo Dolls,Iris,1306919,https://www.last.fm/music/Goo+Goo+Dolls/_/Iris
+2019-04-16 23:10:34.017584_35,rock,Radiohead,No Surprises,1305533,https://www.last.fm/music/Radiohead/_/No+Surprises
+2019-04-16 23:10:34.312989_36,rock,Led Zeppelin,Stairway to Heaven,1296161,https://www.last.fm/music/Led+Zeppelin/_/Stairway+to+Heaven
+2019-04-16 23:10:34.462697_37,rock,Linkin Park,Numb,1274345,https://www.last.fm/music/Linkin+Park/_/Numb
+2019-04-16 23:10:34.614565_38,rock,Red Hot Chili Peppers,Dani California,1267212,https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Dani+California
+2019-04-16 23:10:34.919062_39,rock,The Cranberries,Zombie,1260949,https://www.last.fm/music/The+Cranberries/_/Zombie
+2019-04-16 23:10:35.082623_40,rock,Arctic Monkeys,I Bet You Look Good on the Dancefloor,1251461,https://www.last.fm/music/Arctic+Monkeys/_/I+Bet+You+Look+Good+on+the+Dancefloor
+2019-04-16 23:10:35.239590_41,rock,Guns N' Roses,Welcome to the Jungle,1249992,https://www.last.fm/music/Guns+N%27+Roses/_/Welcome+to+the+Jungle
+2019-04-16 23:10:35.392459_42,rock,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
+2019-04-16 23:10:35.547420_43,rock,The Rolling Stones,Paint It Black,1233629,https://www.last.fm/music/The+Rolling+Stones/_/Paint+It+Black
+2019-04-16 23:10:35.785561_44,rock,The Killers,All These Things That I've Done,1229360,https://www.last.fm/music/The+Killers/_/All+These+Things+That+I%27ve+Done
+2019-04-16 23:10:36.010747_45,rock,Muse,Time Is Running Out,1228516,https://www.last.fm/music/Muse/_/Time+Is+Running+Out
+2019-04-16 23:10:36.306507_46,rock,Rage Against the Machine,Killing in the Name,1227767,https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name
+2019-04-16 23:10:36.530237_47,rock,Foo Fighters,The Pretender,1222789,https://www.last.fm/music/Foo+Fighters/_/The+Pretender
+2019-04-16 23:10:36.794787_48,rock,The Strokes,Reptilia,1220795,https://www.last.fm/music/The+Strokes/_/Reptilia
+2019-04-16 23:10:36.955342_49,rock,blink-182,All the Small Things,1202634,https://www.last.fm/music/blink-182/_/All+the+Small+Things
+2019-04-16 23:10:37.244360_50,rock,R.E.M.,Losing My Religion,1198163,https://www.last.fm/music/R.E.M./_/Losing+My+Religion
+2019-04-16 23:10:37.777932_1,jazz,Amy Winehouse,Rehab,1181382,https://www.last.fm/music/Amy+Winehouse/_/Rehab
+2019-04-16 23:10:38.009068_2,jazz,Amy Winehouse,Back to Black,1162709,https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black
+2019-04-16 23:10:38.164454_3,jazz,Amy Winehouse,You Know I'm No Good,1041174,https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good
+2019-04-16 23:10:38.482980_4,jazz,Amy Winehouse,Tears Dry on Their Own,855965,https://www.last.fm/music/Amy+Winehouse/_/Tears+Dry+on+Their+Own
+2019-04-16 23:10:38.785823_5,jazz,Louis Armstrong,What A Wonderful World,769021,https://www.last.fm/music/Louis+Armstrong/_/What+A+Wonderful+World
+2019-04-16 23:10:39.004418_6,jazz,Amy Winehouse,Love Is a Losing Game,768447,https://www.last.fm/music/Amy+Winehouse/_/Love+Is+a+Losing+Game
+2019-04-16 23:10:39.444594_7,jazz,Duffy,Mercy,756712,https://www.last.fm/music/Duffy/_/Mercy
+2019-04-16 23:10:39.604270_8,jazz,Norah Jones,Don't Know Why,746076,https://www.last.fm/music/Norah+Jones/_/Don%27t+Know+Why
+2019-04-16 23:10:39.907794_9,jazz,Aretha Franklin,Respect,734443,https://www.last.fm/music/Aretha+Franklin/_/Respect
+2019-04-16 23:10:40.084052_10,jazz,Radiohead,The National Anthem,733155,https://www.last.fm/music/Radiohead/_/The+National+Anthem
+2019-04-16 23:10:40.376537_11,jazz,Norah Jones,Come Away with Me,699062,https://www.last.fm/music/Norah+Jones/_/Come+Away+with+Me
+2019-04-16 23:10:40.689011_12,jazz,Amy Winehouse,Just Friends,649969,https://www.last.fm/music/Amy+Winehouse/_/Just+Friends
+2019-04-16 23:10:41.004565_13,jazz,Ray Charles,Hit the Road Jack,644023,https://www.last.fm/music/Ray+Charles/_/Hit+the+Road+Jack
+2019-04-16 23:10:41.313492_14,jazz,Amy Winehouse,Wake Up Alone,642295,https://www.last.fm/music/Amy+Winehouse/_/Wake+Up+Alone
+2019-04-16 23:10:41.470162_15,jazz,Corinne Bailey Rae,Put Your Records On,626921,https://www.last.fm/music/Corinne+Bailey+Rae/_/Put+Your+Records+On
+2019-04-16 23:10:41.767857_16,jazz,Amy Winehouse,He Can Only Hold Her,624751,https://www.last.fm/music/Amy+Winehouse/_/He+Can+Only+Hold+Her
+2019-04-16 23:10:41.922730_17,jazz,Nina Simone,Feeling Good,794026,https://www.last.fm/music/Nina+Simone/_/Feeling+Good
+2019-04-16 23:10:42.230499_18,jazz,Amy Winehouse,Some Unholy War,603783,https://www.last.fm/music/Amy+Winehouse/_/Some+Unholy+War
+2019-04-16 23:10:42.391337_19,jazz,Miles Davis,So What,692645,https://www.last.fm/music/Miles+Davis/_/So+What
+2019-04-16 23:10:42.566968_20,jazz,Norah Jones,Sunrise,557564,https://www.last.fm/music/Norah+Jones/_/Sunrise
+2019-04-16 23:10:42.729471_21,jazz,Miles Davis,Blue in Green,529340,https://www.last.fm/music/Miles+Davis/_/Blue+in+Green
+2019-04-16 23:10:42.880940_22,jazz,Norah Jones,Turn Me On,518083,https://www.last.fm/music/Norah+Jones/_/Turn+Me+On
+2019-04-16 23:10:43.052982_23,jazz,Frank Sinatra,My Way,547449,https://www.last.fm/music/Frank+Sinatra/_/My+Way
+2019-04-16 23:10:43.213434_24,jazz,Sting,Englishman in New York,489206,https://www.last.fm/music/Sting/_/Englishman+in+New+York
+2019-04-16 23:10:43.509489_25,jazz,Christina Aguilera,Ain't No Other Man,482461,https://www.last.fm/music/Christina+Aguilera/_/Ain%27t+No+Other+Man
+2019-04-16 23:10:43.818725_26,jazz,Amy Winehouse,Addicted,289784,https://www.last.fm/music/Amy+Winehouse/_/Addicted
+2019-04-16 23:10:43.983716_27,jazz,Adele,Cold Shoulder,473310,https://www.last.fm/music/Adele/_/Cold+Shoulder
+2019-04-16 23:10:44.152851_28,jazz,Christina Aguilera,Candyman,466361,https://www.last.fm/music/Christina+Aguilera/_/Candyman
+2019-04-16 23:10:44.449835_29,jazz,Adele,He Won't Go,466065,https://www.last.fm/music/Adele/_/He+Won%27t+Go
+2019-04-16 23:10:44.688928_30,jazz,The Cinematic Orchestra,To Build a Home,457973,https://www.last.fm/music/The+Cinematic+Orchestra/_/To+Build+a+Home
+2019-04-16 23:10:44.975568_31,jazz,Etta James,At Last,451205,https://www.last.fm/music/Etta+James/_/At+Last
+2019-04-16 23:10:45.148910_32,jazz,Daft Punk,Giorgio by Moroder,449573,https://www.last.fm/music/Daft+Punk/_/Giorgio+by+Moroder
+2019-04-16 23:10:45.387723_33,jazz,Van Morrison,Moondance,443594,https://www.last.fm/music/Van+Morrison/_/Moondance
+2019-04-16 23:10:45.638487_34,jazz,Björk,It's Oh So Quiet,443334,https://www.last.fm/music/Bj%C3%B6rk/_/It%27s+Oh+So+Quiet
+2019-04-16 23:10:45.790944_35,jazz,Ray Charles,Georgia On My Mind,428316,https://www.last.fm/music/Ray+Charles/_/Georgia+On+My+Mind
+2019-04-16 23:10:46.019091_36,jazz,Nina Simone,My Baby Just Cares for Me,424670,https://www.last.fm/music/Nina+Simone/_/My+Baby+Just+Cares+for+Me
+2019-04-16 23:10:46.314125_37,jazz,Adele,Best for Last,423799,https://www.last.fm/music/Adele/_/Best+for+Last
+2019-04-16 23:10:46.483931_38,jazz,Frank Sinatra,Fly Me to the Moon,420957,https://www.last.fm/music/Frank+Sinatra/_/Fly+Me+to+the+Moon
+2019-04-16 23:10:46.779895_39,jazz,Amy Winehouse,Me & Mr Jones,416320,https://www.last.fm/music/Amy+Winehouse/_/Me+&+Mr+Jones
+2019-04-16 23:10:46.946345_40,jazz,Miles Davis,Freddie Freeloader,411620,https://www.last.fm/music/Miles+Davis/_/Freddie+Freeloader
+2019-04-16 23:10:47.097941_41,jazz,Michael Bublé,Feeling Good,794026,https://www.last.fm/music/Michael+Bubl%C3%A9/_/Feeling+Good
+2019-04-16 23:10:47.353075_42,jazz,Norah Jones,Seven Years,257394,https://www.last.fm/music/Norah+Jones/_/Seven+Years
+2019-04-16 23:10:47.666566_43,jazz,Michael Bublé,Home,826874,https://www.last.fm/music/Michael+Bubl%C3%A9/_/Home
+2019-04-16 23:10:47.829362_44,jazz,Corinne Bailey Rae,Like a Star,401098,https://www.last.fm/music/Corinne+Bailey+Rae/_/Like+a+Star
+2019-04-16 23:10:47.986368_45,jazz,Nina Simone,I Put a Spell on You,400596,https://www.last.fm/music/Nina+Simone/_/I+Put+a+Spell+on+You
+2019-04-16 23:10:48.170770_46,jazz,Aretha Franklin,Think,584635,https://www.last.fm/music/Aretha+Franklin/_/Think
+2019-04-16 23:10:48.410786_47,jazz,Miles Davis,All Blues,392870,https://www.last.fm/music/Miles+Davis/_/All+Blues
+2019-04-16 23:10:48.652150_48,jazz,Buena Vista Social Club,Chan Chan,392669,https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan
+2019-04-16 23:10:48.944633_49,jazz,Frank Sinatra,I've Got You Under My Skin,391876,https://www.last.fm/music/Frank+Sinatra/_/I%27ve+Got+You+Under+My+Skin
+2019-04-16 23:10:49.176395_50,jazz,Frank Sinatra,Strangers in the Night,388180,https://www.last.fm/music/Frank+Sinatra/_/Strangers+in+the+Night
+2019-04-16 23:10:49.838777_1,rap,Kanye West,Stronger,1362543,https://www.last.fm/music/Kanye+West/_/Stronger
+2019-04-16 23:10:50.148575_2,rap,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
+2019-04-16 23:10:50.319075_3,rap,Lil' Wayne,Lollipop,1191882,https://www.last.fm/music/Lil%27+Wayne/_/Lollipop
+2019-04-16 23:10:50.558370_4,rap,Drake,Best I Ever Had,1083082,https://www.last.fm/music/Drake/_/Best+I+Ever+Had
+2019-04-16 23:10:50.712902_5,rap,Kanye West,Heartless,1079992,https://www.last.fm/music/Kanye+West/_/Heartless
+2019-04-16 23:10:50.873125_6,rap,50 Cent,In Da Club,971591,https://www.last.fm/music/50+Cent/_/In+Da+Club
+2019-04-16 23:10:51.035321_7,rap,Eminem,Lose Yourself,870816,https://www.last.fm/music/Eminem/_/Lose+Yourself
+2019-04-16 23:10:51.194344_8,rap,OutKast,Ms. Jackson,864914,https://www.last.fm/music/OutKast/_/Ms.+Jackson
+2019-04-16 23:10:51.482939_9,rap,T.I.,Whatever You Like,839757,https://www.last.fm/music/T.I./_/Whatever+You+Like
+2019-04-16 23:10:51.648410_10,rap,Dr. Dre,Still D.R.E.,825297,https://www.last.fm/music/Dr.+Dre/_/Still+D.R.E.
+2019-04-16 23:10:51.917502_11,rap,Jay-Z,99 Problems,819085,https://www.last.fm/music/Jay-Z/_/99+Problems
+2019-04-16 23:10:52.238056_12,rap,OutKast,Hey Ya!,813976,https://www.last.fm/music/OutKast/_/Hey+Ya%21
+2019-04-16 23:10:52.391151_13,rap,Ice Cube,It Was A Good Day,783153,https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day
+2019-04-16 23:10:52.565732_14,rap,The Notorious B.I.G.,Juicy,775669,https://www.last.fm/music/The+Notorious+B.I.G./_/Juicy
+2019-04-16 23:10:52.731593_15,rap,Eminem,Without Me,775137,https://www.last.fm/music/Eminem/_/Without+Me
+2019-04-16 23:10:52.885328_16,rap,Dr. Dre,The Next Episode,764494,https://www.last.fm/music/Dr.+Dre/_/The+Next+Episode
+2019-04-16 23:10:53.050402_17,rap,Eminem,The Real Slim Shady,753247,https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady
+2019-04-16 23:10:53.210626_18,rap,Kanye West,Love Lockdown,746851,https://www.last.fm/music/Kanye+West/_/Love+Lockdown
+2019-04-16 23:10:53.374496_19,rap,Kanye West,Can't Tell Me Nothing,744947,https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing
+2019-04-16 23:10:53.667028_20,rap,Black Eyed Peas,Boom Boom Pow,735289,https://www.last.fm/music/Black+Eyed+Peas/_/Boom+Boom+Pow
+2019-04-16 23:10:53.841109_21,rap,Kanye West,All of the Lights,721339,https://www.last.fm/music/Kanye+West/_/All+of+the+Lights
+2019-04-16 23:10:54.062884_22,rap,Beastie Boys,Sabotage,714766,https://www.last.fm/music/Beastie+Boys/_/Sabotage
+2019-04-16 23:10:54.230981_23,rap,The Game,Hate it or love it,486547,https://www.last.fm/music/The+Game/_/Hate+it+or+love+it
+2019-04-16 23:10:54.380419_24,rap,Lil' Wayne,Drop The World,700770,https://www.last.fm/music/Lil%27+Wayne/_/Drop+The+World
+2019-04-16 23:10:54.544099_25,rap,Coolio,Gangsta's Paradise,689359,https://www.last.fm/music/Coolio/_/Gangsta%27s+Paradise
+2019-04-16 23:10:54.843883_26,rap,Eminem,Not Afraid,56191,https://www.last.fm/music/Eminem/_/Not+Afraid
+2019-04-16 23:10:55.023456_27,rap,Drake,Forever,690350,https://www.last.fm/music/Drake/_/Forever
+2019-04-16 23:10:55.252295_28,rap,Kid Cudi,Soundtrack 2 My Life,664307,https://www.last.fm/music/Kid+Cudi/_/Soundtrack+2+My+Life
+2019-04-16 23:10:55.412404_29,rap,Wiz Khalifa,Say Yeah,661286,https://www.last.fm/music/Wiz+Khalifa/_/Say+Yeah
+2019-04-16 23:10:55.715438_30,rap,Black Eyed Peas,Pump It,650024,https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It
+2019-04-16 23:10:55.877445_31,rap,Eminem,Mockingbird,647363,https://www.last.fm/music/Eminem/_/Mockingbird
+2019-04-16 23:10:56.116698_32,rap,Kanye West,Power,646620,https://www.last.fm/music/Kanye+West/_/Power
+2019-04-16 23:10:56.276289_33,rap,Eminem,Sing for the Moment,634685,https://www.last.fm/music/Eminem/_/Sing+for+the+Moment
+2019-04-16 23:10:56.571453_34,rap,The Notorious B.I.G.,Hypnotize,742189,https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize
+2019-04-16 23:10:56.741964_35,rap,50 Cent,Candy Shop,633148,https://www.last.fm/music/50+Cent/_/Candy+Shop
+2019-04-16 23:10:56.921609_36,rap,Black Eyed Peas,Where Is the Love,628297,https://www.last.fm/music/Black+Eyed+Peas/_/Where+Is+the+Love
+2019-04-16 23:10:57.095648_37,rap,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),615341,https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Can%27t+Hold+Us+(feat.+Ray+Dalton)
+2019-04-16 23:10:57.257610_38,rap,Eminem,My Name Is,650041,https://www.last.fm/music/Eminem/_/My+Name+Is
+2019-04-16 23:10:57.420963_39,rap,Kanye West,Gold Digger,612800,https://www.last.fm/music/Kanye+West/_/Gold+Digger
+2019-04-16 23:10:57.584167_40,rap,Eminem,Stan,594028,https://www.last.fm/music/Eminem/_/Stan
+2019-04-16 23:10:57.812557_41,rap,House of Pain,Jump Around,610387,https://www.last.fm/music/House+of+Pain/_/Jump+Around
+2019-04-16 23:10:58.047844_42,rap,Black Eyed Peas,My Humps,592908,https://www.last.fm/music/Black+Eyed+Peas/_/My+Humps
+2019-04-16 23:10:58.276816_43,rap,Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),592542,https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Thrift+Shop+(feat.+Wanz)
+2019-04-16 23:10:58.448515_44,rap,Lil' Wayne,A Milli,590262,https://www.last.fm/music/Lil%27+Wayne/_/A+Milli
+2019-04-16 23:10:58.610509_45,rap,Lupe Fiasco,Superstar,407019,https://www.last.fm/music/Lupe+Fiasco/_/Superstar
+2019-04-16 23:10:58.911812_46,rap,Snoop Dogg,Drop It Like It's Hot,580813,https://www.last.fm/music/Snoop+Dogg/_/Drop+It+Like+It%27s+Hot
+2019-04-16 23:10:59.083595_47,rap,Drake,Over,1129375,https://www.last.fm/music/Drake/_/Over
+2019-04-16 23:10:59.321542_48,rap,Wu-Tang Clan,C.R.E.A.M.,574643,https://www.last.fm/music/Wu-Tang+Clan/_/C.R.E.A.M.
+2019-04-16 23:10:59.566347_49,rap,Black Eyed Peas,Meet Me Halfway,571366,https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway
+2019-04-16 23:10:59.731345_50,rap,Eminem,Love The Way You Lie,570607,https://www.last.fm/music/Eminem/_/Love+The+Way+You+Lie
+2019-04-16 23:11:00.288531_1,electronic,MGMT,Kids,1587041,https://www.last.fm/music/MGMT/_/Kids
+2019-04-16 23:11:00.444326_2,electronic,Gorillaz,Feel Good Inc.,1493044,https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.
+2019-04-16 23:11:00.673332_3,electronic,Lady Gaga,Poker Face,1443981,https://www.last.fm/music/Lady+Gaga/_/Poker+Face
+2019-04-16 23:11:00.993629_4,electronic,MGMT,Electric Feel,1407081,https://www.last.fm/music/MGMT/_/Electric+Feel
+2019-04-16 23:11:01.248327_5,electronic,MGMT,Time to Pretend,1401754,https://www.last.fm/music/MGMT/_/Time+to+Pretend
+2019-04-16 23:11:01.497983_6,electronic,Kanye West,Stronger,1362543,https://www.last.fm/music/Kanye+West/_/Stronger
+2019-04-16 23:11:01.797407_7,electronic,Radiohead,Paranoid Android,1341255,https://www.last.fm/music/Radiohead/_/Paranoid+Android
+2019-04-16 23:11:01.962615_8,electronic,Ke$ha,TiK ToK,1329947,https://www.last.fm/music/Ke$ha/_/TiK+ToK
+2019-04-16 23:11:02.135698_9,electronic,Massive Attack,Teardrop,1304746,https://www.last.fm/music/Massive+Attack/_/Teardrop
+2019-04-16 23:11:02.365840_10,electronic,Gorillaz,Clint Eastwood,1234014,https://www.last.fm/music/Gorillaz/_/Clint+Eastwood
+2019-04-16 23:11:02.531118_11,electronic,Daft Punk,"Harder, Better, Faster, Stronger",1231668,"https://www.last.fm/music/Daft+Punk/_/Harder,+Better,+Faster,+Stronger"
+2019-04-16 23:11:02.689123_12,electronic,Daft Punk,One More Time,1180042,https://www.last.fm/music/Daft+Punk/_/One+More+Time
+2019-04-16 23:11:02.921901_13,electronic,M.I.A.,Paper Planes,1143835,https://www.last.fm/music/M.I.A./_/Paper+Planes
+2019-04-16 23:11:03.077053_14,electronic,Lady Gaga,Bad Romance,1140580,https://www.last.fm/music/Lady+Gaga/_/Bad+Romance
+2019-04-16 23:11:03.406410_15,electronic,The Postal Service,Such Great Heights,1117928,https://www.last.fm/music/The+Postal+Service/_/Such+Great+Heights
+2019-04-16 23:11:03.559811_16,electronic,The xx,Intro,1095857,https://www.last.fm/music/The+xx/_/Intro
+2019-04-16 23:11:03.792168_17,electronic,Lady Gaga,Paparazzi,1068997,https://www.last.fm/music/Lady+Gaga/_/Paparazzi
+2019-04-16 23:11:03.968810_18,electronic,Gorillaz,DARE,1049957,https://www.last.fm/music/Gorillaz/_/DARE
+2019-04-16 23:11:04.192588_19,electronic,Gotye,Somebody That I Used To Know,1039878,https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+To+Know
+2019-04-16 23:11:04.352469_20,electronic,Lady Gaga,Just Dance,1032046,https://www.last.fm/music/Lady+Gaga/_/Just+Dance
+2019-04-16 23:11:04.517713_21,electronic,The xx,Crystalised,992765,https://www.last.fm/music/The+xx/_/Crystalised
+2019-04-16 23:11:04.689242_22,electronic,Black Eyed Peas,I Gotta Feeling,988396,https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling
+2019-04-16 23:11:04.844814_23,electronic,Radiohead,Everything in Its Right Place,987830,https://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place
+2019-04-16 23:11:05.140318_24,electronic,M83,Midnight City,973503,https://www.last.fm/music/M83/_/Midnight+City
+2019-04-16 23:11:05.392530_25,electronic,Radiohead,Airbag,961723,https://www.last.fm/music/Radiohead/_/Airbag
+2019-04-16 23:11:05.553871_26,electronic,Radiohead,15 Step,959015,https://www.last.fm/music/Radiohead/_/15+Step
+2019-04-16 23:11:05.875828_27,electronic,Radiohead,All I Need,945316,https://www.last.fm/music/Radiohead/_/All+I+Need
+2019-04-16 23:11:06.044851_28,electronic,Phoenix,1901,935612,https://www.last.fm/music/Phoenix/_/1901
+2019-04-16 23:11:06.217470_29,electronic,The xx,Islands,914078,https://www.last.fm/music/The+xx/_/Islands
+2019-04-16 23:11:06.384686_30,electronic,The Killers,Human,911111,https://www.last.fm/music/The+Killers/_/Human
+2019-04-16 23:11:06.545488_31,electronic,Radiohead,Reckoner,910383,https://www.last.fm/music/Radiohead/_/Reckoner
+2019-04-16 23:11:06.708555_32,electronic,The xx,VCR,909591,https://www.last.fm/music/The+xx/_/VCR
+2019-04-16 23:11:06.870758_33,electronic,Daft Punk,Around the World,906625,https://www.last.fm/music/Daft+Punk/_/Around+the+World
+2019-04-16 23:11:07.182821_34,electronic,Radiohead,Bodysnatchers,902487,https://www.last.fm/music/Radiohead/_/Bodysnatchers
+2019-04-16 23:11:07.352989_35,electronic,Massive Attack,Angel,696933,https://www.last.fm/music/Massive+Attack/_/Angel
+2019-04-16 23:11:07.513889_36,electronic,Depeche Mode,Enjoy the Silence,890443,https://www.last.fm/music/Depeche+Mode/_/Enjoy+the+Silence
+2019-04-16 23:11:07.677726_37,electronic,Phoenix,Lisztomania,887610,https://www.last.fm/music/Phoenix/_/Lisztomania
+2019-04-16 23:11:07.859861_38,electronic,Two Door Cinema Club,What You Know,879453,https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know
+2019-04-16 23:11:08.040048_39,electronic,Moby,Porcelain,877054,https://www.last.fm/music/Moby/_/Porcelain
+2019-04-16 23:11:08.195631_40,electronic,Radiohead,Jigsaw Falling Into Place,874692,https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place
+2019-04-16 23:11:08.363525_41,electronic,MGMT,Weekend Wars,866717,https://www.last.fm/music/MGMT/_/Weekend+Wars
+2019-04-16 23:11:08.648510_42,electronic,Portishead,Glory Box,865753,https://www.last.fm/music/Portishead/_/Glory+Box
+2019-04-16 23:11:08.900192_43,electronic,Radiohead,House of Cards,862190,https://www.last.fm/music/Radiohead/_/House+of+Cards
+2019-04-16 23:11:09.078020_44,electronic,Radiohead,Idioteque,858438,https://www.last.fm/music/Radiohead/_/Idioteque
+2019-04-16 23:11:09.366639_45,electronic,Radiohead,Subterranean Homesick Alien,855921,https://www.last.fm/music/Radiohead/_/Subterranean+Homesick+Alien
+2019-04-16 23:11:09.533027_46,electronic,Passion Pit,Sleepyhead,848153,https://www.last.fm/music/Passion+Pit/_/Sleepyhead
+2019-04-16 23:11:09.702512_47,electronic,Lady Gaga,LoveGame,846496,https://www.last.fm/music/Lady+Gaga/_/LoveGame
+2019-04-16 23:11:10.007766_48,electronic,Radiohead,Nude,846464,https://www.last.fm/music/Radiohead/_/Nude
+2019-04-16 23:11:10.307993_49,electronic,Lorde,Royals,839275,https://www.last.fm/music/Lorde/_/Royals
+2019-04-16 23:11:10.487511_50,electronic,Lady Gaga,Alejandro,838224,https://www.last.fm/music/Lady+Gaga/_/Alejandro
+2019-04-16 23:11:11.113974_1,soul,Adele,Rolling in the Deep,1252856,https://www.last.fm/music/Adele/_/Rolling+in+the+Deep
+2019-04-16 23:11:11.289897_2,soul,Amy Winehouse,Rehab,1181382,https://www.last.fm/music/Amy+Winehouse/_/Rehab
+2019-04-16 23:11:11.453975_3,soul,Amy Winehouse,Back to Black,1162709,https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black
+2019-04-16 23:11:11.617938_4,soul,Gnarls Barkley,Crazy,1109377,https://www.last.fm/music/Gnarls+Barkley/_/Crazy
+2019-04-16 23:11:11.774386_5,soul,Amy Winehouse,You Know I'm No Good,1041174,https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good
+2019-04-16 23:11:11.931966_6,soul,Adele,Someone Like You,995757,https://www.last.fm/music/Adele/_/Someone+Like+You
+2019-04-16 23:11:12.098595_7,soul,Beyoncé,Halo,967663,https://www.last.fm/music/Beyonc%C3%A9/_/Halo
+2019-04-16 23:11:12.269364_8,soul,Florence + the Machine,You've Got the Love,910782,https://www.last.fm/music/Florence+%252B+the+Machine/_/You%27ve+Got+the+Love
+2019-04-16 23:11:12.435361_9,soul,Adele,Set Fire to the Rain,869051,https://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain
+2019-04-16 23:11:12.584685_10,soul,Amy Winehouse,Tears Dry on Their Own,855965,https://www.last.fm/music/Amy+Winehouse/_/Tears+Dry+on+Their+Own
+2019-04-16 23:11:12.733175_11,soul,Leona Lewis,Bleeding Love,830056,https://www.last.fm/music/Leona+Lewis/_/Bleeding+Love
+2019-04-16 23:11:12.890637_12,soul,Beyoncé,Irreplaceable,811687,https://www.last.fm/music/Beyonc%C3%A9/_/Irreplaceable
+2019-04-16 23:11:13.055197_13,soul,Adele,Chasing Pavements,809768,https://www.last.fm/music/Adele/_/Chasing+Pavements
+2019-04-16 23:11:13.204798_14,soul,The Jackson 5,I Want You Back,806298,https://www.last.fm/music/The+Jackson+5/_/I+Want+You+Back
+2019-04-16 23:11:13.361378_15,soul,Amy Winehouse,Love Is a Losing Game,768447,https://www.last.fm/music/Amy+Winehouse/_/Love+Is+a+Losing+Game
+2019-04-16 23:11:13.503997_16,soul,Duffy,Mercy,756712,https://www.last.fm/music/Duffy/_/Mercy
+2019-04-16 23:11:13.726553_17,soul,Beyoncé,Crazy in Love,736831,https://www.last.fm/music/Beyonc%C3%A9/_/Crazy+in+Love
+2019-04-16 23:11:13.904323_18,soul,Lana Del Rey,Blue Jeans,735948,https://www.last.fm/music/Lana+Del+Rey/_/Blue+Jeans
+2019-04-16 23:11:14.060105_19,soul,Aretha Franklin,Respect,734443,https://www.last.fm/music/Aretha+Franklin/_/Respect
+2019-04-16 23:11:14.229451_20,soul,Stevie Wonder,Superstition,712142,https://www.last.fm/music/Stevie+Wonder/_/Superstition
+2019-04-16 23:11:14.391847_21,soul,Adele,Make You Feel My Love,708897,https://www.last.fm/music/Adele/_/Make+You+Feel+My+Love
+2019-04-16 23:11:14.687749_22,soul,Al Green,Let's Stay Together,686435,https://www.last.fm/music/Al+Green/_/Let%27s+Stay+Together
+2019-04-16 23:11:14.989528_23,soul,Rihanna,Unfaithful,674469,https://www.last.fm/music/Rihanna/_/Unfaithful
+2019-04-16 23:11:15.158112_24,soul,Bill Withers,Ain't No Sunshine,671444,https://www.last.fm/music/Bill+Withers/_/Ain%27t+No+Sunshine
+2019-04-16 23:11:15.327722_25,soul,Hozier,Take Me to Church,662988,https://www.last.fm/music/Hozier/_/Take+Me+to+Church
+2019-04-16 23:11:15.500326_26,soul,"Earth, Wind & Fire",September,661565,"https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+2019-04-16 23:11:15.650664_27,soul,Beyoncé,If I Were a Boy,653893,https://www.last.fm/music/Beyonc%C3%A9/_/If+I+Were+a+Boy
+2019-04-16 23:11:15.875700_28,soul,Amy Winehouse,Just Friends,649969,https://www.last.fm/music/Amy+Winehouse/_/Just+Friends
+2019-04-16 23:11:16.190105_29,soul,Alicia Keys,No One,1087455,https://www.last.fm/music/Alicia+Keys/_/No+One
+2019-04-16 23:11:16.491016_30,soul,Ray Charles,Hit the Road Jack,644023,https://www.last.fm/music/Ray+Charles/_/Hit+the+Road+Jack
+2019-04-16 23:11:16.791787_31,soul,Amy Winehouse,Wake Up Alone,642295,https://www.last.fm/music/Amy+Winehouse/_/Wake+Up+Alone
+2019-04-16 23:11:17.111580_32,soul,John Mayer,Waiting on the World to Change,641943,https://www.last.fm/music/John+Mayer/_/Waiting+on+the+World+to+Change
+2019-04-16 23:11:17.280574_33,soul,Adele,Rumour Has It,635272,https://www.last.fm/music/Adele/_/Rumour+Has+It
+2019-04-16 23:11:17.441587_34,soul,Dusty Springfield,Son of a Preacher Man,626939,https://www.last.fm/music/Dusty+Springfield/_/Son+of+a+Preacher+Man
+2019-04-16 23:11:17.759315_35,soul,Corinne Bailey Rae,Put Your Records On,626921,https://www.last.fm/music/Corinne+Bailey+Rae/_/Put+Your+Records+On
+2019-04-16 23:11:17.941557_36,soul,Amy Winehouse,He Can Only Hold Her,624751,https://www.last.fm/music/Amy+Winehouse/_/He+Can+Only+Hold+Her
+2019-04-16 23:11:18.172406_37,soul,Nina Simone,Feeling Good,794026,https://www.last.fm/music/Nina+Simone/_/Feeling+Good
+2019-04-16 23:11:18.344693_38,soul,Mario,Let Me Love You,226823,https://www.last.fm/music/Mario/_/Let+Me+Love+You
+2019-04-16 23:11:18.504811_39,soul,Amy Winehouse,Some Unholy War,603783,https://www.last.fm/music/Amy+Winehouse/_/Some+Unholy+War
+2019-04-16 23:11:18.671844_40,soul,Pharrell Williams,Happy,600939,https://www.last.fm/music/Pharrell+Williams/_/Happy
+2019-04-16 23:11:18.845589_41,soul,The Temptations,My Girl,536538,https://www.last.fm/music/The+Temptations/_/My+Girl
+2019-04-16 23:11:19.031634_42,soul,The Jackson 5,ABC,595607,https://www.last.fm/music/The+Jackson+5/_/ABC
+2019-04-16 23:11:19.207436_43,soul,Ben E. King,Stand By Me,594028,https://www.last.fm/music/Ben+E.+King/_/Stand+By+Me
+2019-04-16 23:11:19.369650_44,soul,Justin Timberlake,Rock Your Body,585857,https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body
+2019-04-16 23:11:19.527592_45,soul,Frank Ocean,Thinkin Bout You,584635,https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You
+2019-04-16 23:11:19.674248_46,soul,Christina Aguilera,Beautiful,989668,https://www.last.fm/music/Christina+Aguilera/_/Beautiful
+2019-04-16 23:11:19.980955_47,soul,Adele,Hometown Glory,574284,https://www.last.fm/music/Adele/_/Hometown+Glory
+2019-04-16 23:11:20.208169_48,soul,Alicia Keys,Fallin',37797,https://www.last.fm/music/Alicia+Keys/_/Fallin%27
+2019-04-16 23:11:20.372090_49,soul,Otis Redding,(Sittin' On) The Dock of the Bay,10313,https://www.last.fm/music/Otis+Redding/_/(Sittin%27+On)+The+Dock+of+the+Bay
+2019-04-16 23:11:20.543260_50,soul,Michael Jackson,Man in the Mirror,566088,https://www.last.fm/music/Michael+Jackson/_/Man+in+the+Mirror
+2019-04-16 23:11:20.933617_1,metal,System of a Down,Chop Suey!,1503958,https://www.last.fm/music/System+of+a+Down/_/Chop+Suey%21
+2019-04-16 23:11:21.235535_2,metal,Linkin Park,In the End,1410919,https://www.last.fm/music/Linkin+Park/_/In+the+End
+2019-04-16 23:11:21.538099_3,metal,Linkin Park,Numb,1274345,https://www.last.fm/music/Linkin+Park/_/Numb
+2019-04-16 23:11:21.762476_4,metal,Guns N' Roses,Welcome to the Jungle,1249992,https://www.last.fm/music/Guns+N%27+Roses/_/Welcome+to+the+Jungle
+2019-04-16 23:11:22.040626_5,metal,Rage Against the Machine,Killing in the Name,1227767,https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name
+2019-04-16 23:11:22.364804_6,metal,Black Sabbath,Paranoid,1341255,https://www.last.fm/music/Black+Sabbath/_/Paranoid
+2019-04-16 23:11:22.519131_7,metal,System of a Down,Toxicity,1165886,https://www.last.fm/music/System+of+a+Down/_/Toxicity
+2019-04-16 23:11:22.738796_8,metal,Metallica,Enter Sandman,1114497,https://www.last.fm/music/Metallica/_/Enter+Sandman
+2019-04-16 23:11:23.059188_9,metal,Guns N' Roses,Paradise City,1108792,https://www.last.fm/music/Guns+N%27+Roses/_/Paradise+City
+2019-04-16 23:11:23.367001_10,metal,Evanescence,Bring Me to Life,1105179,https://www.last.fm/music/Evanescence/_/Bring+Me+to+Life
+2019-04-16 23:11:23.529568_11,metal,AC/DC,Back in Black,1104866,https://www.last.fm/music/AC%2FDC/_/Back+in+Black
+2019-04-16 23:11:23.771324_12,metal,Metallica,Nothing Else Matters,1101671,https://www.last.fm/music/Metallica/_/Nothing+Else+Matters
+2019-04-16 23:11:24.089675_13,metal,AC/DC,Highway to Hell,1015307,https://www.last.fm/music/AC%2FDC/_/Highway+to+Hell
+2019-04-16 23:11:24.256635_14,metal,Linkin Park,Faint,1011929,https://www.last.fm/music/Linkin+Park/_/Faint
+2019-04-16 23:11:24.432514_15,metal,System of a Down,Lonely Day,1006340,https://www.last.fm/music/System+of+a+Down/_/Lonely+Day
+2019-04-16 23:11:24.677377_16,metal,Linkin Park,One Step Closer,986296,https://www.last.fm/music/Linkin+Park/_/One+Step+Closer
+2019-04-16 23:11:24.843341_17,metal,Three Days Grace,I Hate Everything About You,981638,https://www.last.fm/music/Three+Days+Grace/_/I+Hate+Everything+About+You
+2019-04-16 23:11:25.003563_18,metal,Linkin Park,What I've Done,961829,https://www.last.fm/music/Linkin+Park/_/What+I%27ve+Done
+2019-04-16 23:11:25.178781_19,metal,System of a Down,B.Y.O.B.,958214,https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.
+2019-04-16 23:11:25.370287_20,metal,System of a Down,Aerials,939222,https://www.last.fm/music/System+of+a+Down/_/Aerials
+2019-04-16 23:11:25.619490_21,metal,Motörhead,Ace of Spades,937964,https://www.last.fm/music/Mot%C3%B6rhead/_/Ace+of+Spades
+2019-04-16 23:11:25.788062_22,metal,Evanescence,My Immortal,930559,https://www.last.fm/music/Evanescence/_/My+Immortal
+2019-04-16 23:11:25.960732_23,metal,Linkin Park,Crawling,927935,https://www.last.fm/music/Linkin+Park/_/Crawling
+2019-04-16 23:11:26.272055_24,metal,Linkin Park,Breaking the Habit,900003,https://www.last.fm/music/Linkin+Park/_/Breaking+the+Habit
+2019-04-16 23:11:26.506311_25,metal,Black Sabbath,Iron Man,891177,https://www.last.fm/music/Black+Sabbath/_/Iron+Man
+2019-04-16 23:11:26.801805_26,metal,Papa Roach,Last Resort,890972,https://www.last.fm/music/Papa+Roach/_/Last+Resort
+2019-04-16 23:11:26.960433_27,metal,Linkin Park,Somewhere I Belong,890132,https://www.last.fm/music/Linkin+Park/_/Somewhere+I+Belong
+2019-04-16 23:11:27.179435_28,metal,Disturbed,Down With the Sickness,885510,https://www.last.fm/music/Disturbed/_/Down+With+the+Sickness
+2019-04-16 23:11:27.339899_29,metal,Korn,Freak on a Leash,877821,https://www.last.fm/music/Korn/_/Freak+on+a+Leash
+2019-04-16 23:11:27.513252_30,metal,Metallica,Master of Puppets,863716,https://www.last.fm/music/Metallica/_/Master+of+Puppets
+2019-04-16 23:11:27.677167_31,metal,Rage Against the Machine,Bulls on Parade,849826,https://www.last.fm/music/Rage+Against+the+Machine/_/Bulls+on+Parade
+2019-04-16 23:11:27.843184_32,metal,Metallica,One,1180042,https://www.last.fm/music/Metallica/_/One
+2019-04-16 23:11:28.011158_33,metal,Linkin Park,Papercut,842280,https://www.last.fm/music/Linkin+Park/_/Papercut
+2019-04-16 23:11:28.310839_34,metal,AC/DC,You Shook Me All Night Long,827025,https://www.last.fm/music/AC%2FDC/_/You+Shook+Me+All+Night+Long
+2019-04-16 23:11:28.469609_35,metal,Limp Bizkit,Behind Blue Eyes,815633,https://www.last.fm/music/Limp+Bizkit/_/Behind+Blue+Eyes
+2019-04-16 23:11:28.624366_36,metal,Slipknot,Wait and Bleed,813670,https://www.last.fm/music/Slipknot/_/Wait+and+Bleed
+2019-04-16 23:11:28.784810_37,metal,Metallica,The Unforgiven,806100,https://www.last.fm/music/Metallica/_/The+Unforgiven
+2019-04-16 23:11:28.954544_38,metal,Linkin Park,Bleed It Out,802632,https://www.last.fm/music/Linkin+Park/_/Bleed+It+Out
+2019-04-16 23:11:29.178317_39,metal,Slipknot,Before I Forget,779524,https://www.last.fm/music/Slipknot/_/Before+I+Forget
+2019-04-16 23:11:29.338133_40,metal,Guns N' Roses,Knockin' on Heaven's Door,6055,https://www.last.fm/music/Guns+N%27+Roses/_/Knockin%27+on+Heaven%27s+Door
+2019-04-16 23:11:29.573041_41,metal,Three Days Grace,Animal I Have Become,760536,https://www.last.fm/music/Three+Days+Grace/_/Animal+I+Have+Become
+2019-04-16 23:11:29.796217_42,metal,Evanescence,Going Under,754758,https://www.last.fm/music/Evanescence/_/Going+Under
+2019-04-16 23:11:30.033522_43,metal,AC/DC,Thunderstruck,751806,https://www.last.fm/music/AC%2FDC/_/Thunderstruck
+2019-04-16 23:11:30.193382_44,metal,Linkin Park,Leave Out All the Rest,751342,https://www.last.fm/music/Linkin+Park/_/Leave+Out+All+the+Rest
+2019-04-16 23:11:30.363928_45,metal,Rage Against the Machine,Guerrilla Radio,745679,https://www.last.fm/music/Rage+Against+the+Machine/_/Guerrilla+Radio
+2019-04-16 23:11:30.585501_46,metal,System of a Down,Hypnotize,742189,https://www.last.fm/music/System+of+a+Down/_/Hypnotize
+2019-04-16 23:11:30.751569_47,metal,Rage Against the Machine,Bombtrack,725496,https://www.last.fm/music/Rage+Against+the+Machine/_/Bombtrack
+2019-04-16 23:11:30.927753_48,metal,Rage Against the Machine,Wake Up,663357,https://www.last.fm/music/Rage+Against+the+Machine/_/Wake+Up
+2019-04-16 23:11:31.096078_49,metal,Bullet for My Valentine,Tears Don't Fall,713258,https://www.last.fm/music/Bullet+for+My+Valentine/_/Tears+Don%27t+Fall
+2019-04-16 23:11:31.253304_50,metal,Drowning Pool,Bodies,710796,https://www.last.fm/music/Drowning+Pool/_/Bodies
