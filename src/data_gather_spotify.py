@@ -55,6 +55,13 @@ def get_access_key():
 	authdata = json.loads(auth.text)
 	return authdata["access_token"]
 
+file_name="spotify_play_"+str(datetime.date.today())+".csv"
+with open(file_name, 'a+', newline='') as file:
+	fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'popularity', 'genre']
+	writer = csv.DictWriter(file, fieldnames=fieldnames)
+	writer.writeheader()
+	
+
 token = get_access_key()
 today = datetime.datetime.now()
 parameters = {"country" : "US"}
@@ -114,11 +121,9 @@ for k in range(0, len(genre_list_common)):
 			spot.genre = genre_list_name[k]
 			spotify_track_list.append(spot.__dict__)
 			tcount += 1
-			file_name="spotify_play_"+str(datetime.date.today())+".csv"
-			with open(file_name, 'a', newline='') as file:
+			with open(file_name, 'a+', newline='') as file:
 				fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'popularity', 'genre']
 				writer = csv.DictWriter(file, fieldnames=fieldnames)
-				# writer.writeheader()
 				writer.writerow({'id': spot.id, 'artist_name': spot.artist_name, 'track_name': spot.track_name,
 				                 'track_url': spot.track_url, 'popularity':spot.popularity, 'genre':spot.genre})
 
