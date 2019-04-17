@@ -36,35 +36,33 @@ def get_listeners(song_name):
     listeners = data_points[0]['results']['trackmatches']['track'][0]['listeners']
     return listeners
 
+def get_dict(total_songs):
+    data_schema = {}
+    genre = []
+    artist = []
+    song_name = []
+    playcount = []
+    url = []
+
+    for songs in total_songs:
+        genre.append('Rock')
+        artist.append(songs['artist']['name'])
+        song_name.append(songs['name'])
+        playcount.append(get_listeners(songs['name']))
+        url.append(songs['url'])
+
+    data_schema['Genre'] = genre
+    data_schema['Artist'] = artist
+    data_schema['Song'] = song_name
+    data_schema['Listeners'] = playcount
+    data_schema['URL'] = url
+    return data_schema
+
 
 def write_to_csv(data_schema):
     last_fm_df = pd.DataFrame.from_dict(data_schema)
     last_fm_df.to_csv("FM.csv")
 
-
-
 total_songs_list = get_genre_info();
-
-data_schema = {}
-genre = []
-artist = []
-song_name = []
-playcount = []
-url = []
-
-for songs in total_songs:
-    genre.append('Rock')
-    artist.append(songs['artist']['name'])
-    song_name.append(songs['name'])
-    playcount.append(get_listeners(songs['name']))
-    url.append(songs['url'])
-
-data_schema['Genre'] = genre
-data_schema['Artist'] = artist
-data_schema['Song'] = song_name
-data_schema['Listeners'] = playcount
-data_schema['URL'] = url
-
-write_to_csv(data_schema)
-
-print(data_schema)
+final_dict = get_dict(total_songs_list)
+write_to_csv(final_dict)
