@@ -46,7 +46,7 @@ def get_dict(total_songs, tag):
 
 
     for songs in total_songs:
-        genre.append(tag)
+        genre.append(tag.title())
         artist.append(songs['artist']['name'])
         song_name.append(songs['name'])
         playcount.append(get_listeners(songs['name']))
