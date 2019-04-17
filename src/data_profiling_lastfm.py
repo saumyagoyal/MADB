@@ -2,14 +2,13 @@ import json
 import requests
 import pandas as pd
 
-def get_genre_info():
+def get_genre_info(genre):
     data_points_tag = []
-
 
     url= "http://ws.audioscrobbler.com/2.0/"
     params = {
         "method": "tag.gettoptracks",
-        "tag": "rock",
+        "tag": genre,
         "api_key": "e86f0e6ebb5cf5776b4276d520ea541e",
         "format": "json"
     }
@@ -21,7 +20,6 @@ def get_genre_info():
 
 def get_listeners(song_name):
     data_points = []
-
 
     url= "http://ws.audioscrobbler.com/2.0/"
     params = {
@@ -36,21 +34,28 @@ def get_listeners(song_name):
     listeners = data_points[0]['results']['trackmatches']['track'][0]['listeners']
     return listeners
 
-def get_dict(total_songs):
+def get_dict(total_songs, tag):
     data_schema = {}
     genre = []
     artist = []
     song_name = []
     playcount = []
     url = []
+    index = []
+    tcount = 1
+
 
     for songs in total_songs:
-        genre.append('Rock')
+        genre.append(tag)
         artist.append(songs['artist']['name'])
         song_name.append(songs['name'])
         playcount.append(get_listeners(songs['name']))
         url.append(songs['url'])
+        ind = str(datetime.datetime.now()) + "_" + str(tcount)
+        index.append(ind)
+        tcount += 1
 
+    data_schema['Id'] = index
     data_schema['Genre'] = genre
     data_schema['Artist'] = artist
     data_schema['Song'] = song_name
@@ -59,10 +64,24 @@ def get_dict(total_songs):
     return data_schema
 
 
-def write_to_csv(data_schema):
+def write_to_df(data_schema):
     last_fm_df = pd.DataFrame.from_dict(data_schema)
-    last_fm_df.to_csv("FM.csv")
+    last_fm_df.set_index('Id', inplace = True)
+    return last_fm_df
 
-total_songs_list = get_genre_info();
-final_dict = get_dict(total_songs_list)
-write_to_csv(final_dict)
+def write_to_csv(df):
+    ind = str(datetime.datetime.now()).split()
+    df.to_csv("FM_%s.csv" %ind[0])
+
+
+tags = ['pop', 'classical', 'rock', 'jazz', 'rap', 'electronic', 'soul', 'metal']
+append_list = []
+
+for tag in tags:
+    total_songs_list = get_genre_info(tag);
+    final_dict = get_dict(total_songs_list, tag)
+    df = write_to_df(final_dict)
+    append_list.append(df)
+
+final_frame = pd.concat(append_list, axis=0)
+write_to_csv(final_frame)
