@@ -1,0 +1,801 @@
+id,artist_name,track_name,track_url,genre
+2019-04-16 21:50:43.565900_1,Ariana Grande,7 rings,https://listen.hs.llnwd.net/g3/2/1/1/3/6/1479363112.mp3,Pop
+2019-04-16 21:50:43.565900_2,Halsey,Without Me,https://listen.hs.llnwd.net/g3/4/6/1/6/4/1446446164.mp3,Pop
+2019-04-16 21:50:43.565900_3,Bebe Rexha,Meant to Be (feat. Florida Georgia Line),https://listen.hs.llnwd.net/g3/1/3/4/6/4/1420746431.mp3,Pop
+2019-04-16 21:50:43.565900_4,Maroon 5,Girls Like You,https://listen.hs.llnwd.net/g3/8/5/2/0/9/1417790258.mp3,Pop
+2019-04-16 21:50:43.565900_5,Ariana Grande,"break up with your girlfriend, i'm bored",https://listen.hs.llnwd.net/g3/6/1/1/3/6/1479363116.mp3,Pop
+2019-04-16 21:50:43.565900_6,"benny blanco, Halsey, Khalid",Eastside,https://listen.hs.llnwd.net/g3/2/1/5/7/7/1424977512.mp3,Pop
+2019-04-16 21:50:43.565900_7,Bruno Mars,That's What I Like,https://listen.hs.llnwd.net/g3/0/3/4/4/7/1411674430.mp3,Pop
+2019-04-16 21:50:43.565900_8,Bruno Mars,24K Magic,https://listen.hs.llnwd.net/g3/4/1/5/4/7/1411674514.mp3,Pop
+2019-04-16 21:50:43.565900_9,Jonas Brothers,Sucker,https://listen.hs.llnwd.net/g3/6/0/2/7/8/1486487206.mp3,Pop
+2019-04-16 21:50:43.565900_10,Mark Ronson,Uptown Funk,https://listen.hs.llnwd.net/g3/7/4/4/7/8/1138387447.mp3,Pop
+2019-04-16 21:50:43.565900_11,Ariana Grande,"thank u, next",https://listen.hs.llnwd.net/g3/5/1/1/3/6/1479363115.mp3,Pop
+2019-04-16 21:50:43.565900_12,5 Seconds Of Summer,Youngblood,https://listen.hs.llnwd.net/g3/4/6/6/9/2/1417929664.mp3,Pop
+2019-04-16 21:50:43.565900_13,Rihanna,Love On The Brain,https://listen.hs.llnwd.net/g3/1/8/2/0/5/1242150281.mp3,Pop
+2019-04-16 21:50:43.565900_14,James Arthur,Say You Won't Let Go,https://listen.hs.llnwd.net/g3/7/8/4/5/2/1299725487.mp3,Pop
+2019-04-16 21:50:43.565900_15,Camila Cabello,Havana,https://listen.hs.llnwd.net/g3/5/6/7/0/9/1384690765.mp3,Pop
+2019-04-16 21:50:43.565900_16,Flo Rida,My House,https://listen.hs.llnwd.net/g3/8/0/6/9/4/1325449608.mp3,Pop
+2019-04-16 21:50:43.565900_17,Maroon 5,Sugar,https://listen.hs.llnwd.net/g3/8/9/0/4/7/1282774098.mp3,Pop
+2019-04-16 21:50:43.565900_18,Adele,Hello,https://listen.hs.llnwd.net/g3/9/0/8/8/6/1272568809.mp3,Pop
+2019-04-16 21:50:43.565900_19,Bazzi,Mine,https://listen.hs.llnwd.net/g3/3/2/2/5/2/1404225223.mp3,Pop
+2019-04-16 21:50:43.565900_20,Charlie Puth,Attention,https://listen.hs.llnwd.net/g3/3/4/5/9/1/1409619543.mp3,Pop
+2019-04-16 21:50:43.565900_21,Demi Lovato,Sorry Not Sorry,https://listen.hs.llnwd.net/g3/8/7/5/7/5/1360857578.mp3,Pop
+2019-04-16 21:50:43.565900_22,Sam Smith & Normani,Dancing With A Stranger,https://listen.hs.llnwd.net/g3/7/8/1/8/0/1469108187.mp3,Pop
+2019-04-16 21:50:43.565900_23,Adele,Rolling In The Deep,https://listen.hs.llnwd.net/g1/0/2/4/2/7/1020972420.mp3,Pop
+2019-04-16 21:50:43.565900_24,Lukas Graham,7 Years,https://listen.hs.llnwd.net/g3/9/8/0/6/4/1252546089.mp3,Pop
+2019-04-16 21:50:43.565900_25,Maroon 5,What Lovers Do,https://listen.hs.llnwd.net/g3/6/0/3/0/3/1471830306.mp3,Pop
+2019-04-16 21:50:43.565900_26,Liam Payne,Strip That Down,https://listen.hs.llnwd.net/g3/1/5/8/2/3/1337732851.mp3,Pop
+2019-04-16 21:50:43.565900_27,Bruno Mars,Just The Way You Are,https://listen.hs.llnwd.net/g3/6/4/6/9/1/1325419646.mp3,Pop
+2019-04-16 21:50:43.565900_28,Michael Jackson,Billie Jean,https://listen.hs.llnwd.net/g2/7/7/5/6/5/928256577.mp3,Pop
+2019-04-16 21:50:43.565900_29,Ariana Grande,Breathin,https://listen.hs.llnwd.net/g3/8/1/1/6/4/1434746118.mp3,Pop
+2019-04-16 21:50:43.565900_30,Dua Lipa,New Rules,https://listen.hs.llnwd.net/g3/2/3/4/0/7/1471770432.mp3,Pop
+2019-04-16 21:50:43.565900_31,Adele,Someone Like You,https://listen.hs.llnwd.net/g3/7/0/3/1/7/1282571307.mp3,Pop
+2019-04-16 21:50:43.565900_32,Ariana Grande,Side To Side featuring Nicki Minaj,https://listen.hs.llnwd.net/g3/4/5/2/6/9/1265796254.mp3,Pop
+2019-04-16 21:50:43.565900_33,Rihanna,Needed Me,https://listen.hs.llnwd.net/g3/0/1/8/2/5/1283552810.mp3,Pop
+2019-04-16 21:50:43.565900_34,Lorde,Royals,https://listen.hs.llnwd.net/g1/3/4/8/7/8/1019987843.mp3,Pop
+2019-04-16 21:50:43.565900_35,Katy Perry,Dark Horse featuring Juicy J,https://listen.hs.llnwd.net/g1/7/8/1/5/2/1032925187.mp3,Pop
+2019-04-16 21:50:43.565900_36,Bruno Mars,When I Was Your Man,https://listen.hs.llnwd.net/g3/1/1/6/4/3/1283434611.mp3,Pop
+2019-04-16 21:50:43.565900_37,Camila Cabello,Never Be the Same,https://listen.hs.llnwd.net/g3/5/3/7/0/9/1384690735.mp3,Pop
+2019-04-16 21:50:43.565900_38,Pink,Just Give Me A Reason,https://listen.hs.llnwd.net/g3/1/5/0/5/1/1073715051.mp3,Pop
+2019-04-16 21:50:43.565900_39,Shawn Mendes,There's Nothing Holdin' Me Back,https://listen.hs.llnwd.net/g3/0/8/8/2/3/1333432880.mp3,Pop
+2019-04-16 21:50:43.565900_40,Lady Gaga,Poker Face,https://listen.hs.llnwd.net/g1/7/9/1/8/4/1041448197.mp3,Pop
+2019-04-16 21:50:43.565900_41,Ariana Grande,God is a woman,https://listen.hs.llnwd.net/g3/4/2/1/6/4/1434746124.mp3,Pop
+2019-04-16 21:50:43.565900_42,Bruno Mars,Finesse (Remix) [feat. Cardi B],https://listen.hs.llnwd.net/g3/9/7/9/6/7/1384076979.mp3,Pop
+2019-04-16 21:50:43.565900_43,Imagine Dragons,Thunder,https://listen.hs.llnwd.net/g3/5/8/8/3/9/1348993885.mp3,Pop
+2019-04-16 21:50:43.565900_44,Maroon 5,Moves Like Jagger featuring Christina Aguilera (Studio Recording From The Voice Performance),https://listen.hs.llnwd.net/g1/8/2/4/1/0/984501428.mp3,Pop
+2019-04-16 21:50:43.565900_45,Jason Mraz,I'm Yours,https://listen.hs.llnwd.net/g3/7/8/7/3/6/1325463787.mp3,Pop
+2019-04-16 21:50:43.565900_46,Katy Perry,Roar,https://listen.hs.llnwd.net/g3/9/3/2/5/8/1282985239.mp3,Pop
+2019-04-16 21:50:43.565900_47,Avicii,SOS (feat. Aloe Blacc),https://listen.hs.llnwd.net/g3/0/8/3/9/9/1499299380.mp3,Pop
+2019-04-16 21:50:43.565900_48,Bebe Rexha,I'm a Mess,https://listen.hs.llnwd.net/g3/0/4/5/3/8/1421183540.mp3,Pop
+2019-04-16 21:50:43.565900_49,Lady Gaga,Million Reasons,https://listen.hs.llnwd.net/g3/5/9/8/3/6/1295663895.mp3,Pop
+2019-04-16 21:50:43.565900_50,Taylor Swift,Delicate,https://listen.hs.llnwd.net/g3/8/0/3/6/4/1378246308.mp3,Pop
+2019-04-16 21:50:43.565900_51,Avicii,Wake Me Up,https://listen.hs.llnwd.net/g3/2/9/2/2/3/1283532292.mp3,Pop
+2019-04-16 21:50:43.565900_52,OneRepublic,Counting Stars,https://listen.hs.llnwd.net/g3/1/5/2/9/9/1282999251.mp3,Pop
+2019-04-16 21:50:43.565900_53,Niall Horan,Slow Hands,https://listen.hs.llnwd.net/g3/9/4/9/9/6/1366469949.mp3,Pop
+2019-04-16 21:50:43.565900_54,Elton John,Rocket Man,https://listen.hs.llnwd.net/g1/7/0/8/5/5/107255807.mp3,Pop
+2019-04-16 21:50:43.565900_55,Ariana Grande,needy,https://listen.hs.llnwd.net/g3/8/5/2/3/6/1479363258.mp3,Pop
+2019-04-16 21:50:43.565900_56,Adele,Set Fire To The Rain,https://listen.hs.llnwd.net/g1/7/4/3/9/2/1041829347.mp3,Pop
+2019-04-16 21:50:43.565900_57,Rihanna,Stay featuring Mikky Ekko (Album Version (Explicit)),https://listen.hs.llnwd.net/g1/1/7/2/6/4/1038546271.mp3,Pop
+2019-04-16 21:50:43.565900_58,Calvin Harris,This Is What You Came For (feat Rihanna),https://listen.hs.llnwd.net/g3/9/4/2/2/4/1330342249.mp3,Pop
+2019-04-16 21:50:43.565900_59,Justin Bieber,Love Yourself,https://listen.hs.llnwd.net/g3/1/6/3/9/3/1282139361.mp3,Pop
+2019-04-16 21:50:43.565900_60,Elton John,Tiny Dancer,https://listen.hs.llnwd.net/g1/3/7/4/6/4/1042446473.mp3,Pop
+2019-04-16 21:50:43.565900_61,Pitbull,Timber,https://listen.hs.llnwd.net/g3/6/7/9/5/1/1073615976.mp3,Pop
+2019-04-16 21:50:43.565900_62,Shawn Mendes,Stitches,https://listen.hs.llnwd.net/g3/8/9/2/9/6/1221269298.mp3,Pop
+2019-04-16 21:50:43.565900_63,Rihanna,Work featuring Drake,https://listen.hs.llnwd.net/g3/1/3/3/0/5/1242150331.mp3,Pop
+2019-04-16 21:50:43.565900_64,Justin Timberlake,Say Something,https://listen.hs.llnwd.net/g3/1/0/7/9/0/1388909701.mp3,Pop
+2019-04-16 21:50:43.565900_65,Justin Timberlake,"Can't Stop the Feeling! (Original Song from DreamWorks Animation's ""TROLLS"")",https://listen.hs.llnwd.net/g3/7/4/7/3/4/1278143747.mp3,Pop
+2019-04-16 21:50:43.565900_66,Calvin Harris,Feels,https://listen.hs.llnwd.net/g3/9/1/4/6/5/1345356419.mp3,Pop
+2019-04-16 21:50:43.565900_67,Taylor Swift,Shake It Off,https://listen.hs.llnwd.net/g3/3/4/3/2/2/1426022343.mp3,Pop
+2019-04-16 21:50:43.565900_68,Rachel Platten,Fight Song,https://listen.hs.llnwd.net/g3/0/5/2/6/5/1231256250.mp3,Pop
+2019-04-16 21:50:43.565900_69,Taylor Swift,Look What You Made Me Do,https://listen.hs.llnwd.net/g3/1/5/2/6/4/1378246251.mp3,Pop
+2019-04-16 21:50:43.565900_70,Michael Jackson,P.Y.T. (Pretty Young Thing),https://listen.hs.llnwd.net/g3/9/1/0/4/4/1281944019.mp3,Pop
+2019-04-16 21:50:43.565900_71,Adele,Send My Love (To Your New Lover),https://listen.hs.llnwd.net/g3/5/1/8/8/6/1272568815.mp3,Pop
+2019-04-16 21:50:43.565900_72,Jessie J,Bang Bang,https://listen.hs.llnwd.net/g3/7/2/4/3/8/1117483427.mp3,Pop
+2019-04-16 21:50:43.565900_73,Kesha,Praying,https://listen.hs.llnwd.net/g3/4/4/4/8/0/1351908444.mp3,Pop
+2019-04-16 21:50:43.565900_74,Bruno Mars,Grenade,https://listen.hs.llnwd.net/g3/0/1/3/5/1/1325415310.mp3,Pop
+2019-04-16 21:50:43.565900_75,Meghan Trainor,All About That Bass,https://listen.hs.llnwd.net/g3/7/3/1/5/3/1281935137.mp3,Pop
+2019-04-16 21:50:43.565900_76,Ariana Grande,NASA,https://listen.hs.llnwd.net/g3/2/5/2/3/6/1479363252.mp3,Pop
+2019-04-16 21:50:43.565900_77,Neil Diamond,Sweet Caroline,https://listen.hs.llnwd.net/g3/8/0/2/9/2/1283429208.mp3,Pop
+2019-04-16 21:50:43.565900_78,Alessia Cara,Scars To Your Beautiful,https://listen.hs.llnwd.net/g3/8/8/6/0/3/1219430688.mp3,Pop
+2019-04-16 21:50:43.565900_79,Bazzi,Beautiful (feat. Camila Cabello),https://listen.hs.llnwd.net/g3/7/1/7/7/5/1431457717.mp3,Pop
+2019-04-16 21:50:43.565900_80,Justin Bieber,Sorry,https://listen.hs.llnwd.net/g3/7/8/7/7/5/1220457787.mp3,Pop
+2019-04-16 21:50:43.565900_81,Backstreet Boys,I Want It That Way,https://listen.hs.llnwd.net/g3/6/3/2/2/6/1282562236.mp3,Pop
+2019-04-16 21:50:43.565900_82,Pink,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",https://listen.hs.llnwd.net/g3/3/5/2/3/0/1282303253.mp3,Pop
+2019-04-16 21:50:43.565900_83,Ariana Grande,No Tears Left To Cry,https://listen.hs.llnwd.net/g3/3/2/1/6/4/1434746123.mp3,Pop
+2019-04-16 21:50:43.565900_84,Lady Gaga,Bad Romance,https://listen.hs.llnwd.net/g3/3/1/2/5/0/1283405213.mp3,Pop
+2019-04-16 21:50:43.565900_85,Maroon 5,Animals,https://listen.hs.llnwd.net/g3/2/3/2/3/3/1174933232.mp3,Pop
+2019-04-16 21:50:43.565900_86,Sam Smith,Too Good At Goodbyes,https://listen.hs.llnwd.net/g3/2/9/3/3/3/1432133392.mp3,Pop
+2019-04-16 21:50:43.565900_87,Meghan Trainor,Like I'm Gonna Lose You,https://listen.hs.llnwd.net/g3/7/6/9/5/4/1283445967.mp3,Pop
+2019-04-16 21:50:43.565900_88,Ariana Grande,imagine,https://listen.hs.llnwd.net/g3/3/5/2/3/6/1479363253.mp3,Pop
+2019-04-16 21:50:43.565900_89,Elton John,Bennie And The Jets,https://listen.hs.llnwd.net/g2/9/7/7/3/7/921773779.mp3,Pop
+2019-04-16 21:50:43.565900_90,Sam Smith,Stay With Me,https://listen.hs.llnwd.net/g3/1/8/4/9/3/1218039481.mp3,Pop
+2019-04-16 21:50:43.565900_91,Shawn Mendes,In My Blood,https://listen.hs.llnwd.net/g3/9/1/3/3/1/1412513319.mp3,Pop
+2019-04-16 21:50:43.565900_92,Michael Jackson,Beat It,https://listen.hs.llnwd.net/g2/0/7/3/6/5/928256370.mp3,Pop
+2019-04-16 21:50:43.565900_93,Maroon 5,Wait,https://listen.hs.llnwd.net/g3/1/3/0/1/3/1370331031.mp3,Pop
+2019-04-16 21:50:43.565900_94,Miley Cyrus,Party In The U.S.A.,https://listen.hs.llnwd.net/g3/5/3/7/2/4/1281942735.mp3,Pop
+2019-04-16 21:50:43.565900_95,Bruno Mars,Locked Out Of Heaven,https://listen.hs.llnwd.net/g3/8/4/1/7/8/1282787148.mp3,Pop
+2019-04-16 21:50:43.565900_96,Taylor Swift,...Ready For It?,https://listen.hs.llnwd.net/g3/8/5/6/6/4/1378246658.mp3,Pop
+2019-04-16 21:50:43.565900_97,Imagine Dragons,Whatever It Takes,https://listen.hs.llnwd.net/g3/3/2/2/6/0/1344406223.mp3,Pop
+2019-04-16 21:50:43.565900_98,Pink,What About Us,https://listen.hs.llnwd.net/g3/3/8/5/0/2/1371420583.mp3,Pop
+2019-04-16 21:50:43.565900_99,Ariana Grande,Dangerous Woman,https://listen.hs.llnwd.net/g3/0/9/2/6/9/1265796290.mp3,Pop
+2019-04-16 21:50:43.565900_100,Ariana Grande,fake smile,https://listen.hs.llnwd.net/g3/6/4/4/3/6/1479363446.mp3,Pop
+2019-04-16 21:50:44.163243_1,Ed Sheeran,Shape of You,https://listen.hs.llnwd.net/g3/1/9/3/0/1/1470710391.mp3,Rock
+2019-04-16 21:50:44.163243_2,Eagles,Hotel California,https://listen.hs.llnwd.net/g3/5/2/2/5/9/1365795225.mp3,Rock
+2019-04-16 21:50:44.163243_3,Ed Sheeran,Perfect,https://listen.hs.llnwd.net/g3/7/0/6/0/1/1470710607.mp3,Rock
+2019-04-16 21:50:44.163243_4,Queen,Bohemian Rhapsody,https://listen.hs.llnwd.net/g3/3/3/1/8/4/1426348133.mp3,Rock
+2019-04-16 21:50:44.163243_5,Queen,We Will Rock You,https://listen.hs.llnwd.net/g3/2/5/3/2/8/1282582352.mp3,Rock
+2019-04-16 21:50:44.163243_6,AC/DC,Thunderstruck,https://listen.hs.llnwd.net/g3/4/6/9/1/3/1185531964.mp3,Rock
+2019-04-16 21:50:44.163243_7,Ed Sheeran,Thinking Out Loud,https://listen.hs.llnwd.net/g3/2/3/1/5/8/1088985132.mp3,Rock
+2019-04-16 21:50:44.163243_8,Dean Lewis,Be Alright,https://listen.hs.llnwd.net/g3/6/4/1/2/4/1491942146.mp3,Rock
+2019-04-16 21:50:44.163243_9,Journey,Don't Stop Believin',https://listen.hs.llnwd.net/g2/3/3/1/4/9/917294133.mp3,Rock
+2019-04-16 21:50:44.163243_10,Queen,Another One Bites The Dust,https://listen.hs.llnwd.net/g3/5/0/0/7/3/1283537005.mp3,Rock
+2019-04-16 21:50:44.163243_11,Disturbed,The Sound Of Silence,https://listen.hs.llnwd.net/g3/2/6/6/6/7/1325776662.mp3,Rock
+2019-04-16 21:50:44.163243_12,AC/DC,Back in Black,https://listen.hs.llnwd.net/g3/0/2/5/6/3/1281936520.mp3,Rock
+2019-04-16 21:50:44.163243_13,Guns N' Roses,Sweet Child O' Mine,https://listen.hs.llnwd.net/g3/1/1/5/4/5/1282654511.mp3,Rock
+2019-04-16 21:50:44.163243_14,Queen,Under Pressure,https://listen.hs.llnwd.net/g3/9/7/8/7/4/1426347879.mp3,Rock
+2019-04-16 21:50:44.163243_15,AC/DC,You Shook Me All Night Long,https://listen.hs.llnwd.net/g3/2/6/2/1/3/1185531262.mp3,Rock
+2019-04-16 21:50:44.163243_16,Queen,Don't Stop Me Now,https://listen.hs.llnwd.net/g3/7/7/2/4/5/1284154277.mp3,Rock
+2019-04-16 21:50:44.163243_17,Toto,Africa,https://listen.hs.llnwd.net/g3/2/3/6/3/2/1363623632.mp3,Rock
+2019-04-16 21:50:44.163243_18,Aerosmith,Dream On,https://listen.hs.llnwd.net/g3/7/1/6/7/7/1072977617.mp3,Rock
+2019-04-16 21:50:44.163243_19,3 Doors Down,Kryptonite,https://listen.hs.llnwd.net/g3/2/0/5/8/4/1249248502.mp3,Rock
+2019-04-16 21:50:44.163243_20,Queen,Somebody To Love,https://listen.hs.llnwd.net/g3/8/3/2/9/7/1282579238.mp3,Rock
+2019-04-16 21:50:44.163243_21,AC/DC,Highway to Hell,https://listen.hs.llnwd.net/g3/6/4/6/4/2/1283424646.mp3,Rock
+2019-04-16 21:50:44.163243_22,Fleetwood Mac,Dreams,https://listen.hs.llnwd.net/g3/3/5/6/1/3/1403531653.mp3,Rock
+2019-04-16 21:50:44.163243_23,Evanescence,Bring Me To Life,https://listen.hs.llnwd.net/g3/0/7/5/6/9/1281596570.mp3,Rock
+2019-04-16 21:50:44.163243_24,Kid Rock,All Summer Long,https://listen.hs.llnwd.net/g3/5/6/1/0/7/1282970165.mp3,Rock
+2019-04-16 21:50:44.163243_25,Queen,Fat Bottomed Girls,https://listen.hs.llnwd.net/g1/9/4/7/1/8/837781749.mp3,Rock
+2019-04-16 21:50:44.163243_26,Kansas,Carry On Wayward Son,https://listen.hs.llnwd.net/g1/7/8/7/1/0/1007401787.mp3,Rock
+2019-04-16 21:50:44.163243_27,Eagles,Take It Easy,https://listen.hs.llnwd.net/g3/3/3/3/7/7/1282777333.mp3,Rock
+2019-04-16 21:50:44.163243_28,Queen,We Are The Champions,https://listen.hs.llnwd.net/g3/6/0/3/0/9/1282090306.mp3,Rock
+2019-04-16 21:50:44.163243_29,Guns N' Roses,Welcome To The Jungle,https://listen.hs.llnwd.net/g3/9/4/3/4/5/1282654349.mp3,Rock
+2019-04-16 21:50:44.163243_30,Hozier,Take Me to Church,https://listen.hs.llnwd.net/g3/5/3/6/4/8/1430684635.mp3,Rock
+2019-04-16 21:50:44.163243_31,Creedence Clearwater Revival,Have You Ever Seen The Rain?,https://listen.hs.llnwd.net/g3/8/3/9/4/0/1283404938.mp3,Rock
+2019-04-16 21:50:44.163243_32,Boston,More Than A Feeling,https://listen.hs.llnwd.net/g3/5/2/3/8/1/1281818325.mp3,Rock
+2019-04-16 21:50:44.163243_33,Led Zeppelin,Immigrant Song,https://listen.hs.llnwd.net/g3/1/0/3/5/5/1245355301.mp3,Rock
+2019-04-16 21:50:44.163243_34,Queen,Killer Queen,https://listen.hs.llnwd.net/g1/6/5/6/1/8/837781656.mp3,Rock
+2019-04-16 21:50:44.163243_35,The Rolling Stones,Gimme Shelter,https://listen.hs.llnwd.net/g1/6/5/8/4/0/244404856.mp3,Rock
+2019-04-16 21:50:44.163243_36,Tom Petty,Free Fallin',https://listen.hs.llnwd.net/g1/8/9/5/9/4/1041949598.mp3,Rock
+2019-04-16 21:50:44.163243_37,Blue Swede,Hooked on a Feeling,https://listen.hs.llnwd.net/g3/3/9/0/9/6/1378269093.mp3,Rock
+2019-04-16 21:50:44.163243_38,Red Hot Chili Peppers,Under The Bridge,https://listen.hs.llnwd.net/g3/9/7/7/2/7/1292272779.mp3,Rock
+2019-04-16 21:50:44.163243_39,Nickelback,Rockstar,https://listen.hs.llnwd.net/g2/5/2/5/1/9/941191525.mp3,Rock
+2019-04-16 21:50:44.163243_40,The Beatles,Here Comes The Sun (Remastered),https://listen.hs.llnwd.net/g3/4/6/3/9/0/1426009364.mp3,Rock
+2019-04-16 21:50:44.163243_41,Led Zeppelin,Stairway To Heaven,https://listen.hs.llnwd.net/g3/6/8/6/9/9/1121099686.mp3,Rock
+2019-04-16 21:50:44.163243_42,Creedence Clearwater Revival,Fortunate Son,https://listen.hs.llnwd.net/g3/6/3/4/5/8/1282585436.mp3,Rock
+2019-04-16 21:50:44.163243_43,Tom Petty,American Girl,https://listen.hs.llnwd.net/g1/2/4/3/4/1/1041914342.mp3,Rock
+2019-04-16 21:50:44.163243_44,Billy Joel,Piano Man,https://listen.hs.llnwd.net/g3/2/4/8/7/2/1300527842.mp3,Rock
+2019-04-16 21:50:44.163243_45,Goo Goo Dolls,Iris,https://listen.hs.llnwd.net/g3/0/2/9/2/6/1282562920.mp3,Rock
+2019-04-16 21:50:44.163243_46,Fleetwood Mac,Landslide,https://listen.hs.llnwd.net/g3/8/7/9/0/3/1403530978.mp3,Rock
+2019-04-16 21:50:44.163243_47,Five Finger Death Punch,Bad Company,https://listen.hs.llnwd.net/g3/9/7/9/7/6/1382267979.mp3,Rock
+2019-04-16 21:50:44.163243_48,Ed Sheeran,Castle on the Hill,https://listen.hs.llnwd.net/g3/4/0/6/0/1/1470710604.mp3,Rock
+2019-04-16 21:50:44.163243_49,Creedence Clearwater Revival,Bad Moon Rising,https://listen.hs.llnwd.net/g1/5/4/0/8/3/172138045.mp3,Rock
+2019-04-16 21:50:44.163243_50,3 Doors Down,Here Without You,https://listen.hs.llnwd.net/g3/3/7/0/2/0/1282302073.mp3,Rock
+2019-04-16 21:50:44.163243_51,Tom Petty,Mary Jane's Last Dance (1993 Greatest Hits Album Version),https://listen.hs.llnwd.net/g3/2/0/5/0/8/1282580502.mp3,Rock
+2019-04-16 21:50:44.163243_52,Red Hot Chili Peppers,Californication,https://listen.hs.llnwd.net/g1/5/8/1/8/4/990748185.mp3,Rock
+2019-04-16 21:50:44.163243_53,AC/DC,Hells Bells,https://listen.hs.llnwd.net/g3/4/8/5/1/3/1185531584.mp3,Rock
+2019-04-16 21:50:44.163243_54,Passenger,Let Her Go,https://listen.hs.llnwd.net/g3/0/7/4/1/2/1329821470.mp3,Rock
+2019-04-16 21:50:44.163243_55,Survivor,Eye Of The Tiger,https://listen.hs.llnwd.net/g3/3/7/7/7/6/1282967773.mp3,Rock
+2019-04-16 21:50:44.163243_56,Guns N' Roses,Paradise City,https://listen.hs.llnwd.net/g3/7/1/5/4/5/1282654517.mp3,Rock
+2019-04-16 21:50:44.163243_57,Nickelback,How You Remind Me,https://listen.hs.llnwd.net/g3/2/4/9/7/1/1332217942.mp3,Rock
+2019-04-16 21:50:44.163243_58,Tom Petty,I Won't Back Down,https://listen.hs.llnwd.net/g1/7/3/8/9/4/1041949837.mp3,Rock
+2019-04-16 21:50:44.163243_59,The Cranberries,Zombie,https://listen.hs.llnwd.net/g3/2/7/8/0/9/1282090872.mp3,Rock
+2019-04-16 21:50:44.163243_60,Linkin Park,Bleed It Out,https://listen.hs.llnwd.net/g3/3/1/8/2/4/1283442813.mp3,Rock
+2019-04-16 21:50:44.163243_61,Journey,Faithfully,https://listen.hs.llnwd.net/g3/1/8/3/7/8/1054887381.mp3,Rock
+2019-04-16 21:50:44.163243_62,Train,Drops Of Jupiter,https://listen.hs.llnwd.net/g1/8/2/4/3/2/245523428.mp3,Rock
+2019-04-16 21:50:44.163243_63,The Rolling Stones,Sympathy For The Devil,https://listen.hs.llnwd.net/g1/5/0/8/5/0/244405805.mp3,Rock
+2019-04-16 21:50:44.163243_64,The Lumineers,Ho Hey,https://listen.hs.llnwd.net/g3/0/0/7/6/0/1283406700.mp3,Rock
+2019-04-16 21:50:44.163243_65,Elle King,Ex's & Oh's,https://listen.hs.llnwd.net/g3/0/6/9/5/2/1281925960.mp3,Rock
+2019-04-16 21:50:44.163243_66,Journey,Separate Ways (worlds Apart),https://listen.hs.llnwd.net/g1/8/5/2/7/9/385097258.mp3,Rock
+2019-04-16 21:50:44.163243_67,Bad Wolves,Zombie,https://listen.hs.llnwd.net/g3/5/2/0/4/2/1386724025.mp3,Rock
+2019-04-16 21:50:44.163243_68,Lynyrd Skynyrd,Sweet Home Alabama,https://listen.hs.llnwd.net/g3/2/6/9/3/9/1348893962.mp3,Rock
+2019-04-16 21:50:44.163243_69,Fleetwood Mac,The Chain,https://listen.hs.llnwd.net/g3/4/9/3/0/2/1281820394.mp3,Rock
+2019-04-16 21:50:44.163243_70,Queen,Radio Ga Ga,https://listen.hs.llnwd.net/g3/8/9/0/8/4/1426348098.mp3,Rock
+2019-04-16 21:50:44.163243_71,Red Hot Chili Peppers,Snow (Hey Oh),https://listen.hs.llnwd.net/g1/9/7/1/2/5/990752179.mp3,Rock
+2019-04-16 21:50:44.163243_72,The Fray,How to Save A Life,https://listen.hs.llnwd.net/g3/0/1/1/2/7/1282572110.mp3,Rock
+2019-04-16 21:50:44.163243_73,Bob Seger,Night Moves,https://listen.hs.llnwd.net/g3/4/0/6/4/1/1342814604.mp3,Rock
+2019-04-16 21:50:44.163243_74,Ed Sheeran,Photograph,https://listen.hs.llnwd.net/g3/0/5/9/5/0/1283405950.mp3,Rock
+2019-04-16 21:50:44.163243_75,Lynyrd Skynyrd,Free Bird,https://listen.hs.llnwd.net/g1/2/7/5/6/3/1042636572.mp3,Rock
+2019-04-16 21:50:44.163243_76,Maroon 5,She Will Be Loved,https://listen.hs.llnwd.net/g3/3/4/7/0/3/1283530743.mp3,Rock
+2019-04-16 21:50:44.163243_77,Pink Floyd,Comfortably Numb,https://listen.hs.llnwd.net/g3/6/8/0/0/0/1282100086.mp3,Rock
+2019-04-16 21:50:44.163243_78,Queen,Crazy Little Thing Called Love,https://listen.hs.llnwd.net/g3/1/3/3/0/3/1281830331.mp3,Rock
+2019-04-16 21:50:44.163243_79,Electric Light Orchestra,Mr. Blue Sky,https://listen.hs.llnwd.net/g3/7/3/0/9/6/1282769037.mp3,Rock
+2019-04-16 21:50:44.163243_80,Five Finger Death Punch,Jekyll And Hyde,https://listen.hs.llnwd.net/g3/5/6/1/5/4/1382245165.mp3,Rock
+2019-04-16 21:50:44.163243_81,The Beatles,Come Together (Remastered),https://listen.hs.llnwd.net/g3/7/9/7/9/0/1426009797.mp3,Rock
+2019-04-16 21:50:44.163243_82,Fleetwood Mac,Rhiannon,https://listen.hs.llnwd.net/g3/3/7/6/1/3/1403531673.mp3,Rock
+2019-04-16 21:50:44.163243_83,Five Finger Death Punch,House Of The Rising Sun,https://listen.hs.llnwd.net/g3/2/7/6/1/9/1352591672.mp3,Rock
+2019-04-16 21:50:44.163243_84,Fleetwood Mac,Gypsy,https://listen.hs.llnwd.net/g3/2/8/7/1/3/1403531782.mp3,Rock
+2019-04-16 21:50:44.163243_85,AC/DC,T.N.T.,https://listen.hs.llnwd.net/g3/4/1/5/1/9/1284191514.mp3,Rock
+2019-04-16 21:50:44.163243_86,Vance Joy,Riptide,https://listen.hs.llnwd.net/g3/1/2/3/2/7/1193172321.mp3,Rock
+2019-04-16 21:50:44.163243_87,Seether,Broken (Ft Amy Lee),https://listen.hs.llnwd.net/g3/1/0/7/7/7/1282977701.mp3,Rock
+2019-04-16 21:50:44.163243_88,The Lumineers,Ophelia,https://listen.hs.llnwd.net/g3/3/2/8/7/1/1281817823.mp3,Rock
+2019-04-16 21:50:44.163243_89,Van Morrison,Into The Mystic,https://listen.hs.llnwd.net/g3/8/6/8/5/0/1371605868.mp3,Rock
+2019-04-16 21:50:44.163243_90,Jimi Hendrix,All Along The Watchtower,https://listen.hs.llnwd.net/g1/0/5/0/9/5/245559050.mp3,Rock
+2019-04-16 21:50:44.163243_91,The Rolling Stones,"Paint It, Black",https://listen.hs.llnwd.net/g2/4/3/6/9/0/953309634.mp3,Rock
+2019-04-16 21:50:44.163243_92,James Bay,Let It Go,https://listen.hs.llnwd.net/g3/6/3/5/4/6/1159164536.mp3,Rock
+2019-04-16 21:50:44.163243_93,Matchbox Twenty,3 a.m.,https://listen.hs.llnwd.net/g1/4/6/2/5/0/1041405264.mp3,Rock
+2019-04-16 21:50:44.163243_94,Kid Rock,Picture (featuring Sheryl Crow),https://listen.hs.llnwd.net/g1/6/0/9/9/8/245489906.mp3,Rock
+2019-04-16 21:50:44.163243_95,The Outfield,Your Love,https://listen.hs.llnwd.net/g3/0/0/0/4/4/1283444000.mp3,Rock
+2019-04-16 21:50:44.163243_96,Coldplay,Adventure Of A Lifetime,https://listen.hs.llnwd.net/g3/8/0/6/3/7/1411673608.mp3,Rock
+2019-04-16 21:50:44.163243_97,Three Days Grace,I Hate Everything About You,https://listen.hs.llnwd.net/g1/6/2/4/6/2/1042526426.mp3,Rock
+2019-04-16 21:50:44.163243_98,Phil Collins,In The Air Tonight (2015 Remastered),https://listen.hs.llnwd.net/g3/2/5/5/8/9/1240198552.mp3,Rock
+2019-04-16 21:50:44.163243_99,Red Hot Chili Peppers,Scar Tissue,https://listen.hs.llnwd.net/g3/5/0/9/5/1/1283415905.mp3,Rock
+2019-04-16 21:50:44.163243_100,Kings of Leon,Sex On Fire,https://listen.hs.llnwd.net/g3/9/1/1/9/5/1282559119.mp3,Rock
+2019-04-16 21:50:44.734675_1,Lil Nas X,Old Town Road,https://listen.hs.llnwd.net/g3/1/8/2/6/0/1498106281.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_2,Post Malone,Wow.,https://listen.hs.llnwd.net/g3/8/5/1/2/5/1467052158.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_3,J. Cole,MIDDLE CHILD,https://listen.hs.llnwd.net/g3/8/4/0/5/6/1474865048.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_4,Meek Mill,Going Bad (feat. Drake),https://listen.hs.llnwd.net/g3/9/3/6/8/3/1460938639.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_5,Travis Scott,SICKO MODE,https://listen.hs.llnwd.net/g3/9/7/0/7/5/1496157079.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_6,Post Malone,Better Now,https://listen.hs.llnwd.net/g3/1/0/8/1/1/1406911801.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_7,Post Malone,Psycho,https://listen.hs.llnwd.net/g3/1/1/7/1/1/1406911711.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_8,Cardi B,Money,https://listen.hs.llnwd.net/g3/5/0/0/7/1/1450717005.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_9,Post Malone,I Fall Apart,https://listen.hs.llnwd.net/g3/4/3/0/0/5/1305750034.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_10,Tyga,Taste (feat. Offset),https://listen.hs.llnwd.net/g3/0/2/3/5/4/1411945320.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_11,Cardi B & Bruno Mars,Please Me,https://listen.hs.llnwd.net/g3/8/3/0/1/1/1481611038.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_12,Cardi B,I Like It,https://listen.hs.llnwd.net/g3/4/7/5/9/1/1402419574.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_13,Kodak Black,ZEZE (feat. Travis Scott & Offset),https://listen.hs.llnwd.net/g3/2/9/7/7/7/1468277792.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_14,Nipsey Hussle,Dedication (feat. Kendrick Lamar),https://listen.hs.llnwd.net/g3/7/4/2/8/7/1392078247.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_15,21 Savage,a lot,https://listen.hs.llnwd.net/g3/3/4/2/5/4/1465845243.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_16,Post Malone,Congratulations featuring Quavo,https://listen.hs.llnwd.net/g3/2/6/6/9/4/1305749662.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_17,Nipsey Hussle,Last Time That I Checc'd (feat. YG),https://listen.hs.llnwd.net/g3/1/3/2/8/7/1392078231.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_18,Juice WRLD,Lucid Dreams,https://listen.hs.llnwd.net/g3/8/9/4/3/2/1411623498.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_19,Nipsey Hussle,Victory Lap (feat. Stacy Barthe),https://listen.hs.llnwd.net/g3/0/5/1/8/7/1392078150.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_20,Kendrick Lamar,HUMBLE.,https://listen.hs.llnwd.net/g3/9/6/4/0/9/1332690469.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_21,Sheck Wes,Mo Bamba,https://listen.hs.llnwd.net/g3/3/6/5/5/5/1446755563.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_22,Drake,Nonstop,https://listen.hs.llnwd.net/g3/0/0/9/1/6/1430261900.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_23,Cardi B,Bodak Yellow,https://listen.hs.llnwd.net/g3/2/6/5/9/1/1402419562.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_24,Lil Baby,Drip Too Hard,https://listen.hs.llnwd.net/g3/7/2/8/9/8/1446389827.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_25,Gucci Mane,Wake Up in the Sky,https://listen.hs.llnwd.net/g3/7/5/6/9/3/1461839657.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_26,Nipsey Hussle,Grinding All My Life,https://listen.hs.llnwd.net/g3/1/7/1/8/7/1392078171.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_27,Nipsey Hussle,Hussle & Motivate,https://listen.hs.llnwd.net/g3/0/9/1/8/7/1392078190.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_28,XXXTENTACION,Sad!,https://listen.hs.llnwd.net/g3/2/2/0/1/9/1398191022.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_29,A Boogie Wit da Hoodie,Look Back At It,https://listen.hs.llnwd.net/g3/5/4/0/4/2/1472124045.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_30,Lil Wayne,Uproar,https://listen.hs.llnwd.net/g3/6/9/1/7/2/1444727196.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_31,Nipsey Hussle,Rap n*gg*s,https://listen.hs.llnwd.net/g3/1/5/1/8/7/1392078151.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_32,NF,Let You Down,https://listen.hs.llnwd.net/g3/0/6/6/1/6/1361861660.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_33,Nipsey Hussle,Blue Laces 2,https://listen.hs.llnwd.net/g3/8/5/1/8/7/1392078158.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_34,XXXTENTACION,Moonlight,https://listen.hs.llnwd.net/g3/7/2/0/1/9/1398191027.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_35,Eminem,Lose Yourself,https://listen.hs.llnwd.net/g3/8/9/7/2/1/1281612798.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_36,"21 Savage, Offset & Metro Boomin",Ric Flair Drip,https://listen.hs.llnwd.net/g3/8/1/7/1/5/1370751718.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_37,Pardison Fontaine,Backin' It Up (feat. Cardi B),https://listen.hs.llnwd.net/g3/7/0/8/5/7/1442275807.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_38,Lil Baby,Yes Indeed (feat. Drake),https://listen.hs.llnwd.net/g3/5/1/2/5/4/1411945215.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_39,Nipsey Hussle,Double Up (feat. Belly and Dom Kennedy) [Bonus Track],https://listen.hs.llnwd.net/g3/2/0/2/8/7/1392078202.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_40,G-Eazy,No Limit,https://listen.hs.llnwd.net/g3/7/4/3/2/9/1380492347.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_41,Drake,God's Plan,https://listen.hs.llnwd.net/g3/0/9/8/1/6/1430261890.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_42,Mustard & Migos,Pure Water,https://listen.hs.llnwd.net/g3/0/7/3/3/4/1472243370.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_43,Nipsey Hussle,Young n*gg* (feat. Puff Daddy),https://listen.hs.llnwd.net/g3/9/8/1/8/7/1392078189.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_44,Khalid x Normani,Love Lies,https://listen.hs.llnwd.net/g3/3/7/9/1/9/1391391973.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_45,Childish Gambino,Redbone,https://listen.hs.llnwd.net/g3/1/0/9/4/2/1301724901.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_46,Eminem,Lucky You (feat. Joyner Lucas),https://listen.hs.llnwd.net/g3/3/4/9/2/4/1437842943.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_47,Drake,One Dance,https://listen.hs.llnwd.net/g3/1/7/4/0/8/1264880471.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_48,French Montana,Unforgettable,https://listen.hs.llnwd.net/g3/3/4/1/8/1/1394418143.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_49,Post Malone,White Iverson,https://listen.hs.llnwd.net/g3/5/9/6/9/4/1305749695.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_50,Flipp Dinero,Leave Me Alone,https://listen.hs.llnwd.net/g3/1/7/9/9/0/1439009971.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_51,Drake,Nice For What,https://listen.hs.llnwd.net/g3/3/7/8/1/6/1430261873.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_52,Migos,Stir Fry,https://listen.hs.llnwd.net/g3/3/4/7/4/9/1388194743.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_53,Eminem,Love The Way You Lie featuring Rihanna,https://listen.hs.llnwd.net/g3/5/1/4/4/9/1282794415.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_54,Nipsey Hussle,Status Symbol 3 (feat. Buddy),https://listen.hs.llnwd.net/g3/5/7/1/8/7/1392078175.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_55,Eminem,'Till I Collapse,https://listen.hs.llnwd.net/g3/1/9/2/7/7/1436177291.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_56,J. Cole,No Role Modelz,https://listen.hs.llnwd.net/g3/6/6/6/1/4/1281841666.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_57,Drake,In My Feelings,https://listen.hs.llnwd.net/g3/1/4/4/3/8/1428783441.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_58,Nipsey Hussle,Racks In The Middle (feat. Roddy Ricch and Hit-Boy),https://listen.hs.llnwd.net/g3/5/1/4/2/7/1481472415.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_59,Kendrick Lamar,DNA.,https://listen.hs.llnwd.net/g3/8/7/4/0/9/1332690478.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_60,Eminem,Killshot,https://listen.hs.llnwd.net/g3/4/3/2/8/2/1442528234.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_61,A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),https://listen.hs.llnwd.net/g3/6/0/3/5/2/1472125306.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_62,Lil Uzi Vert,XO TOUR Llif3,https://listen.hs.llnwd.net/g3/6/0/3/2/9/1374692306.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_63,Kendrick Lamar,LOVE. FT. ZACARI.,https://listen.hs.llnwd.net/g3/2/0/4/0/9/1332690402.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_64,Post Malone,Ball For Me,https://listen.hs.llnwd.net/g3/6/8/7/1/1/1406911786.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_65,Logic,1-800-273-8255,https://listen.hs.llnwd.net/g3/1/1/5/8/2/1335428511.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_66,Nipsey Hussle,Keyz 2 The City 2 (feat. TeeFlii),https://listen.hs.llnwd.net/g3/7/6/1/8/7/1392078167.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_67,Travis Scott,Goosebumps,https://listen.hs.llnwd.net/g3/2/8/6/8/9/1287698682.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_68,2Pac,"California Love featuring Roger Troutman, Dr. Dre (Original Version (Explicit))",https://listen.hs.llnwd.net/g3/2/3/7/8/2/1283428732.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_69,XXXTENTACION,Jocelyn Flores,https://listen.hs.llnwd.net/g3/9/3/0/7/3/1355337039.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_70,Lil Baby,Pure Cocaine,https://listen.hs.llnwd.net/g3/9/1/3/6/2/1460926319.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_71,Childish Gambino,This Is America,https://listen.hs.llnwd.net/g3/1/5/1/3/3/1408733151.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_72,Nipsey Hussle,Million While You Young (feat. The-Dream),https://listen.hs.llnwd.net/g3/2/7/1/8/7/1392078172.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_73,50 Cent,In Da Club,https://listen.hs.llnwd.net/g3/0/3/4/1/0/1239001430.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_74,Drake,"The Motto featuring Lil Wayne, Tyga (Album Version (Explicit))",https://listen.hs.llnwd.net/g2/8/6/1/3/1/906113168.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_75,Eminem,Venom (Music From The Motion Picture),https://listen.hs.llnwd.net/g3/9/4/8/2/4/1437842849.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_76,Migos,Bad and Boujee,https://listen.hs.llnwd.net/g3/4/9/7/2/4/1315442794.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_77,Migos,Walk It Talk It,https://listen.hs.llnwd.net/g3/3/4/9/4/9/1388194943.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_78,Drake,Mob Ties,https://listen.hs.llnwd.net/g3/2/3/9/1/6/1430261932.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_79,Gucci Mane,I Get The Bag (feat. Migos),https://listen.hs.llnwd.net/g3/0/6/6/0/8/1364580660.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_80,J. Cole,KOD,https://listen.hs.llnwd.net/g3/6/0/9/4/7/1405474906.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_81,Nipsey Hussle,Right Hand To God (Bonus Track),https://listen.hs.llnwd.net/g3/6/6/1/8/7/1392078166.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_82,Eminem,Rap God,https://listen.hs.llnwd.net/g1/7/7/9/2/5/1036752977.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_83,Future,Mask Off,https://listen.hs.llnwd.net/g3/3/6/7/0/0/1326600763.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_84,Blueface,Thotiana,https://listen.hs.llnwd.net/g3/7/9/6/5/2/1467325697.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_85,Nipsey Hussle,Succa Proof,https://listen.hs.llnwd.net/g3/2/6/1/8/7/1392078162.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_86,A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),https://listen.hs.llnwd.net/g3/0/2/2/4/0/1361804220.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_87,BlocBoy JB,Look Alive (feat. Drake),https://listen.hs.llnwd.net/g3/6/9/6/6/8/1390686696.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_88,Post Malone,Go Flex,https://listen.hs.llnwd.net/g3/0/0/0/0/5/1305750000.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_89,Cardi B,Be Careful,https://listen.hs.llnwd.net/g3/7/6/7/9/1/1402419767.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_90,Rae Sremmurd,Black Beatles featuring Gucci Mane,https://listen.hs.llnwd.net/g3/7/4/3/0/4/1281940347.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_91,21 Savage,Bank Account,https://listen.hs.llnwd.net/g3/4/9/4/8/9/1346798494.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_92,Kanye West,Gold Digger,https://listen.hs.llnwd.net/g3/9/0/2/0/9/1282990209.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_93,Nipsey Hussle,Loaded Bases (feat. CeeLo Green),https://listen.hs.llnwd.net/g3/3/7/1/8/7/1392078173.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_94,XXXTENTACION,Changes,https://listen.hs.llnwd.net/g3/8/2/0/1/9/1398191028.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_95,Rich the Kid,Splashin,https://listen.hs.llnwd.net/g3/3/4/2/2/5/1493352243.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_96,Nipsey Hussle,Real Big (feat. Marsha Ambrosius) 14,https://listen.hs.llnwd.net/g3/6/8/1/8/7/1392078186.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_97,Lil Wayne,Mona Lisa,https://listen.hs.llnwd.net/g3/4/1/0/7/2/1444727014.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_98,DJ Khaled,I'm the One,https://listen.hs.llnwd.net/g3/3/0/1/9/9/1344599103.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_99,YNW Melly,Murder On My Mind,https://listen.hs.llnwd.net/g3/4/4/9/1/9/1429791944.mp3,Hip-Hop
+2019-04-16 21:50:44.734675_100,Post Malone,Rockstar,https://listen.hs.llnwd.net/g3/7/2/8/1/1/1406911827.mp3,Hip-Hop
+2019-04-16 21:50:45.395821_1,Khalid,Talk,https://listen.hs.llnwd.net/g3/6/1/7/2/8/1497282716.mp3,Soul
+2019-04-16 21:50:45.395821_2,Khalid,Better,https://listen.hs.llnwd.net/g3/5/4/1/7/0/1448707145.mp3,Soul
+2019-04-16 21:50:45.395821_3,Khalid,Young Dumb & Broke,https://listen.hs.llnwd.net/g3/4/9/7/1/1/1322311794.mp3,Soul
+2019-04-16 21:50:45.395821_4,Ella Mai,Boo'd Up,https://listen.hs.llnwd.net/g3/9/4/6/2/4/1447042649.mp3,Soul
+2019-04-16 21:50:45.395821_5,Khalid,My Bad,https://listen.hs.llnwd.net/g3/9/3/8/2/8/1497282839.mp3,Soul
+2019-04-16 21:50:45.395821_6,Khalid,Location,https://listen.hs.llnwd.net/g3/6/3/0/2/3/1284332036.mp3,Soul
+2019-04-16 21:50:45.395821_7,The Weeknd,Starboy featuring Daft Punk,https://listen.hs.llnwd.net/g3/2/8/8/8/0/1304108882.mp3,Soul
+2019-04-16 21:50:45.395821_8,John Legend,All Of Me,https://listen.hs.llnwd.net/g3/6/5/1/3/3/1283433156.mp3,Soul
+2019-04-16 21:50:45.395821_9,The Weeknd,"Earned It (Fifty Shades Of Grey) (From The"" Fifty Shades Of Grey"" Soundtrack)",https://listen.hs.llnwd.net/g3/6/4/3/3/4/1136443346.mp3,Soul
+2019-04-16 21:50:45.395821_10,Khalid,Better,https://listen.hs.llnwd.net/g3/8/1/7/2/8/1497282718.mp3,Soul
+2019-04-16 21:50:45.395821_11,The Weeknd,The Hills,https://listen.hs.llnwd.net/g3/9/6/5/5/9/1200995569.mp3,Soul
+2019-04-16 21:50:45.395821_12,Khalid,Bad Luck,https://listen.hs.llnwd.net/g3/1/0/3/3/8/1497283301.mp3,Soul
+2019-04-16 21:50:45.395821_13,Ella Mai,Trip,https://listen.hs.llnwd.net/g3/9/8/6/2/4/1447042689.mp3,Soul
+2019-04-16 21:50:45.395821_14,The Weeknd,I Feel It Coming featuring Daft Punk,https://listen.hs.llnwd.net/g3/3/3/7/8/0/1304108733.mp3,Soul
+2019-04-16 21:50:45.395821_15,Khalid,OTW (feat. Ty Dolla $ign & 6lack),https://listen.hs.llnwd.net/g3/7/5/1/7/2/1421427157.mp3,Soul
+2019-04-16 21:50:45.395821_16,Khalid,Don't Pretend,https://listen.hs.llnwd.net/g3/2/6/6/2/8/1497282662.mp3,Soul
+2019-04-16 21:50:45.395821_17,Robin Thicke,"Blurred Lines featuring T.I., Pharrell",https://listen.hs.llnwd.net/g3/4/4/3/5/8/1282785344.mp3,Soul
+2019-04-16 21:50:45.395821_18,Khalid,Outta My Head,https://listen.hs.llnwd.net/g3/7/5/6/2/8/1497282657.mp3,Soul
+2019-04-16 21:50:45.395821_19,Khalid,Right Back,https://listen.hs.llnwd.net/g3/0/5/7/2/8/1497282750.mp3,Soul
+2019-04-16 21:50:45.395821_20,Khalid,Self,https://listen.hs.llnwd.net/g3/4/6/4/2/8/1497282464.mp3,Soul
+2019-04-16 21:50:45.395821_21,"Earth, Wind & Fire",September,https://listen.hs.llnwd.net/g3/4/2/7/0/0/1282300724.mp3,Soul
+2019-04-16 21:50:45.395821_22,Khalid,Saturday Nights,https://listen.hs.llnwd.net/g3/1/9/5/2/8/1497282591.mp3,Soul
+2019-04-16 21:50:45.395821_23,The Weeknd,Can't Feel My Face,https://listen.hs.llnwd.net/g3/0/6/3/5/9/1200995360.mp3,Soul
+2019-04-16 21:50:45.395821_24,Khalid,Paradise,https://listen.hs.llnwd.net/g3/1/3/9/2/8/1497282931.mp3,Soul
+2019-04-16 21:50:45.395821_25,The Jackson 5,I Want You Back,https://listen.hs.llnwd.net/g3/6/8/5/8/8/1431088586.mp3,Soul
+2019-04-16 21:50:45.395821_26,Beyoncé,Halo,https://listen.hs.llnwd.net/g3/8/4/6/5/6/1282965648.mp3,Soul
+2019-04-16 21:50:45.395821_27,The Weeknd,Call Out My Name,https://listen.hs.llnwd.net/g3/1/5/9/9/9/1399699951.mp3,Soul
+2019-04-16 21:50:45.395821_28,Khalid,Hundred,https://listen.hs.llnwd.net/g3/3/6/6/2/8/1497282663.mp3,Soul
+2019-04-16 21:50:45.395821_29,Ella Mai,Shot Clock,https://listen.hs.llnwd.net/g3/3/0/7/2/4/1447042703.mp3,Soul
+2019-04-16 21:50:45.395821_30,Khalid,Intro,https://listen.hs.llnwd.net/g3/6/2/4/3/8/1497283426.mp3,Soul
+2019-04-16 21:50:45.395821_31,Bryson Tiller,Don't,https://listen.hs.llnwd.net/g3/1/2/0/2/0/1282102021.mp3,Soul
+2019-04-16 21:50:45.395821_32,R. Kelly,Ignition - (remix),https://listen.hs.llnwd.net/g1/9/3/2/4/2/1042524239.mp3,Soul
+2019-04-16 21:50:45.395821_33,Khalid,Free Spirit,https://listen.hs.llnwd.net/g3/1/5/4/2/8/1497282451.mp3,Soul
+2019-04-16 21:50:45.395821_34,Daniel Caesar,Best Part (feat. H.E.R.),https://listen.hs.llnwd.net/g3/1/0/5/0/1/1355310501.mp3,Soul
+2019-04-16 21:50:45.395821_35,Khalid,Twenty One,https://listen.hs.llnwd.net/g3/7/4/6/2/8/1497282647.mp3,Soul
+2019-04-16 21:50:45.395821_36,Chris Brown,Undecided,https://listen.hs.llnwd.net/g3/8/0/5/8/3/1464738508.mp3,Soul
+2019-04-16 21:50:45.395821_37,Mark Morrison,Return Of The Mack,https://listen.hs.llnwd.net/g3/9/4/5/4/2/1281824549.mp3,Soul
+2019-04-16 21:50:45.395821_38,Anderson .Paak,Make It Better (feat. Smokey Robinson),https://listen.hs.llnwd.net/g3/7/5/0/2/2/1499822057.mp3,Soul
+2019-04-16 21:50:45.395821_39,Bill Withers,Ain't No Sunshine,https://listen.hs.llnwd.net/g1/6/8/3/1/5/259051386.mp3,Soul
+2019-04-16 21:50:45.395821_40,H.E.R.,Focus,https://listen.hs.llnwd.net/g3/3/3/0/3/6/1366263033.mp3,Soul
+2019-04-16 21:50:45.395821_41,SZA,Love Galore,https://listen.hs.llnwd.net/g3/4/9/4/9/6/1341769494.mp3,Soul
+2019-04-16 21:50:45.395821_42,The Temptations,My Girl,https://listen.hs.llnwd.net/g3/9/6/2/9/2/1182229269.mp3,Soul
+2019-04-16 21:50:45.395821_43,TLC,No Scrubs,https://listen.hs.llnwd.net/g3/8/9/9/2/4/1283542998.mp3,Soul
+2019-04-16 21:50:45.395821_44,Marvin Gaye,Ain't No Mountain High Enough,https://listen.hs.llnwd.net/g2/3/9/8/8/6/903968893.mp3,Soul
+2019-04-16 21:50:45.395821_45,Bryson Tiller,Exchange,https://listen.hs.llnwd.net/g3/4/4/8/0/9/1209690844.mp3,Soul
+2019-04-16 21:50:45.395821_46,Al Green,Let's Stay Together,https://listen.hs.llnwd.net/g1/1/3/6/3/7/974773631.mp3,Soul
+2019-04-16 21:50:45.395821_47,Miguel,Sky Walker,https://listen.hs.llnwd.net/g3/0/1/1/5/6/1377765110.mp3,Soul
+2019-04-16 21:50:45.395821_48,Prince,When Doves Cry,https://listen.hs.llnwd.net/g3/6/4/0/5/6/1319265046.mp3,Soul
+2019-04-16 21:50:45.395821_49,Daniel Caesar,Get You (feat. Kali Uchis),https://listen.hs.llnwd.net/g3/7/0/4/0/1/1355310407.mp3,Soul
+2019-04-16 21:50:45.395821_50,Khalid,Bluffin',https://listen.hs.llnwd.net/g3/9/4/4/2/8/1497282449.mp3,Soul
+2019-04-16 21:50:45.395821_51,Otis Redding,(Sittin' On) The Dock Of The Bay,https://listen.hs.llnwd.net/g3/0/2/0/6/8/1342486020.mp3,Soul
+2019-04-16 21:50:45.395821_52,Jeremih,Oui,https://listen.hs.llnwd.net/g3/7/9/5/0/3/1223230597.mp3,Soul
+2019-04-16 21:50:45.395821_53,SZA,The Weekend,https://listen.hs.llnwd.net/g3/8/5/2/9/6/1341769258.mp3,Soul
+2019-04-16 21:50:45.395821_54,Mario,Let Me Love You,https://listen.hs.llnwd.net/g1/2/8/4/2/0/197702482.mp3,Soul
+2019-04-16 21:50:45.395821_55,Andra Day,Rise Up,https://listen.hs.llnwd.net/g3/3/1/2/8/0/1199208213.mp3,Soul
+2019-04-16 21:50:45.395821_56,Usher,U Got It Bad,https://listen.hs.llnwd.net/g3/0/4/7/4/5/1281854740.mp3,Soul
+2019-04-16 21:50:45.395821_57,Blackstreet,No Diggity - (featuring Dr. Dre),https://listen.hs.llnwd.net/g3/3/0/5/7/9/1283697503.mp3,Soul
+2019-04-16 21:50:45.395821_58,Ty Dolla $ign,"Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) (Remix)",https://listen.hs.llnwd.net/g3/6/7/4/6/8/1282086476.mp3,Soul
+2019-04-16 21:50:45.395821_59,Alicia Keys,If I Ain't Got You,https://listen.hs.llnwd.net/g3/5/6/8/7/6/1445467865.mp3,Soul
+2019-04-16 21:50:45.395821_60,Miguel,Adorn,https://listen.hs.llnwd.net/g3/3/9/5/3/0/1283703593.mp3,Soul
+2019-04-16 21:50:45.395821_61,Khalid,Alive,https://listen.hs.llnwd.net/g3/6/4/4/2/8/1497282446.mp3,Soul
+2019-04-16 21:50:45.395821_62,The Weeknd,Wicked Games (Explicit),https://listen.hs.llnwd.net/g1/4/5/2/2/3/1041632254.mp3,Soul
+2019-04-16 21:50:45.395821_63,Whitney Houston,I Wanna Dance With Somebody (Who Loves Me),https://listen.hs.llnwd.net/g3/4/9/2/7/3/1283537294.mp3,Soul
+2019-04-16 21:50:45.395821_64,Chris Brown,Back To Love,https://listen.hs.llnwd.net/g3/4/7/4/1/6/1497861474.mp3,Soul
+2019-04-16 21:50:45.395821_65,H.E.R.,Best Part,https://listen.hs.llnwd.net/g3/0/3/0/3/6/1366263030.mp3,Soul
+2019-04-16 21:50:45.395821_66,Khalid,8teen,https://listen.hs.llnwd.net/g3/1/2/6/1/1/1322311621.mp3,Soul
+2019-04-16 21:50:45.395821_67,Chris Brown,Privacy,https://listen.hs.llnwd.net/g3/2/9/0/6/0/1370906092.mp3,Soul
+2019-04-16 21:50:45.395821_68,blackbear,Do Re Mi,https://listen.hs.llnwd.net/g3/5/9/8/9/0/1349509895.mp3,Soul
+2019-04-16 21:50:45.395821_69,Mariah Carey,Always Be My Baby,https://listen.hs.llnwd.net/g3/4/7/9/4/0/1282304974.mp3,Soul
+2019-04-16 21:50:45.395821_70,Prince,Let's Go Crazy,https://listen.hs.llnwd.net/g3/8/7/2/9/5/1319259278.mp3,Soul
+2019-04-16 21:50:45.395821_71,T-Pain,Buy U A Drank (Shawty Snappin')Featuring Yung Joc,https://listen.hs.llnwd.net/g1/3/4/5/4/3/1042534543.mp3,Soul
+2019-04-16 21:50:45.395821_72,Tank,When We,https://listen.hs.llnwd.net/g3/8/2/5/3/8/1360883528.mp3,Soul
+2019-04-16 21:50:45.395821_73,Khalid,Heaven,https://listen.hs.llnwd.net/g3/6/6/4/2/8/1497282466.mp3,Soul
+2019-04-16 21:50:45.395821_74,Bell Biv Devoe,Poison,https://listen.hs.llnwd.net/g1/4/2/0/1/3/996631024.mp3,Soul
+2019-04-16 21:50:45.395821_75,Miguel,Sure Thing (Main Version),https://listen.hs.llnwd.net/g3/7/7/5/0/5/1281850577.mp3,Soul
+2019-04-16 21:50:45.395821_76,Mariah Carey,We Belong Together,https://listen.hs.llnwd.net/g3/8/0/5/3/1/1441913508.mp3,Soul
+2019-04-16 21:50:45.395821_77,Beyoncé,Single Ladies (Put A Ring On It),https://listen.hs.llnwd.net/g3/5/6/3/1/7/1282571365.mp3,Soul
+2019-04-16 21:50:45.395821_78,Kehlani,Nights Like This (feat. Ty Dolla $ign),https://listen.hs.llnwd.net/g3/5/7/5/4/5/1469754575.mp3,Soul
+2019-04-16 21:50:45.395821_79,Jhené Aiko,Sativa,https://listen.hs.llnwd.net/g3/9/9/8/5/2/1360925899.mp3,Soul
+2019-04-16 21:50:45.395821_80,Queen Naija,Medicine,https://listen.hs.llnwd.net/g3/3/6/1/0/6/1415460163.mp3,Soul
+2019-04-16 21:50:45.395821_81,Ben E. King,Stand By Me,https://listen.hs.llnwd.net/g3/5/9/1/8/9/1362498195.mp3,Soul
+2019-04-16 21:50:45.395821_82,Marvin Gaye,Sexual Healing,https://listen.hs.llnwd.net/g3/2/6/7/3/2/1281823762.mp3,Soul
+2019-04-16 21:50:45.395821_83,Chris Brown,Pills & Automobiles,https://listen.hs.llnwd.net/g3/4/3/1/6/0/1370906134.mp3,Soul
+2019-04-16 21:50:45.395821_84,Rihanna,Umbrella Featuring Jay-Z,https://listen.hs.llnwd.net/g3/1/3/8/7/4/1281847831.mp3,Soul
+2019-04-16 21:50:45.395821_85,Beyoncé,Drunk in Love (Explicit Version),https://listen.hs.llnwd.net/g3/0/6/7/0/6/1282560760.mp3,Soul
+2019-04-16 21:50:45.395821_86,The Weeknd,Party Monster,https://listen.hs.llnwd.net/g3/4/2/7/8/0/1304108724.mp3,Soul
+2019-04-16 21:50:45.395821_87,The Weeknd,Acquainted,https://listen.hs.llnwd.net/g3/6/0/7/6/1/1281916706.mp3,Soul
+2019-04-16 21:50:45.395821_88,Usher,Burn,https://listen.hs.llnwd.net/g3/1/1/9/8/3/1283538911.mp3,Soul
+2019-04-16 21:50:45.395821_89,Aretha Franklin,Respect,https://listen.hs.llnwd.net/g1/9/6/0/3/9/109393069.mp3,Soul
+2019-04-16 21:50:45.395821_90,Usher,My Boo,https://listen.hs.llnwd.net/g1/7/6/0/1/6/1042261067.mp3,Soul
+2019-04-16 21:50:45.395821_91,Prince,Kiss,https://listen.hs.llnwd.net/g3/6/8/4/4/6/1319264486.mp3,Soul
+2019-04-16 21:50:45.395821_92,Lauryn Hill,Doo Wop (That Thing),https://listen.hs.llnwd.net/g1/0/1/0/2/1/1042512010.mp3,Soul
+2019-04-16 21:50:45.395821_93,Joji,Slow Dancing In The Dark,https://listen.hs.llnwd.net/g3/0/4/3/9/4/1450749340.mp3,Soul
+2019-04-16 21:50:45.395821_94,Marvin Gaye,Let's Get It On,https://listen.hs.llnwd.net/g3/9/3/9/4/0/1283404939.mp3,Soul
+2019-04-16 21:50:45.395821_95,Khalid,Saved,https://listen.hs.llnwd.net/g3/5/5/8/1/1/1322311855.mp3,Soul
+2019-04-16 21:50:45.395821_96,Trey Songz,Bottoms Up (Feat. Nicki Minaj),https://listen.hs.llnwd.net/g3/2/0/5/1/3/1281931502.mp3,Soul
+2019-04-16 21:50:45.395821_97,Janelle Monae,I Like That,https://listen.hs.llnwd.net/g3/2/1/7/2/8/1407482712.mp3,Soul
+2019-04-16 21:50:45.395821_98,Trey Songz,Slow Motion,https://listen.hs.llnwd.net/g3/6/4/4/7/7/1359077446.mp3,Soul
+2019-04-16 21:50:45.395821_99,PARTYNEXTDOOR,Come and See Me (feat. Drake),https://listen.hs.llnwd.net/g3/0/6/2/4/9/1281594260.mp3,Soul
+2019-04-16 21:50:45.395821_100,Rihanna,Disturbia,https://listen.hs.llnwd.net/g3/0/5/7/1/1/1281611750.mp3,Soul
+2019-04-16 21:50:45.952326_1,Norah Jones,Don't Know Why,https://listen.hs.llnwd.net/g1/1/5/7/7/1/384417751.mp3,Jazz
+2019-04-16 21:50:45.952326_2,Norah Jones,Come Away With Me,https://listen.hs.llnwd.net/g1/5/1/8/5/9/1000495815.mp3,Jazz
+2019-04-16 21:50:45.952326_3,Nina Simone,Feeling Good,https://listen.hs.llnwd.net/g2/9/9/5/3/6/917963599.mp3,Jazz
+2019-04-16 21:50:45.952326_4,Norah Jones,Turn Me On,https://listen.hs.llnwd.net/g1/0/7/0/8/1/384418070.mp3,Jazz
+2019-04-16 21:50:45.952326_5,Soul II Soul,Back To Life,https://listen.hs.llnwd.net/g1/6/4/5/2/8/106582546.mp3,Jazz
+2019-04-16 21:50:45.952326_6,Bobby McFerrin,"Don't Worry, Be Happy",https://listen.hs.llnwd.net/g1/9/1/1/7/2/106927119.mp3,Jazz
+2019-04-16 21:50:45.952326_7,The Isley Brothers,Contagious,https://listen.hs.llnwd.net/g3/7/2/8/1/1/1281611827.mp3,Jazz
+2019-04-16 21:50:45.952326_8,"Grover Washington, Jr.",Just The Two Of Us,https://listen.hs.llnwd.net/g3/8/4/3/9/0/1282109348.mp3,Jazz
+2019-04-16 21:50:45.952326_9,Miles Davis,So What,https://listen.hs.llnwd.net/g3/2/1/1/8/1/1281818112.mp3,Jazz
+2019-04-16 21:50:45.952326_10,George Benson,Give Me The Night,https://listen.hs.llnwd.net/g3/7/8/5/1/9/1330791587.mp3,Jazz
+2019-04-16 21:50:45.952326_11,George Benson,Breezin',https://listen.hs.llnwd.net/g3/1/1/8/0/9/1330790811.mp3,Jazz
+2019-04-16 21:50:45.952326_12,Lou Rawls,You'll Never Find Another Love Like Mine,https://listen.hs.llnwd.net/g3/0/1/8/3/0/1283703810.mp3,Jazz
+2019-04-16 21:50:45.952326_13,Miles Davis,Blue In Green,https://listen.hs.llnwd.net/g3/3/4/2/3/3/1282333243.mp3,Jazz
+2019-04-16 21:50:45.952326_14,Norah Jones,The Nearness Of You,https://listen.hs.llnwd.net/g1/3/5/8/7/1/384417853.mp3,Jazz
+2019-04-16 21:50:45.952326_15,Kenny G,Songbird,https://listen.hs.llnwd.net/g3/1/4/9/1/8/1062381941.mp3,Jazz
+2019-04-16 21:50:45.952326_16,Norah Jones,Cold Cold Heart,https://listen.hs.llnwd.net/g1/0/0/7/7/1/384417700.mp3,Jazz
+2019-04-16 21:50:45.952326_17,Al Jarreau,Mornin',https://listen.hs.llnwd.net/g3/5/0/7/7/7/1282777705.mp3,Jazz
+2019-04-16 21:50:45.952326_18,Ray Charles,Mess Around,https://listen.hs.llnwd.net/g3/8/6/1/8/9/1362498168.mp3,Jazz
+2019-04-16 21:50:45.952326_19,Soul II Soul,Keep On Movin',https://listen.hs.llnwd.net/g1/9/4/3/3/7/106573349.mp3,Jazz
+2019-04-16 21:50:45.952326_20,Roy Ayers,Everybody Loves The Sunshine,https://listen.hs.llnwd.net/g1/6/9/9/2/8/211582996.mp3,Jazz
+2019-04-16 21:50:45.952326_21,Nina Simone,I Put A Spell On You,https://listen.hs.llnwd.net/g3/2/7/4/5/6/1283565472.mp3,Jazz
+2019-04-16 21:50:45.952326_22,Miles Davis,All Blues,https://listen.hs.llnwd.net/g3/0/8/4/9/6/1282969480.mp3,Jazz
+2019-04-16 21:50:45.952326_23,Nina Simone,Sinnerman,https://listen.hs.llnwd.net/g1/0/7/9/9/7/105479970.mp3,Jazz
+2019-04-16 21:50:45.952326_24,Norah Jones,I've Got To See You Again,https://listen.hs.llnwd.net/g1/4/5/8/7/1/384417854.mp3,Jazz
+2019-04-16 21:50:45.952326_25,Norah Jones,Shoot The Moon,https://listen.hs.llnwd.net/g1/9/2/6/7/1/384417629.mp3,Jazz
+2019-04-16 21:50:45.952326_26,Dave Brubeck,Take Five,https://listen.hs.llnwd.net/g3/8/9/0/9/6/1282569098.mp3,Jazz
+2019-04-16 21:50:45.952326_27,George Benson,Turn Your Love Around,https://listen.hs.llnwd.net/g3/6/7/9/8/8/1330788976.mp3,Jazz
+2019-04-16 21:50:45.952326_28,Norah Jones,Seven Years,https://listen.hs.llnwd.net/g1/5/9/4/7/1/384417495.mp3,Jazz
+2019-04-16 21:50:45.952326_29,Boney James,Sweet Thing,https://listen.hs.llnwd.net/g3/6/4/5/5/6/1282565546.mp3,Jazz
+2019-04-16 21:50:45.952326_30,Ray Charles,Night Time Is The Right Time,https://listen.hs.llnwd.net/g3/7/0/0/5/5/1379055007.mp3,Jazz
+2019-04-16 21:50:45.952326_31,Anika Noni Rose,Almost There,https://listen.hs.llnwd.net/g3/0/1/0/5/6/1283965010.mp3,Jazz
+2019-04-16 21:50:45.952326_32,George Duke,"No Rhyme, No Reason",https://listen.hs.llnwd.net/g3/3/9/5/3/2/1283423593.mp3,Jazz
+2019-04-16 21:50:45.952326_33,Boney James,Maker Of Love featuring Raheem DeVaughn,https://listen.hs.llnwd.net/g3/3/9/3/5/9/1282095393.mp3,Jazz
+2019-04-16 21:50:45.952326_34,Norah Jones,Feelin' The Same Way,https://listen.hs.llnwd.net/g1/5/1/7/7/1/384417715.mp3,Jazz
+2019-04-16 21:50:45.952326_35,George Benson,Give Me The Night,https://listen.hs.llnwd.net/g3/9/8/6/4/2/1282324689.mp3,Jazz
+2019-04-16 21:50:45.952326_36,Boney James,Butter,https://listen.hs.llnwd.net/g2/7/5/5/5/6/928265557.mp3,Jazz
+2019-04-16 21:50:45.952326_37,Miles Davis,Flamenco Sketches,https://listen.hs.llnwd.net/g1/2/9/7/7/8/136187792.mp3,Jazz
+2019-04-16 21:50:45.952326_38,Al Jarreau,We're In This Love Together,https://listen.hs.llnwd.net/g3/9/2/3/9/0/1283409329.mp3,Jazz
+2019-04-16 21:50:45.952326_39,Norah Jones,Lonestar,https://listen.hs.llnwd.net/g1/7/9/6/7/1/384417697.mp3,Jazz
+2019-04-16 21:50:45.952326_40,Norah Jones,Nightingale,https://listen.hs.llnwd.net/g1/7/6/9/7/1/384417967.mp3,Jazz
+2019-04-16 21:50:45.952326_41,"Grover Washington, Jr.",Mister Magic,https://listen.hs.llnwd.net/g1/0/4/2/6/9/1042596240.mp3,Jazz
+2019-04-16 21:50:45.952326_42,Fuerza Regida,Ya Se Fue Manuel,,Jazz
+2019-04-16 21:50:45.952326_43,Boney James,Vinyl,https://listen.hs.llnwd.net/g3/4/1/1/0/1/1171010114.mp3,Jazz
+2019-04-16 21:50:45.952326_44,Miles Davis,Freddie Freeloader,https://listen.hs.llnwd.net/g1/8/0/5/9/6/104769508.mp3,Jazz
+2019-04-16 21:50:45.952326_45,Arsenal Efectivo,Lolo Felix,https://listen.hs.llnwd.net/g3/2/9/5/4/7/1209574592.mp3,Jazz
+2019-04-16 21:50:45.952326_46,George Benson,On Broadway,https://listen.hs.llnwd.net/g3/3/4/7/8/8/1330788743.mp3,Jazz
+2019-04-16 21:50:45.952326_47,Chuck Mangione,Feels So Good,https://listen.hs.llnwd.net/g1/1/3/1/2/2/1013622131.mp3,Jazz
+2019-04-16 21:50:45.952326_48,Jamiroquai,You Give Me Something,https://listen.hs.llnwd.net/g3/7/9/6/0/6/1435660697.mp3,Jazz
+2019-04-16 21:50:45.952326_49,Norah Jones,The Long Day Is Over,https://listen.hs.llnwd.net/g1/3/8/0/8/1/384418083.mp3,Jazz
+2019-04-16 21:50:45.952326_50,George Benson,This Masquerade,https://listen.hs.llnwd.net/g3/8/0/1/8/8/1330788108.mp3,Jazz
+2019-04-16 21:50:45.952326_51,Glenn Miller,In The Mood,https://listen.hs.llnwd.net/g3/2/7/1/3/0/1283703172.mp3,Jazz
+2019-04-16 21:50:45.952326_52,Boney James,Either Way featuring Stokley,https://listen.hs.llnwd.net/g3/2/8/3/2/9/1283692382.mp3,Jazz
+2019-04-16 21:50:45.952326_53,Norah Jones,One Flight Down,https://listen.hs.llnwd.net/g1/9/0/0/8/1/384418009.mp3,Jazz
+2019-04-16 21:50:45.952326_54,Kenny G,Silhouette,https://listen.hs.llnwd.net/g3/3/2/8/0/0/1282100823.mp3,Jazz
+2019-04-16 21:50:45.952326_55,Ella Fitzgerald,Dream A Little Dream Of Me,https://listen.hs.llnwd.net/g1/9/1/9/4/2/104824919.mp3,Jazz
+2019-04-16 21:50:45.952326_56,George Benson,Love X Love,https://listen.hs.llnwd.net/g3/8/9/2/6/0/1282106298.mp3,Jazz
+2019-04-16 21:50:45.952326_57,Najee,Betcha Don't Know,https://listen.hs.llnwd.net/g1/4/0/2/1/7/105671204.mp3,Jazz
+2019-04-16 21:50:45.952326_58,Gregory Porter,Holding On featuring Kem,https://listen.hs.llnwd.net/g3/5/6/2/0/2/1281820265.mp3,Jazz
+2019-04-16 21:50:45.952326_59,Brian Culbertson,You're My Music featuring Noel Gourdin,https://listen.hs.llnwd.net/g1/4/1/8/7/3/1042337814.mp3,Jazz
+2019-04-16 21:50:45.952326_60,John Coltrane,Giant Steps,https://listen.hs.llnwd.net/g3/2/8/6/8/8/1270888682.mp3,Jazz
+2019-04-16 21:50:45.952326_61,John Coltrane,In A Sentimental Mood,https://listen.hs.llnwd.net/g3/4/9/6/0/4/1281840694.mp3,Jazz
+2019-04-16 21:50:45.952326_62,Quincy Jones,The Secret Garden,https://listen.hs.llnwd.net/g3/7/4/1/3/2/1283423147.mp3,Jazz
+2019-04-16 21:50:45.952326_63,Norah Jones,Painter Song,https://listen.hs.llnwd.net/g1/1/7/0/8/1/384418071.mp3,Jazz
+2019-04-16 21:50:45.952326_64,Louis Armstrong,La Vie En Rose,https://listen.hs.llnwd.net/g3/1/0/9/6/9/1282796901.mp3,Jazz
+2019-04-16 21:50:45.952326_65,Ray Charles,You Don't Know Me (Duet with Diana Krall),https://listen.hs.llnwd.net/g3/2/9/6/3/5/1281853692.mp3,Jazz
+2019-04-16 21:50:45.952326_66,Nat King Cole,L-O-V-E,https://listen.hs.llnwd.net/g1/1/3/2/7/0/118507231.mp3,Jazz
+2019-04-16 21:50:45.952326_67,Arsenal Efectivo,Vida Peligrosa,https://listen.hs.llnwd.net/g3/1/5/4/4/7/1209574451.mp3,Jazz
+2019-04-16 21:50:45.952326_68,George Benson,This Masquerade,https://listen.hs.llnwd.net/g3/5/5/4/7/7/1282977455.mp3,Jazz
+2019-04-16 21:50:45.952326_69,Fuerza Regida,En Modesto Se la Pasa,https://listen.hs.llnwd.net/g3/0/6/8/1/3/1423531860.mp3,Jazz
+2019-04-16 21:50:45.952326_70,Boney James,After The Rain,https://listen.hs.llnwd.net/g3/5/7/0/3/5/1283953075.mp3,Jazz
+2019-04-16 21:50:45.952326_71,Billie Holiday,I'll Be Seeing You,https://listen.hs.llnwd.net/g3/4/9/6/5/2/1281825694.mp3,Jazz
+2019-04-16 21:50:45.952326_72,Fuerza Regida,Soy Montero,,Jazz
+2019-04-16 21:50:45.952326_73,Ella Fitzgerald,They Can't Take That Away From Me,https://listen.hs.llnwd.net/g3/1/6/7/6/7/1282776761.mp3,Jazz
+2019-04-16 21:50:45.952326_74,Ella Fitzgerald,Summertime,https://listen.hs.llnwd.net/g3/0/9/9/6/8/1282086990.mp3,Jazz
+2019-04-16 21:50:45.952326_75,Kenny G,Foever In Love,https://listen.hs.llnwd.net/g3/2/5/9/1/8/1062381952.mp3,Jazz
+2019-04-16 21:50:45.952326_76,James Morrison,You Give Me Something,https://listen.hs.llnwd.net/g3/4/6/4/8/9/1282098464.mp3,Jazz
+2019-04-16 21:50:45.952326_77,Nina Simone,Don't Let Me Be Misunderstood,https://listen.hs.llnwd.net/g2/5/3/7/3/3/915233735.mp3,Jazz
+2019-04-16 21:50:45.952326_78,Arrana Animalia,Babysit For Someone,https://listen.hs.llnwd.net/g3/5/1/8/2/8/1386582815.mp3,Jazz
+2019-04-16 21:50:45.952326_79,Brian Culbertson,City Lights (feat. Lee Ritenour),https://listen.hs.llnwd.net/g3/9/6/9/1/2/1282321969.mp3,Jazz
+2019-04-16 21:50:45.952326_80,Brand New Heavies,Never Stop,https://listen.hs.llnwd.net/g3/6/4/8/1/1/1283411846.mp3,Jazz
+2019-04-16 21:50:45.952326_81,Mitchell Blueton,Antique Cactus,https://listen.hs.llnwd.net/g3/3/0/8/4/4/1384044803.mp3,Jazz
+2019-04-16 21:50:45.952326_82,Arrana Animalia,All Is Well,https://listen.hs.llnwd.net/g3/3/2/9/2/8/1386582923.mp3,Jazz
+2019-04-16 21:50:45.952326_83,Dragon Boylen,Bulldozer Fashion,https://listen.hs.llnwd.net/g3/2/8/1/2/3/1382932182.mp3,Jazz
+2019-04-16 21:50:45.952326_84,Snow Blankership,Down Light Lollipop,https://listen.hs.llnwd.net/g3/8/3/2/7/4/1382947238.mp3,Jazz
+2019-04-16 21:50:45.952326_85,Mitchell Blueton,Bath Bubble,https://listen.hs.llnwd.net/g3/3/7/9/4/4/1384044973.mp3,Jazz
+2019-04-16 21:50:45.952326_86,Boney James,"Stop, Look, Listen (To Your Heart)",https://listen.hs.llnwd.net/g2/4/7/8/5/6/928265874.mp3,Jazz
+2019-04-16 21:50:45.952326_87,Brian Culbertson,Sensuality,https://listen.hs.llnwd.net/g3/6/5/5/9/2/1281829556.mp3,Jazz
+2019-04-16 21:50:45.952326_88,Mitchell Blueton,Sardine Definition,https://listen.hs.llnwd.net/g3/8/1/8/4/4/1384044818.mp3,Jazz
+2019-04-16 21:50:45.952326_89,Dragon Boylen,Beggar Desert,https://listen.hs.llnwd.net/g3/1/9/6/0/3/1382930691.mp3,Jazz
+2019-04-16 21:50:45.952326_90,Arrana Animalia,Avoid Financial Hierarchies,https://listen.hs.llnwd.net/g3/8/1/8/2/8/1386582818.mp3,Jazz
+2019-04-16 21:50:45.952326_91,Arrana Animalia,Ask For Help,https://listen.hs.llnwd.net/g3/6/1/8/2/8/1386582816.mp3,Jazz
+2019-04-16 21:50:45.952326_92,Dragon Boylen,Value Dock,https://listen.hs.llnwd.net/g3/7/1/8/1/3/1382931817.mp3,Jazz
+2019-04-16 21:50:45.952326_93,Dragon Boylen,Comet Cider,https://listen.hs.llnwd.net/g3/3/2/2/1/3/1382931223.mp3,Jazz
+2019-04-16 21:50:45.952326_94,Shanna Flock,Arch Promotion,https://listen.hs.llnwd.net/g3/3/8/4/0/7/1368070483.mp3,Jazz
+2019-04-16 21:50:45.952326_95,Snow Blankership,Balcony Signature,https://listen.hs.llnwd.net/g3/2/0/7/4/4/1382944702.mp3,Jazz
+2019-04-16 21:50:45.952326_96,Dragon Boylen,Tea Bag Stadium,https://listen.hs.llnwd.net/g3/4/0/2/2/3/1382932204.mp3,Jazz
+2019-04-16 21:50:45.952326_97,Arrana Animalia,Always Add Value,https://listen.hs.llnwd.net/g3/1/2/8/2/8/1386582821.mp3,Jazz
+2019-04-16 21:50:45.952326_98,Arrana Animalia,Always Live Consciously,https://listen.hs.llnwd.net/g3/3/8/8/2/8/1386582883.mp3,Jazz
+2019-04-16 21:50:45.952326_99,Kuldip Pelopis,Crowd Insult,https://listen.hs.llnwd.net/g3/7/7/3/3/2/1450223377.mp3,Jazz
+2019-04-16 21:50:45.952326_100,Kuldip Pelopis,Aluminium Minute,https://listen.hs.llnwd.net/g3/6/6/7/3/2/1450223766.mp3,Jazz
+2019-04-16 21:50:46.534318_1,Marshmello & Bastille,Happier,https://listen.hs.llnwd.net/g3/7/1/1/4/9/1434794117.mp3,Electronic
+2019-04-16 21:50:46.534318_2,The Chainsmokers,Closer,https://listen.hs.llnwd.net/g3/1/6/6/9/5/1277759661.mp3,Electronic
+2019-04-16 21:50:46.534318_3,Ava Max,Sweet but Psycho,https://listen.hs.llnwd.net/g3/5/9/9/4/3/1434834995.mp3,Electronic
+2019-04-16 21:50:46.534318_4,The Chainsmokers,Don't Let Me Down (feat. Daya),https://listen.hs.llnwd.net/g3/0/3/1/2/5/1242152130.mp3,Electronic
+2019-04-16 21:50:46.534318_5,The Chainsmokers,Something Just Like This (feat. Coldplay),https://listen.hs.llnwd.net/g3/9/8/2/0/0/1321600289.mp3,Electronic
+2019-04-16 21:50:46.534318_6,DJ Snake,"Taki Taki (feat. Cardi B, Ozuna & Selena Gomez)",https://listen.hs.llnwd.net/g3/3/3/3/6/6/1445266333.mp3,Electronic
+2019-04-16 21:50:46.534318_7,Marshmello,Silence,https://listen.hs.llnwd.net/g3/2/7/6/0/9/1355790672.mp3,Electronic
+2019-04-16 21:50:46.534318_8,Zedd & Maren Morris & Grey,The Middle (feat. Maren Morris),https://listen.hs.llnwd.net/g3/8/5/8/2/6/1387562858.mp3,Electronic
+2019-04-16 21:50:46.534318_9,Lauv,I Like Me Better,https://listen.hs.llnwd.net/g3/1/4/6/4/8/1431284641.mp3,Electronic
+2019-04-16 21:50:46.534318_10,"Ellie Goulding, Diplo, Swae Lee",Close To Me,https://listen.hs.llnwd.net/g3/8/6/6/8/9/1449998668.mp3,Electronic
+2019-04-16 21:50:46.534318_11,Major Lazer,Lean On (feat. MØ & DJ Snake),https://listen.hs.llnwd.net/g3/3/4/6/3/5/1153853643.mp3,Electronic
+2019-04-16 21:50:46.534318_12,The Chainsmokers,Who Do You Love (feat. 5 Seconds of Summer),https://listen.hs.llnwd.net/g3/1/8/3/9/2/1479229381.mp3,Electronic
+2019-04-16 21:50:46.534318_13,Zedd & Alessia Cara,Stay,https://listen.hs.llnwd.net/g3/9/5/7/7/8/1320787759.mp3,Electronic
+2019-04-16 21:50:46.534318_14,Kygo & Selena Gomez,It Ain't Me,https://listen.hs.llnwd.net/g3/3/6/5/6/3/1319836563.mp3,Electronic
+2019-04-16 21:50:46.534318_15,The Chainsmokers,Roses (feat. Rozes),https://listen.hs.llnwd.net/g3/7/3/1/5/7/1282775137.mp3,Electronic
+2019-04-16 21:50:46.534318_16,Loud Luxury,Body,https://listen.hs.llnwd.net/g3/1/7/0/3/0/1427903071.mp3,Electronic
+2019-04-16 21:50:46.534318_17,The Chainsmokers,Paris,https://listen.hs.llnwd.net/g3/3/3/4/2/8/1313582433.mp3,Electronic
+2019-04-16 21:50:46.534318_18,Marshmello,Alone,https://listen.hs.llnwd.net/g3/1/9/1/6/2/1471426191.mp3,Electronic
+2019-04-16 21:50:46.534318_19,Alan Walker,Faded,https://listen.hs.llnwd.net/g3/0/8/3/6/6/1460966380.mp3,Electronic
+2019-04-16 21:50:46.534318_20,Marshmello & Anne-Marie,Friends,https://listen.hs.llnwd.net/g3/6/0/5/0/5/1442750506.mp3,Electronic
+2019-04-16 21:50:46.534318_21,DJ Snake,Turn Down For What,https://listen.hs.llnwd.net/g3/9/6/8/2/6/1282562869.mp3,Electronic
+2019-04-16 21:50:46.534318_22,DJ Snake,Let Me Love You featuring Justin Bieber,https://listen.hs.llnwd.net/g3/5/3/9/6/3/1279036935.mp3,Electronic
+2019-04-16 21:50:46.534318_23,Marian Hill,Down,https://listen.hs.llnwd.net/g3/7/3/7/0/8/1271880737.mp3,Electronic
+2019-04-16 21:50:46.534318_24,Disclosure,Latch featuring Sam Smith,https://listen.hs.llnwd.net/g3/4/8/7/3/7/1282973784.mp3,Electronic
+2019-04-16 21:50:46.534318_25,Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),https://listen.hs.llnwd.net/g3/7/2/8/5/7/1455775827.mp3,Electronic
+2019-04-16 21:50:46.534318_26,The Chainsmokers,This Feeling,https://listen.hs.llnwd.net/g3/6/5/0/0/4/1463640056.mp3,Electronic
+2019-04-16 21:50:46.534318_27,Martin Garrix,In The Name Of Love,https://listen.hs.llnwd.net/g3/1/8/0/6/5/1281856081.mp3,Electronic
+2019-04-16 21:50:46.534318_28,Clean Bandit,Rather Be feat. Jess Glynne,https://listen.hs.llnwd.net/g3/5/6/8/8/1/1080518865.mp3,Electronic
+2019-04-16 21:50:46.534318_29,Silk City & Dua Lipa,Electricity,https://listen.hs.llnwd.net/g3/3/5/5/7/0/1439007553.mp3,Electronic
+2019-04-16 21:50:46.534318_30,Calvin Harris & Sam Smith,Promises,https://listen.hs.llnwd.net/g3/6/2/8/3/4/1434643826.mp3,Electronic
+2019-04-16 21:50:46.534318_31,The Chainsmokers,Kills You Slowly,https://listen.hs.llnwd.net/g3/4/0/3/5/3/1492535304.mp3,Electronic
+2019-04-16 21:50:46.534318_32,Anne-Marie,2002,https://listen.hs.llnwd.net/g3/9/0/4/0/2/1404920409.mp3,Electronic
+2019-04-16 21:50:46.534318_33,Lauv,I'm So Tired...,https://listen.hs.llnwd.net/g3/0/5/9/6/9/1469796950.mp3,Electronic
+2019-04-16 21:50:46.534318_34,Major Lazer,"Cold Water featuring Justin Bieber, MØ",https://listen.hs.llnwd.net/g3/0/0/8/4/0/1283404800.mp3,Electronic
+2019-04-16 21:50:46.534318_35,Cheat Codes,No Promises (feat. Demi Lovato),https://listen.hs.llnwd.net/g3/0/7/5/9/8/1373889570.mp3,Electronic
+2019-04-16 21:50:46.534318_36,AlunaGeorge,You Know You Like It (DJ Snake Remix),https://listen.hs.llnwd.net/g3/2/9/1/3/5/1281853192.mp3,Electronic
+2019-04-16 21:50:46.534318_37,Zedd & Katy Perry,365,https://listen.hs.llnwd.net/g3/0/0/5/6/7/1481476500.mp3,Electronic
+2019-04-16 21:50:46.534318_38,Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",https://listen.hs.llnwd.net/g3/1/2/5/7/5/1474357521.mp3,Electronic
+2019-04-16 21:50:46.534318_39,Skrillex,Bangarang (feat. Sirah),https://listen.hs.llnwd.net/g3/3/3/0/4/6/1282564033.mp3,Electronic
+2019-04-16 21:50:46.534318_40,Jack Ü,Where Are Ü Now (feat. Justin Bieber),https://listen.hs.llnwd.net/g3/3/0/4/4/6/1325464403.mp3,Electronic
+2019-04-16 21:50:46.534318_41,Clean Bandit,Solo (feat. Demi Lovato),https://listen.hs.llnwd.net/g3/9/6/1/6/6/1458866169.mp3,Electronic
+2019-04-16 21:50:46.534318_42,Swedish House Mafia,Don't You Worry Child (Radio Edit) [feat. John Martin],https://listen.hs.llnwd.net/g3/5/3/6/8/4/1281848635.mp3,Electronic
+2019-04-16 21:50:46.534318_43,Social House,Magic In The Hamptons,https://listen.hs.llnwd.net/g3/4/3/6/8/0/1415408634.mp3,Electronic
+2019-04-16 21:50:46.534318_44,Clean Bandit,Symphony (feat. Zara Larsson),https://listen.hs.llnwd.net/g3/6/6/1/6/6/1458866166.mp3,Electronic
+2019-04-16 21:50:46.534318_45,Amber Mark,Mixer,https://listen.hs.llnwd.net/g3/5/6/9/7/2/1496927965.mp3,Electronic
+2019-04-16 21:50:46.534318_46,Alina Baraz,Electric (feat. Khalid),https://listen.hs.llnwd.net/g3/2/3/7/6/6/1401966732.mp3,Electronic
+2019-04-16 21:50:46.534318_47,Dynoro,In My Mind,https://listen.hs.llnwd.net/g3/2/4/7/9/5/1413959742.mp3,Electronic
+2019-04-16 21:50:46.534318_48,Sofi Tukker,Best Friend,https://listen.hs.llnwd.net/g3/0/3/9/6/3/1484436930.mp3,Electronic
+2019-04-16 21:50:46.534318_49,Robin Schulz,Sugar (feat. Francesco Yates),https://listen.hs.llnwd.net/g3/3/9/3/0/2/1281820393.mp3,Electronic
+2019-04-16 21:50:46.534318_50,Martin Garrix & Dua Lipa,Scared To Be Lonely,https://listen.hs.llnwd.net/g3/1/2/1/7/8/1323187121.mp3,Electronic
+2019-04-16 21:50:46.534318_51,Aaron Smith,Dancin (Krono Remix),https://listen.hs.llnwd.net/g3/8/0/0/3/2/1482023008.mp3,Electronic
+2019-04-16 21:50:46.534318_52,Ava Max,So Am I,https://listen.hs.llnwd.net/g3/5/5/2/7/0/1488007255.mp3,Electronic
+2019-04-16 21:50:46.534318_53,Marshmello,Keep It Mello (feat. Omar Linx),https://listen.hs.llnwd.net/g3/6/5/3/7/8/1233487356.mp3,Electronic
+2019-04-16 21:50:46.534318_54,Cheat Codes,Be The One (with Kaskade),https://listen.hs.llnwd.net/g3/3/9/1/0/0/1497700193.mp3,Electronic
+2019-04-16 21:50:46.534318_55,Skrillex,Purple Lamborghini,https://listen.hs.llnwd.net/g3/8/4/6/1/9/1277991648.mp3,Electronic
+2019-04-16 21:50:46.534318_56,Timmy Trumpet,Freaks featuring Savage,https://listen.hs.llnwd.net/g3/0/9/9/9/9/1283699990.mp3,Electronic
+2019-04-16 21:50:46.534318_57,Galantis,Runaway (U & I),https://listen.hs.llnwd.net/g3/1/1/9/0/1/1282610911.mp3,Electronic
+2019-04-16 21:50:46.534318_58,Kungs,This Girl (Kungs Vs. Cookin' On 3 Burners),https://listen.hs.llnwd.net/g3/0/8/0/3/1/1302513080.mp3,Electronic
+2019-04-16 21:50:46.534318_59,Major Lazer,Light It Up (Remix) [feat. Nyla & Fuse ODG],https://listen.hs.llnwd.net/g3/7/1/0/2/9/1282092017.mp3,Electronic
+2019-04-16 21:50:46.534318_60,Alan Walker,Darkside,https://listen.hs.llnwd.net/g3/2/4/5/6/6/1460966542.mp3,Electronic
+2019-04-16 21:50:46.534318_61,Halsey,Without Me (ILLENIUM Remix),https://listen.hs.llnwd.net/g3/3/0/0/9/7/1463179003.mp3,Electronic
+2019-04-16 21:50:46.534318_62,DJ Snake,Middle featuring Bipolar Sunshine,https://listen.hs.llnwd.net/g3/4/5/8/8/1/1282318854.mp3,Electronic
+2019-04-16 21:50:46.534318_63,The Chainsmokers,Hope,https://listen.hs.llnwd.net/g3/1/2/1/0/4/1463640121.mp3,Electronic
+2019-04-16 21:50:46.534318_64,Tiësto & Dzeko,Jackie Chan (feat. Preme & Post Malone),https://listen.hs.llnwd.net/g3/0/3/3/2/0/1409702330.mp3,Electronic
+2019-04-16 21:50:46.534318_65,Marshmello,Fly (feat. Leah Culver),https://listen.hs.llnwd.net/g3/1/5/6/6/8/1396086651.mp3,Electronic
+2019-04-16 21:50:46.534318_66,Martin Garrix,Ocean,https://listen.hs.llnwd.net/g3/5/4/3/6/2/1418426345.mp3,Electronic
+2019-04-16 21:50:46.534318_67,Daft Punk,Around The World,https://listen.hs.llnwd.net/g3/0/9/1/2/2/1283422190.mp3,Electronic
+2019-04-16 21:50:46.534318_68,Petit Biscuit,Sunset Lover,https://listen.hs.llnwd.net/g3/4/1/7/9/2/1281929714.mp3,Electronic
+2019-04-16 21:50:46.534318_69,Skrillex,Make It Bun Dem,https://listen.hs.llnwd.net/g3/0/1/1/2/3/1281932110.mp3,Electronic
+2019-04-16 21:50:46.534318_70,The Chainsmokers,All We Know,https://listen.hs.llnwd.net/g3/6/5/4/5/1/1289815456.mp3,Electronic
+2019-04-16 21:50:46.534318_71,Calvin Harris & Rag'n'Bone Man,Giant,https://listen.hs.llnwd.net/g3/2/9/8/8/4/1470248892.mp3,Electronic
+2019-04-16 21:50:46.534318_72,Lauv,There's No Way (feat. Julia Michaels),https://listen.hs.llnwd.net/g3/5/8/3/9/8/1439389385.mp3,Electronic
+2019-04-16 21:50:46.534318_73,Alan Walker,On My Way,https://listen.hs.llnwd.net/g3/5/8/0/6/4/1489146085.mp3,Electronic
+2019-04-16 21:50:46.534318_74,Skrillex,Scary Monsters And Nice Sprites,https://listen.hs.llnwd.net/g3/0/4/1/8/6/1455768140.mp3,Electronic
+2019-04-16 21:50:46.534318_75,Rednex,Cotton Eye Joe (Original Version),https://listen.hs.llnwd.net/g3/5/2/0/7/0/1283407025.mp3,Electronic
+2019-04-16 21:50:46.534318_76,Clean Bandit,I Miss You (feat. Julia Michaels),https://listen.hs.llnwd.net/g3/0/9/1/6/6/1458866190.mp3,Electronic
+2019-04-16 21:50:46.534318_77,Marshmello,Spotlight,https://listen.hs.llnwd.net/g3/7/1/6/7/5/1385057617.mp3,Electronic
+2019-04-16 21:50:46.534318_78,Cheat Codes,Feels Great (feat. Fetty Wap & CVBZ),https://listen.hs.llnwd.net/g3/8/8/0/4/1/1378714088.mp3,Electronic
+2019-04-16 21:50:46.534318_79,Moby,Porcelain,https://listen.hs.llnwd.net/g1/4/6/8/0/3/104930864.mp3,Electronic
+2019-04-16 21:50:46.534318_80,Martin Garrix,Animals (Original Mix),https://listen.hs.llnwd.net/g3/1/1/5/8/8/1409288511.mp3,Electronic
+2019-04-16 21:50:46.534318_81,Breakbot,Baby I'm Yours,https://listen.hs.llnwd.net/g3/9/6/2/6/6/1060766269.mp3,Electronic
+2019-04-16 21:50:46.534318_82,Moby,Flower,https://listen.hs.llnwd.net/g3/2/3/9/3/2/1281923932.mp3,Electronic
+2019-04-16 21:50:46.534318_83,Flume,Say It (feat. Tove Lo),https://listen.hs.llnwd.net/g3/8/3/4/7/0/1432507438.mp3,Electronic
+2019-04-16 21:50:46.534318_84,Alan Walker,Alone,https://listen.hs.llnwd.net/g3/0/9/3/6/6/1460966390.mp3,Electronic
+2019-04-16 21:50:46.534318_85,The Chainsmokers,Honest,https://listen.hs.llnwd.net/g3/8/6/6/3/6/1330663668.mp3,Electronic
+2019-04-16 21:50:46.534318_86,Marshmello,Summer,https://listen.hs.llnwd.net/g3/8/7/2/7/8/1233487278.mp3,Electronic
+2019-04-16 21:50:46.534318_87,Afrojack,Sober (feat. Rae Sremmurd & Stanaj),https://listen.hs.llnwd.net/g3/0/6/8/3/9/1491293860.mp3,Electronic
+2019-04-16 21:50:46.534318_88,Major Lazer,"Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",https://listen.hs.llnwd.net/g3/4/3/7/7/7/1340677734.mp3,Electronic
+2019-04-16 21:50:46.534318_89,Alan Walker,All Falls Down,https://listen.hs.llnwd.net/g3/4/7/7/6/6/1460966774.mp3,Electronic
+2019-04-16 21:50:46.534318_90,Skrillex,First Of The Year (Equinox),https://listen.hs.llnwd.net/g3/0/6/8/1/7/1068271860.mp3,Electronic
+2019-04-16 21:50:46.534318_91,Massive Attack,Teardrop,https://listen.hs.llnwd.net/g1/4/9/5/5/3/104635594.mp3,Electronic
+2019-04-16 21:50:46.534318_92,Cardi B,I Like It (Dillon Francis Remix),https://listen.hs.llnwd.net/g3/7/9/1/0/2/1420220197.mp3,Electronic
+2019-04-16 21:50:46.534318_93,Logic & Marshmello,Everyday,https://listen.hs.llnwd.net/g3/0/3/2/3/6/1395763230.mp3,Electronic
+2019-04-16 21:50:46.534318_94,Axwell Ʌ Ingrosso,More Than You Know,https://listen.hs.llnwd.net/g3/1/4/5/4/5/1338654541.mp3,Electronic
+2019-04-16 21:50:46.534318_95,Galantis,No Money,https://listen.hs.llnwd.net/g3/1/2/4/2/3/1352732421.mp3,Electronic
+2019-04-16 21:50:46.534318_96,Cascada,Everytime We Touch,https://listen.hs.llnwd.net/g1/5/7/3/6/5/107256375.mp3,Electronic
+2019-04-16 21:50:46.534318_97,Eiffel 65,Blue,https://listen.hs.llnwd.net/g3/0/1/1/3/1/1207513110.mp3,Electronic
+2019-04-16 21:50:46.534318_98,The Prodigy,Breathe,https://listen.hs.llnwd.net/g3/5/7/5/4/5/1284454575.mp3,Electronic
+2019-04-16 21:50:46.534318_99,Darude,Sandstorm,https://listen.hs.llnwd.net/g3/2/1/5/8/6/1283568512.mp3,Electronic
+2019-04-16 21:50:46.534318_100,James Blake,Mile High (feat. Metro Boomin' & Travis Scott),https://listen.hs.llnwd.net/g3/3/2/2/4/9/1471394223.mp3,Electronic
+2019-04-16 21:50:47.116507_1,Lindsey Stirling,Shatter Me Featuring Lzzy Hale,https://listen.hs.llnwd.net/g3/4/3/3/9/0/1071509334.mp3,Classical
+2019-04-16 21:50:47.116507_2,Lindsey Stirling,Crystallize,https://listen.hs.llnwd.net/g3/3/6/0/4/7/1282574063.mp3,Classical
+2019-04-16 21:50:47.116507_3,The Piano Guys,A Thousand Years,https://listen.hs.llnwd.net/g1/3/7/9/4/4/966144973.mp3,Classical
+2019-04-16 21:50:47.116507_4,Andrea Bocelli,Time to say goodbye (Con te partirè),https://listen.hs.llnwd.net/g3/5/1/2/2/1/1282112215.mp3,Classical
+2019-04-16 21:50:47.116507_5,Johann Sebastian Bach,Cello Suite No. 1: Prelude,https://listen.hs.llnwd.net/g3/1/3/0/8/2/1323028031.mp3,Classical
+2019-04-16 21:50:47.116507_6,The Piano Guys,Beethoven's 5 Secrets,https://listen.hs.llnwd.net/g1/0/5/4/5/4/966145450.mp3,Classical
+2019-04-16 21:50:47.116507_7,Lindsey Stirling,Roundtable Rival,https://listen.hs.llnwd.net/g3/2/2/3/9/0/1071509322.mp3,Classical
+2019-04-16 21:50:47.116507_8,Lindsey Stirling,Elements,https://listen.hs.llnwd.net/g1/4/6/4/7/8/1028987464.mp3,Classical
+2019-04-16 21:50:47.116507_9,The Piano Guys,The Cello Song,https://listen.hs.llnwd.net/g1/6/5/2/3/4/966143256.mp3,Classical
+2019-04-16 21:50:47.116507_10,Andrea Bocelli,Besame Mucho,https://listen.hs.llnwd.net/g3/6/4/9/5/7/1299975946.mp3,Classical
+2019-04-16 21:50:47.116507_11,Stanley Fletcher,Disliked Revulsion.wav (mix),https://listen.hs.llnwd.net/g3/0/3/5/3/4/1492243530.mp3,Classical
+2019-04-16 21:50:47.116507_12,Yiruma,River Flows In You,https://listen.hs.llnwd.net/g1/0/6/7/3/3/1042533760.mp3,Classical
+2019-04-16 21:50:47.116507_13,The Piano Guys,Titanium / Pavane,https://listen.hs.llnwd.net/g3/6/4/7/5/3/1282335746.mp3,Classical
+2019-04-16 21:50:47.116507_14,Lindsey Stirling,The Arena,https://listen.hs.llnwd.net/g3/4/2/6/3/1/1281013624.mp3,Classical
+2019-04-16 21:50:47.116507_15,Lindsey Stirling,Electric Daisy Violin,https://listen.hs.llnwd.net/g1/3/3/6/7/8/1028987633.mp3,Classical
+2019-04-16 21:50:47.116507_16,Andrew Lloyd Webber,The Phantom Of The Opera,https://listen.hs.llnwd.net/g3/6/9/8/0/2/1281820896.mp3,Classical
+2019-04-16 21:50:47.116507_17,Isaac Shepard,Campground Stargazing,https://listen.hs.llnwd.net/g3/5/9/5/5/4/1279445595.mp3,Classical
+2019-04-16 21:50:47.116507_18,Mr. Big,To Be With You,https://listen.hs.llnwd.net/g3/4/6/6/3/8/1302283664.mp3,Classical
+2019-04-16 21:50:47.116507_19,Ludwig van Beethoven,"Moonlight Sonata, Opus 27, No. 2 - Adagio Sostenuto",https://listen.hs.llnwd.net/g3/8/7/9/8/7/1282778978.mp3,Classical
+2019-04-16 21:50:47.116507_20,Lindsey Stirling,Song of the Caged Bird,https://listen.hs.llnwd.net/g3/9/9/6/2/2/1283422699.mp3,Classical
+2019-04-16 21:50:47.116507_21,The Piano Guys,Over the Rainbow/Simple Gifts,https://listen.hs.llnwd.net/g3/5/5/8/2/7/1282572855.mp3,Classical
+2019-04-16 21:50:47.116507_22,Lindsey Stirling,Shadows,https://listen.hs.llnwd.net/g3/0/5/3/4/6/1282564350.mp3,Classical
+2019-04-16 21:50:47.116507_23,The Thing About Noise,Night,https://listen.hs.llnwd.net/g3/4/2/2/7/0/1339807224.mp3,Classical
+2019-04-16 21:50:47.116507_24,Stephen Hoganson,Danube,https://listen.hs.llnwd.net/g3/7/0/7/8/6/1408168707.mp3,Classical
+2019-04-16 21:50:47.116507_25,Andrea Bocelli,Con Te Partiro,https://listen.hs.llnwd.net/g3/0/9/7/6/1/1281916790.mp3,Classical
+2019-04-16 21:50:47.116507_26,Frederic Chopin,"Nocturne No. 2 in E flat major, Op. 9 No. 2",https://listen.hs.llnwd.net/g3/7/3/2/6/3/1283536237.mp3,Classical
+2019-04-16 21:50:47.116507_27,Yo-Yo Ma,The Mission - The Mission: Gabriel's Oboe,https://listen.hs.llnwd.net/g3/2/8/1/9/4/1353249182.mp3,Classical
+2019-04-16 21:50:47.116507_28,Lindsey Stirling,Something Wild (feat.  Andrew McMahon in the Wilderness),https://listen.hs.llnwd.net/g3/7/5/5/3/1/1281013557.mp3,Classical
+2019-04-16 21:50:47.116507_29,Lindsey Stirling,Transcendence,https://listen.hs.llnwd.net/g3/5/2/8/4/2/1281824825.mp3,Classical
+2019-04-16 21:50:47.116507_30,Ludovico Einaudi,Nuvole bianche,https://listen.hs.llnwd.net/g1/9/4/7/4/7/130374749.mp3,Classical
+2019-04-16 21:50:47.116507_31,Lindsey Stirling,Hold My Heart (feat. ZZ Ward),https://listen.hs.llnwd.net/g3/3/4/4/4/1/1281014443.mp3,Classical
+2019-04-16 21:50:47.116507_32,Yo-Yo Ma,"Unaccompanied Cello Suite No. 1 in G Major, BWV 1007 - Unaccompanied Cello Suite No. 1 in G Major, BWV 1007: Prélude",https://listen.hs.llnwd.net/g3/2/6/9/2/8/1393082962.mp3,Classical
+2019-04-16 21:50:47.116507_33,Wolfgang Amadeus Mozart,Allegro,https://listen.hs.llnwd.net/g3/6/8/7/7/8/1282087786.mp3,Classical
+2019-04-16 21:50:47.116507_34,Yiruma,When The Love Falls,https://listen.hs.llnwd.net/g3/5/9/6/3/2/1283423695.mp3,Classical
+2019-04-16 21:50:47.116507_35,Stephen Hoganson,Ruminate,https://listen.hs.llnwd.net/g3/8/6/7/8/6/1408168768.mp3,Classical
+2019-04-16 21:50:47.116507_36,Johann Sebastian Bach,Ave Maria,https://listen.hs.llnwd.net/g3/0/5/5/8/2/1323028550.mp3,Classical
+2019-04-16 21:50:47.116507_37,Lindsey Stirling,Moon Trance,https://listen.hs.llnwd.net/g3/7/9/0/1/8/1284181097.mp3,Classical
+2019-04-16 21:50:47.116507_38,The Piano Guys,Perfect,https://listen.hs.llnwd.net/g3/1/4/1/4/2/1443024141.mp3,Classical
+2019-04-16 21:50:47.116507_39,Andrew Lloyd Webber,The Music Of The Night,https://listen.hs.llnwd.net/g1/9/7/8/1/2/1041621879.mp3,Classical
+2019-04-16 21:50:47.116507_40,Wolfgang Amadeus Mozart,'Eine kline Nachtmusik' Serenade No.13 In G Major 4th Movement,https://listen.hs.llnwd.net/g1/6/4/0/5/9/539895046.mp3,Classical
+2019-04-16 21:50:47.116507_41,Johann Sebastian Bach,Minuet in G Major (The Lover's Concerto),https://listen.hs.llnwd.net/g1/9/9/3/6/1/104916399.mp3,Classical
+2019-04-16 21:50:47.116507_42,Johann Sebastian Bach,Prelude In C,https://listen.hs.llnwd.net/g3/9/8/1/2/2/1283422189.mp3,Classical
+2019-04-16 21:50:47.116507_43,Lindsey Stirling,Master of Tides,https://listen.hs.llnwd.net/g3/3/1/3/9/0/1071509313.mp3,Classical
+2019-04-16 21:50:47.116507_44,The Piano Guys,Fight Song / Amazing Grace,https://listen.hs.llnwd.net/g3/4/9/8/5/0/1288305894.mp3,Classical
+2019-04-16 21:50:47.116507_45,Lindsey Stirling,Brave Enough (feat. Christina Perri),https://listen.hs.llnwd.net/g3/5/9/3/4/1/1281014395.mp3,Classical
+2019-04-16 21:50:47.116507_46,Wolfgang Amadeus Mozart,Piano Concerto #23 In A,https://listen.hs.llnwd.net/g3/7/3/5/7/7/1282777537.mp3,Classical
+2019-04-16 21:50:47.116507_47,Lindsey Stirling,Beyond the Veil,https://listen.hs.llnwd.net/g3/2/7/2/9/0/1071509272.mp3,Classical
+2019-04-16 21:50:47.116507_48,Isaac Shepard,Four Strokes Past Midnight,https://listen.hs.llnwd.net/g3/4/6/3/8/8/1334288364.mp3,Classical
+2019-04-16 21:50:47.116507_49,Lindsey Stirling,Lost Girls,https://listen.hs.llnwd.net/g3/8/6/2/4/1/1281014268.mp3,Classical
+2019-04-16 21:50:47.116507_50,The Piano Guys,Just the Way You Are,https://listen.hs.llnwd.net/g1/2/1/0/1/2/991821012.mp3,Classical
+2019-04-16 21:50:47.116507_51,The Piano Guys,Rolling in the Deep,https://listen.hs.llnwd.net/g1/4/5/2/3/4/966143254.mp3,Classical
+2019-04-16 21:50:47.116507_52,Stephen Hoganson,Shim,https://listen.hs.llnwd.net/g3/9/0/7/8/6/1408168709.mp3,Classical
+2019-04-16 21:50:47.116507_53,Isaac Shepard,Daydreaming Down Los Alisos,https://listen.hs.llnwd.net/g3/8/2/5/5/4/1279445528.mp3,Classical
+2019-04-16 21:50:47.116507_54,Lindsey Stirling,Zi-Zi's Journey,https://listen.hs.llnwd.net/g3/6/8/0/4/6/1282564086.mp3,Classical
+2019-04-16 21:50:47.116507_55,Isaac Shepard,Heal Me,https://listen.hs.llnwd.net/g3/9/9/1/8/8/1334288199.mp3,Classical
+2019-04-16 21:50:47.116507_56,The Piano Guys,All of Me,https://listen.hs.llnwd.net/g3/1/2/8/6/9/1284196821.mp3,Classical
+2019-04-16 21:50:47.116507_57,The Piano Guys,In My Blood / Swan Lake,https://listen.hs.llnwd.net/g3/8/2/3/4/2/1443024328.mp3,Classical
+2019-04-16 21:50:47.116507_58,The Piano Guys,What Makes You Beautiful,https://listen.hs.llnwd.net/g1/0/9/2/3/4/966143290.mp3,Classical
+2019-04-16 21:50:47.116507_59,Stephen Hoganson,Naivete,https://listen.hs.llnwd.net/g3/6/0/7/8/6/1408168706.mp3,Classical
+2019-04-16 21:50:47.116507_60,Ludwig van Beethoven,Moonlight Sonata,https://listen.hs.llnwd.net/g3/8/2/0/7/2/1281827028.mp3,Classical
+2019-04-16 21:50:47.116507_61,Samuel Barber,Adagio for Strings,https://listen.hs.llnwd.net/g3/4/8/7/0/0/1284400784.mp3,Classical
+2019-04-16 21:50:47.116507_62,The Piano Guys,Arwen's Vigil,https://listen.hs.llnwd.net/g3/1/4/0/2/8/1282582041.mp3,Classical
+2019-04-16 21:50:47.116507_63,Johann Sebastian Bach,Toccata and Fugue in D Minor,https://listen.hs.llnwd.net/g1/0/0/6/6/2/104926600.mp3,Classical
+2019-04-16 21:50:47.116507_64,Beethoven Consort,Moonlight Sonata (Solo Piano),https://listen.hs.llnwd.net/g1/3/1/2/5/3/325235213.mp3,Classical
+2019-04-16 21:50:47.116507_65,Lindsey Stirling,Stars Align,https://listen.hs.llnwd.net/g1/3/5/0/8/8/1028988053.mp3,Classical
+2019-04-16 21:50:47.116507_66,Johann Sebastian Bach,"Harpsichord Concerto, BVW 974: Adagio",https://listen.hs.llnwd.net/g3/9/1/4/8/2/1323028419.mp3,Classical
+2019-04-16 21:50:47.116507_67,Ludwig van Beethoven,Symphony No.5 In C Minor Op.67 - 1st Movement,https://listen.hs.llnwd.net/g1/1/6/3/0/4/105140361.mp3,Classical
+2019-04-16 21:50:47.116507_68,Claude Debussy,Claire de lune,https://listen.hs.llnwd.net/g3/8/4/6/0/1/1283410648.mp3,Classical
+2019-04-16 21:50:47.116507_69,Antonio Vivaldi,Spring' from 'The Four Seasons - Violin Concerto in E Major,https://listen.hs.llnwd.net/g3/3/9/3/1/3/1282131393.mp3,Classical
+2019-04-16 21:50:47.116507_70,The Piano Guys,Code Name Vivaldi,https://listen.hs.llnwd.net/g3/5/6/4/0/4/1283440465.mp3,Classical
+2019-04-16 21:50:47.116507_71,Lindsey Stirling,Minimal Beat,https://listen.hs.llnwd.net/g3/8/2/9/4/9/1284194928.mp3,Classical
+2019-04-16 21:50:47.116507_72,Lindsey Stirling,The Phoenix,https://listen.hs.llnwd.net/g3/9/5/5/3/1/1281013559.mp3,Classical
+2019-04-16 21:50:47.116507_73,The Piano Guys,Let It Go,https://listen.hs.llnwd.net/g3/4/5/0/2/3/1109532054.mp3,Classical
+2019-04-16 21:50:47.116507_74,Yo-Yo Ma,Prélude,https://listen.hs.llnwd.net/g3/6/5/2/9/8/1282589256.mp3,Classical
+2019-04-16 21:50:47.116507_75,The Piano Guys,Story of My Life,https://listen.hs.llnwd.net/g3/8/0/0/2/3/1109532008.mp3,Classical
+2019-04-16 21:50:47.116507_76,The Piano Guys,Peponi (Paradise),https://listen.hs.llnwd.net/g1/4/4/1/3/4/966143144.mp3,Classical
+2019-04-16 21:50:47.116507_77,Andrew Lloyd Webber,All I Ask Of You,https://listen.hs.llnwd.net/g1/2/5/8/1/2/1041621852.mp3,Classical
+2019-04-16 21:50:47.116507_78,Andrea Bocelli,The Prayer,https://listen.hs.llnwd.net/g3/8/3/1/2/0/1282302138.mp3,Classical
+2019-04-16 21:50:47.116507_79,Andrea Bocelli,Romanza,https://listen.hs.llnwd.net/g1/8/6/0/2/7/258072068.mp3,Classical
+2019-04-16 21:50:47.116507_80,The Piano Guys,A Million Dreams,https://listen.hs.llnwd.net/g3/7/5/1/4/2/1443024157.mp3,Classical
+2019-04-16 21:50:47.116507_81,Andrew Lloyd Webber,Think Of Me,https://listen.hs.llnwd.net/g3/7/2/0/0/0/1283700027.mp3,Classical
+2019-04-16 21:50:47.116507_82,The Piano Guys,Cello Wars,https://listen.hs.llnwd.net/g1/9/2/2/5/4/966145229.mp3,Classical
+2019-04-16 21:50:47.116507_83,Lindsey Stirling,Elements (Orchestral Verison),https://listen.hs.llnwd.net/g3/8/4/8/4/0/1283704848.mp3,Classical
+2019-04-16 21:50:47.116507_84,Wolfgang Amadeus Mozart,The Marriage of Figaro (Overture),https://listen.hs.llnwd.net/g1/2/4/5/7/4/104647542.mp3,Classical
+2019-04-16 21:50:47.116507_85,Johann Sebastian Bach,Jesu Bleibet Meine Freude,https://listen.hs.llnwd.net/g3/9/8/1/8/2/1323028189.mp3,Classical
+2019-04-16 21:50:47.116507_86,Lindsey Stirling,Anti Gravity,https://listen.hs.llnwd.net/g3/4/7/6/4/3/1283434674.mp3,Classical
+2019-04-16 21:50:47.116507_87,Lindsey Stirling,Spontaneous Me,https://listen.hs.llnwd.net/g3/0/2/4/2/2/1283422420.mp3,Classical
+2019-04-16 21:50:47.116507_88,Johann Sebastian Bach,"Italian Concerto in F Major, BVW 971: Adante",https://listen.hs.llnwd.net/g3/6/2/0/8/2/1323028026.mp3,Classical
+2019-04-16 21:50:47.116507_89,The Piano Guys,Moonlight,https://listen.hs.llnwd.net/g1/7/2/1/5/4/966145127.mp3,Classical
+2019-04-16 21:50:47.116507_90,Wolfgang Amadeus Mozart,"Andante from Sonata in C, K 545",https://listen.hs.llnwd.net/g3/7/2/6/5/4/1281945627.mp3,Classical
+2019-04-16 21:50:47.116507_91,The Piano Guys,Begin Again,https://listen.hs.llnwd.net/g3/3/9/1/5/5/1281855193.mp3,Classical
+2019-04-16 21:50:47.116507_92,Isaac Shepard,Finally Time to Sleep,https://listen.hs.llnwd.net/g3/7/9/1/8/8/1334288197.mp3,Classical
+2019-04-16 21:50:47.116507_93,The Thing About Noise,Interlude,https://listen.hs.llnwd.net/g3/3/2/2/7/0/1339807223.mp3,Classical
+2019-04-16 21:50:47.116507_94,Beethoven Consort,Für Elise,https://listen.hs.llnwd.net/g1/5/5/6/5/4/218445655.mp3,Classical
+2019-04-16 21:50:47.116507_95,Andrew Lloyd Webber,Angel Of Music,https://listen.hs.llnwd.net/g3/9/2/4/7/3/1283937429.mp3,Classical
+2019-04-16 21:50:47.116507_96,Wolfgang Amadeus Mozart,Eine Kleine Nachtmusik - Seranade No. 13 In G Major - 1st Movement,https://listen.hs.llnwd.net/g3/6/1/3/3/0/1282103316.mp3,Classical
+2019-04-16 21:50:47.116507_97,The Piano Guys,Nearer My God to Thee,https://listen.hs.llnwd.net/g3/9/2/6/1/5/1072151629.mp3,Classical
+2019-04-16 21:50:47.116507_98,Joel Baker,What's A Song (Acoustic Version),https://listen.hs.llnwd.net/g3/7/3/3/8/2/1496928337.mp3,Classical
+2019-04-16 21:50:47.116507_99,Sleepaholics,Kodiak,https://listen.hs.llnwd.net/g3/6/2/3/3/0/1425203326.mp3,Classical
+2019-04-16 21:50:47.116507_100,J. Brown,Sunrise Sunset,https://listen.hs.llnwd.net/g3/9/1/6/1/6/1446161619.mp3,Classical
+2019-04-16 21:50:47.746848_1,Linkin Park,In The End,https://listen.hs.llnwd.net/g3/4/9/5/5/7/1400775594.mp3,Metal
+2019-04-16 21:50:47.746848_2,Metallica,Enter Sandman,https://listen.hs.llnwd.net/g3/7/2/2/2/7/1301772227.mp3,Metal
+2019-04-16 21:50:47.746848_3,Linkin Park,Numb,https://listen.hs.llnwd.net/g3/0/6/8/7/7/1325777860.mp3,Metal
+2019-04-16 21:50:47.746848_4,Disturbed,Down With The Sickness,https://listen.hs.llnwd.net/g1/2/7/8/5/1/1041915872.mp3,Metal
+2019-04-16 21:50:47.746848_5,Bon Jovi,Livin' On A Prayer,https://listen.hs.llnwd.net/g1/9/8/6/9/1/996419689.mp3,Metal
+2019-04-16 21:50:47.746848_6,Motley Crue,Kickstart My Heart,https://listen.hs.llnwd.net/g3/6/3/3/9/4/1370049336.mp3,Metal
+2019-04-16 21:50:47.746848_7,System of a Down,Chop Suey!,https://listen.hs.llnwd.net/g3/8/9/5/0/4/1281940598.mp3,Metal
+2019-04-16 21:50:47.746848_8,Metallica,Nothing Else Matters,https://listen.hs.llnwd.net/g3/6/2/4/2/7/1301772426.mp3,Metal
+2019-04-16 21:50:47.746848_9,Motley Crue,Home Sweet Home,https://listen.hs.llnwd.net/g3/9/8/2/8/4/1370048289.mp3,Metal
+2019-04-16 21:50:47.746848_10,Shinedown,Simple Man (Album Version),https://listen.hs.llnwd.net/g3/5/3/9/6/4/1281846935.mp3,Metal
+2019-04-16 21:50:47.746848_11,Metallica,For Whom The Bell Tolls (Remastered),https://listen.hs.llnwd.net/g3/2/9/1/8/5/1301358192.mp3,Metal
+2019-04-16 21:50:47.746848_12,Staind,It's Been Awhile,https://listen.hs.llnwd.net/g3/3/0/9/6/8/1299586903.mp3,Metal
+2019-04-16 21:50:47.746848_13,Bon Jovi,Wanted Dead Or Alive,https://listen.hs.llnwd.net/g1/3/1/5/9/8/1043589513.mp3,Metal
+2019-04-16 21:50:47.746848_14,Rage Against The Machine,Killing In The Name (Explicit),https://listen.hs.llnwd.net/g3/8/5/5/6/3/1429536558.mp3,Metal
+2019-04-16 21:50:47.746848_15,Drowning Pool,Bodies,https://listen.hs.llnwd.net/g1/7/1/8/0/5/176050817.mp3,Metal
+2019-04-16 21:50:47.746848_16,Limp Bizkit,Break Stuff,https://listen.hs.llnwd.net/g1/4/7/0/4/5/1041954074.mp3,Metal
+2019-04-16 21:50:47.746848_17,Shinedown,Second Chance,https://listen.hs.llnwd.net/g3/2/2/5/9/9/1449099522.mp3,Metal
+2019-04-16 21:50:47.746848_18,Linkin Park,Crawling,https://listen.hs.llnwd.net/g3/0/2/4/5/7/1400775420.mp3,Metal
+2019-04-16 21:50:47.746848_19,Rob Zombie,Dragula,https://listen.hs.llnwd.net/g3/1/5/6/6/7/1328276651.mp3,Metal
+2019-04-16 21:50:47.746848_20,System of a Down,toxicity,https://listen.hs.llnwd.net/g1/6/1/6/9/1/104719616.mp3,Metal
+2019-04-16 21:50:47.746848_21,Linkin Park,One Step Closer,https://listen.hs.llnwd.net/g3/2/9/2/5/7/1400775292.mp3,Metal
+2019-04-16 21:50:47.746848_22,Avenged Sevenfold,Hail to the King,https://listen.hs.llnwd.net/g3/9/6/2/3/1/1449113269.mp3,Metal
+2019-04-16 21:50:47.746848_23,Motley Crue,Shout At The Devil,https://listen.hs.llnwd.net/g3/1/2/2/2/5/1370052221.mp3,Metal
+2019-04-16 21:50:47.746848_24,Metallica,The Unforgiven,https://listen.hs.llnwd.net/g3/8/8/7/2/7/1301772788.mp3,Metal
+2019-04-16 21:50:47.746848_25,Motley Crue,Dr. Feelgood,https://listen.hs.llnwd.net/g3/8/8/2/8/4/1370048288.mp3,Metal
+2019-04-16 21:50:47.746848_26,Godsmack,Voodoo,https://listen.hs.llnwd.net/g1/0/3/0/3/4/1042243030.mp3,Metal
+2019-04-16 21:50:47.746848_27,Metallica,Sad But True,https://listen.hs.llnwd.net/g3/8/3/7/2/7/1301772738.mp3,Metal
+2019-04-16 21:50:47.746848_28,Linkin Park,Somewhere I Belong,https://listen.hs.llnwd.net/g3/0/3/0/5/7/1325775030.mp3,Metal
+2019-04-16 21:50:47.746848_29,Korn,Freak On A Leash,https://listen.hs.llnwd.net/g1/6/2/4/0/1/1007610426.mp3,Metal
+2019-04-16 21:50:47.746848_30,Incubus,Drive,https://listen.hs.llnwd.net/g3/6/5/3/5/5/1281855356.mp3,Metal
+2019-04-16 21:50:47.746848_31,Shinedown,Sound Of Madness,https://listen.hs.llnwd.net/g3/4/4/5/9/9/1449099544.mp3,Metal
+2019-04-16 21:50:47.746848_32,Audioslave,Like A Stone,https://listen.hs.llnwd.net/g1/9/6/8/6/2/1042526869.mp3,Metal
+2019-04-16 21:50:47.746848_33,Ozzy Osbourne,Crazy Train,https://listen.hs.llnwd.net/g3/5/4/7/0/8/1282980745.mp3,Metal
+2019-04-16 21:50:47.746848_34,Linkin Park,Breaking The Habit,https://listen.hs.llnwd.net/g3/0/4/0/5/7/1325775040.mp3,Metal
+2019-04-16 21:50:47.746848_35,Korn,Coming Undone,https://listen.hs.llnwd.net/g3/9/7/0/5/3/1253335079.mp3,Metal
+2019-04-16 21:50:47.746848_36,Bon Jovi,You Give Love A Bad Name,https://listen.hs.llnwd.net/g3/0/8/8/2/5/1283952880.mp3,Metal
+2019-04-16 21:50:47.746848_37,Motley Crue,"Girls, Girls, Girls",https://listen.hs.llnwd.net/g3/2/1/5/1/5/1370051512.mp3,Metal
+2019-04-16 21:50:47.746848_38,Rage Against The Machine,Bulls on Parade,https://listen.hs.llnwd.net/g3/5/7/8/1/8/1059581875.mp3,Metal
+2019-04-16 21:50:47.746848_39,Poison,Every Rose Has Its Thorn,https://listen.hs.llnwd.net/g3/4/7/0/0/6/1283960074.mp3,Metal
+2019-04-16 21:50:47.746848_40,Breaking Benjamin,Breath,https://listen.hs.llnwd.net/g3/9/1/7/5/3/1283535719.mp3,Metal
+2019-04-16 21:50:47.746848_41,Metallica,Wherever I May Roam,https://listen.hs.llnwd.net/g3/0/5/9/2/7/1301772950.mp3,Metal
+2019-04-16 21:50:47.746848_42,Fort Minor,Remember The Name,https://listen.hs.llnwd.net/g3/6/7/1/8/7/1389578176.mp3,Metal
+2019-04-16 21:50:47.746848_43,Trapt,Headstrong,https://listen.hs.llnwd.net/g3/8/1/0/7/9/1283697018.mp3,Metal
+2019-04-16 21:50:47.746848_44,Motley Crue,Looks That Kill,https://listen.hs.llnwd.net/g3/7/6/3/8/4/1370048367.mp3,Metal
+2019-04-16 21:50:47.746848_45,Godsmack,Bulletproof,https://listen.hs.llnwd.net/g3/4/7/3/5/1/1405615374.mp3,Metal
+2019-04-16 21:50:47.746848_46,Linkin Park,Burn It Down,https://listen.hs.llnwd.net/g3/3/5/9/5/3/1283435953.mp3,Metal
+2019-04-16 21:50:47.746848_47,Black Sabbath,Paranoid,https://listen.hs.llnwd.net/g3/5/1/6/5/4/1056645615.mp3,Metal
+2019-04-16 21:50:47.746848_48,Pantera,Walk,https://listen.hs.llnwd.net/g3/3/1/2/1/4/1061541213.mp3,Metal
+2019-04-16 21:50:47.746848_49,Breaking Benjamin,So Cold,https://listen.hs.llnwd.net/g2/1/8/2/4/7/890774281.mp3,Metal
+2019-04-16 21:50:47.746848_50,Slipknot,Duality,https://listen.hs.llnwd.net/g3/9/1/2/0/6/1400260219.mp3,Metal
+2019-04-16 21:50:47.746848_51,311,Amber,https://listen.hs.llnwd.net/g3/5/3/3/5/7/1282775335.mp3,Metal
+2019-04-16 21:50:47.746848_52,Def Leppard,Pour Some Sugar On Me (Remastered 2017),https://listen.hs.llnwd.net/g3/3/5/4/0/4/1382240453.mp3,Metal
+2019-04-16 21:50:47.746848_53,Linkin Park,Faint,https://listen.hs.llnwd.net/g3/9/0/9/6/7/1325776909.mp3,Metal
+2019-04-16 21:50:47.746848_54,Shinedown,Cut The Cord,https://listen.hs.llnwd.net/g3/2/5/0/0/8/1400780052.mp3,Metal
+2019-04-16 21:50:47.746848_55,Korn,Falling Away From Me,https://listen.hs.llnwd.net/g3/2/5/9/7/2/1296327952.mp3,Metal
+2019-04-16 21:50:47.746848_56,Motley Crue,Live Wire,https://listen.hs.llnwd.net/g3/2/1/8/7/4/1370047812.mp3,Metal
+2019-04-16 21:50:47.746848_57,Saliva,Click Click Boom,https://listen.hs.llnwd.net/g3/2/7/1/6/4/1281946172.mp3,Metal
+2019-04-16 21:50:47.746848_58,Disturbed,Stupify,https://listen.hs.llnwd.net/g3/4/8/9/4/5/1283554984.mp3,Metal
+2019-04-16 21:50:47.746848_59,System of a Down,B.Y.O.B.,https://listen.hs.llnwd.net/g3/1/8/1/3/4/1283543181.mp3,Metal
+2019-04-16 21:50:47.746848_60,Metallica,Fade To Black (Remastered),https://listen.hs.llnwd.net/g3/0/6/1/8/5/1301358160.mp3,Metal
+2019-04-16 21:50:47.746848_61,Slipknot,Wait and Bleed,https://listen.hs.llnwd.net/g2/6/0/9/9/2/901929906.mp3,Metal
+2019-04-16 21:50:47.746848_62,System of a Down,Aerials,https://listen.hs.llnwd.net/g1/6/7/9/9/1/104719976.mp3,Metal
+2019-04-16 21:50:47.746848_63,Metallica,Whiskey In The Jar,https://listen.hs.llnwd.net/g3/2/0/8/5/5/1301355802.mp3,Metal
+2019-04-16 21:50:47.746848_64,Alien Ant Farm,Smooth Criminal,https://listen.hs.llnwd.net/g3/7/4/9/2/8/1283682947.mp3,Metal
+2019-04-16 21:50:47.746848_65,Slipknot,Psychosocial,https://listen.hs.llnwd.net/g3/2/7/6/9/1/1339019672.mp3,Metal
+2019-04-16 21:50:47.746848_66,Marilyn Manson,Sweet Dreams (Are Made Of This),https://listen.hs.llnwd.net/g2/2/0/6/5/5/904555602.mp3,Metal
+2019-04-16 21:50:47.746848_67,Skid Row,18 And Life,https://listen.hs.llnwd.net/g3/8/5/7/5/8/1380485758.mp3,Metal
+2019-04-16 21:50:47.746848_68,Chevelle,The Red,https://listen.hs.llnwd.net/g3/3/5/2/4/6/1314064253.mp3,Metal
+2019-04-16 21:50:47.746848_69,Marilyn Manson,The Beautiful People,https://listen.hs.llnwd.net/g1/5/2/7/3/1/1004013725.mp3,Metal
+2019-04-16 21:50:47.746848_70,Metallica,Master Of Puppets (Remastered),https://listen.hs.llnwd.net/g3/9/5/6/6/6/1372866659.mp3,Metal
+2019-04-16 21:50:47.746848_71,Papa Roach,Scars,https://listen.hs.llnwd.net/g3/3/8/6/4/6/1282564683.mp3,Metal
+2019-04-16 21:50:47.746848_72,Metallica,Turn The Page,https://listen.hs.llnwd.net/g3/7/4/7/5/5/1301355747.mp3,Metal
+2019-04-16 21:50:47.746848_73,Shinedown,Call Me,https://listen.hs.llnwd.net/g3/7/0/5/9/9/1449099507.mp3,Metal
+2019-04-16 21:50:47.746848_74,Avenged Sevenfold,Nightmare,https://listen.hs.llnwd.net/g3/5/0/2/2/0/1299502205.mp3,Metal
+2019-04-16 21:50:47.746848_75,Crossfade,Cold,https://listen.hs.llnwd.net/g1/2/2/6/6/5/245556622.mp3,Metal
+2019-04-16 21:50:47.746848_76,Black Sabbath,Iron Man,https://listen.hs.llnwd.net/g3/4/1/3/5/4/1056645314.mp3,Metal
+2019-04-16 21:50:47.746848_77,Motley Crue,Wild Side,https://listen.hs.llnwd.net/g3/7/7/4/9/4/1370049477.mp3,Metal
+2019-04-16 21:50:47.746848_78,Volbeat,A Warrior's Call,https://listen.hs.llnwd.net/g3/3/0/7/2/2/1283422703.mp3,Metal
+2019-04-16 21:50:47.746848_79,Shinedown,State Of My Head,https://listen.hs.llnwd.net/g3/1/1/1/0/8/1400780111.mp3,Metal
+2019-04-16 21:50:47.746848_80,Linkin Park,Papercut,https://listen.hs.llnwd.net/g3/1/0/6/5/7/1400775601.mp3,Metal
+2019-04-16 21:50:47.746848_81,Slipknot,Snuff,https://listen.hs.llnwd.net/g3/2/6/3/9/1/1339019362.mp3,Metal
+2019-04-16 21:50:47.746848_82,Breaking Benjamin,The Diary of Jane (Single Version),https://listen.hs.llnwd.net/g2/6/2/9/5/5/890755926.mp3,Metal
+2019-04-16 21:50:47.746848_83,Everlast,What It's Like [Explicit Version],https://listen.hs.llnwd.net/g3/1/6/0/1/7/1377471061.mp3,Metal
+2019-04-16 21:50:47.746848_84,Skid Row,I Remember You,https://listen.hs.llnwd.net/g3/3/1/8/5/8/1380485813.mp3,Metal
+2019-04-16 21:50:47.746848_85,Godsmack,Whatever (Album Version (Explicit)),https://listen.hs.llnwd.net/g3/5/6/4/6/5/1284156465.mp3,Metal
+2019-04-16 21:50:47.746848_86,Scorpions,Rock You Like A Hurricane,https://listen.hs.llnwd.net/g3/0/7/6/2/8/1282982670.mp3,Metal
+2019-04-16 21:50:47.746848_87,Limp Bizkit,Rollin' (Air Raid Vehicle),https://listen.hs.llnwd.net/g1/1/0/6/3/5/1041953601.mp3,Metal
+2019-04-16 21:50:47.746848_88,Poison,Nothin' But A Good Time,https://listen.hs.llnwd.net/g3/6/8/0/2/7/1282572086.mp3,Metal
+2019-04-16 21:50:47.746848_89,Def Leppard,Photograph,https://listen.hs.llnwd.net/g3/0/7/1/7/3/1382037170.mp3,Metal
+2019-04-16 21:50:47.746848_90,Metallica,Fuel,https://listen.hs.llnwd.net/g3/1/0/9/8/5/1301358901.mp3,Metal
+2019-04-16 21:50:47.746848_91,Poison,Talk Dirty To Me,https://listen.hs.llnwd.net/g3/2/9/5/8/1/1281818592.mp3,Metal
+2019-04-16 21:50:47.746848_92,Slipknot,The Devil In I,https://listen.hs.llnwd.net/g3/3/1/7/0/1/1119410713.mp3,Metal
+2019-04-16 21:50:47.746848_93,Volbeat,Still Counting,https://listen.hs.llnwd.net/g3/0/8/6/4/9/1282794680.mp3,Metal
+2019-04-16 21:50:47.746848_94,Godsmack,Cryin' Like A Bitch!!,https://listen.hs.llnwd.net/g2/8/4/9/4/7/931074948.mp3,Metal
+2019-04-16 21:50:47.746848_95,Disturbed,Stricken,https://listen.hs.llnwd.net/g3/3/6/9/9/5/1400259963.mp3,Metal
+2019-04-16 21:50:47.746848_96,Audioslave,I Am The Highway,https://listen.hs.llnwd.net/g3/1/6/9/5/3/1283435961.mp3,Metal
+2019-04-16 21:50:47.746848_97,Deftones,Change (In The House Of Flies),https://listen.hs.llnwd.net/g3/0/9/4/5/7/1282775490.mp3,Metal
+2019-04-16 21:50:47.746848_98,Ratt,Round And Round,https://listen.hs.llnwd.net/g3/4/7/3/2/4/1281942374.mp3,Metal
+2019-04-16 21:50:47.746848_99,Motley Crue,Too Young To Fall In Love,https://listen.hs.llnwd.net/g3/1/1/8/7/4/1370047811.mp3,Metal
+2019-04-16 21:50:47.746848_100,Audioslave,Show Me How To Live,https://listen.hs.llnwd.net/g1/2/4/9/1/2/1042521942.mp3,Metal
