@@ -69,7 +69,7 @@ for i in list(genres.keys()):
 		nt.artist_name = j["artistName"]
 		nt.id = str(today) + "_" + str(tcount)
 		nt.track_name = j["name"]
-		print(j["previewURL"])
+		# print(j["previewURL"])
 		nt.track_url = j["previewURL"]
 		nt.genre = i
 		data_points.append(nt.__dict__)
