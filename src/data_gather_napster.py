@@ -82,5 +82,5 @@ for i in list(genres.keys()):
 		with open('napster_files\\napster_play_' + str(datetime.date.today()) + '.csv', 'a+', newline='', encoding="utf-8") as file:
 			fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'genre']
 			writer = csv.DictWriter(file, fieldnames=fieldnames)
-			writer.writerow({'id': nt.id, 'artist_name': nt.artist_name, 'track_name': nt.track_name,
-			'track_url': nt.track_url, 'genre':nt.genre})
+			writer.writerow({'id': nt.id, 'artist_name': nt.artist_name.replace(",",""), 'track_name': nt.track_name.replace(",", ""),
+			'track_url': nt.track_url.replace(",",""), 'genre':nt.genre})
