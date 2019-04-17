@@ -15,6 +15,11 @@ class Napster_Track:
 		self.track_url = ""
 		self.genre = ""
 
+with open('napster_files\\napster_play_' + str(datetime.date.today()) + '.csv', 'a+', newline='', encoding="utf-8") as file:
+	fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'genre']
+	writer = csv.DictWriter(file, fieldnames=fieldnames)
+	writer.writeheader()
+
 url= "http://api.napster.com/v2.2/genres/"
 params = {
 	"apikey" : "YTkxZTRhNzAtODdlNy00ZjMzLTg0MWItOTc0NmZmNjU4Yzk4",
@@ -74,9 +79,8 @@ for i in list(genres.keys()):
 		nt.genre = i
 		data_points.append(nt.__dict__)
 		tcount += 1
-		with open('napster_play.csv', 'a', newline='', encoding="utf-8") as file:
+		with open('napster_files\\napster_play_' + str(datetime.date.today()) + '.csv', 'a+', newline='', encoding="utf-8") as file:
 			fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'genre']
 			writer = csv.DictWriter(file, fieldnames=fieldnames)
-			# writer.writeheader()
 			writer.writerow({'id': nt.id, 'artist_name': nt.artist_name, 'track_name': nt.track_name,
-			                 'track_url': nt.track_url, 'genre':nt.genre})
+			'track_url': nt.track_url, 'genre':nt.genre})
