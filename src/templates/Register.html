@@ -14,10 +14,18 @@
 
     <label for="email">Email:</label>
     <input type="text" class="form-control" id="email" name="email" placeholder="Your email will be used to contact you.">
-    <br>
-    {{ form.genre.label }}
-    {{ form.genre }}
-    <br>
+    <label for="genre">Genre:</label>
+    <select id="genre" name="genre" class="form-control">
+        <option selected='selected'>--Genre--</option>
+        <option>Pop</option>
+        <option>Classical</option>
+        <option>Rock</option>
+        <option>Jazz</option>
+        <option>Hip-Hop</option>
+        <option>Electronic</option>
+        <option>Soul</option>
+        <option>Metal</option>
+    </select>
 </div>
 <button type="submit" id="btnSignUp" class="btn btn-success">Sign Up</button>
 </form>{% with messages = get_flashed_messages(with_categories=true) %}

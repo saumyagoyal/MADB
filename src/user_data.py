@@ -15,17 +15,8 @@ url= "http://api.napster.com/v2.2/genres"
 params = {
 	"apikey" : "YTkxZTRhNzAtODdlNy00ZjMzLTg0MWItOTc0NmZmNjU4Yzk4"
 }
-choices = [("0","--Select--")]
-result = requests.get(url, params=params)
-print(result.status_code)
-temp1 = json.loads(result.text)
-genres = temp1["genres"]
-print(genres)
-count = 1
-for i in genres:
-	print(i["name"])
-	choices.append(tuple([str(count), i["name"]]))
-	count += 1
+choices = [("0","--Select--"),("1","Pop"),("2","Classical"),("3","Rock"),("4","Jazz"),("5","Hip-Hop"),("6","Electronic")
+	,("7","Soul"),("8","Metal")]
 
 print(choices)
 
@@ -74,15 +65,14 @@ def hello():
 	if request.method == 'POST':
 		u.id = request.form['email']
 		u.name = request.form['name']
-		print(choices[int(request.form.get('genre'))][1])
-		u.genre = choices[int(request.form.get('genre'))][1]
+		u.genre = request.form["genre"]
 		u.email = request.form['email']
 		# print (name, " ", email, " ", genre)
 		with open('user_data.csv', mode='a', newline='') as csv_file:
 			fieldnames = ['id', 'name', 'email', 'genre']
 			writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 			# writer.writeheader()
-			writer.writerow({'id': u.id, 'name':u.name, 'email':u.email, 'genre':u.genre})
+			writer.writerow({'id': u.id, 'name': u.name, 'email': u.email, 'genre': u.genre})
 
 	if form.validate():
 	# Save the comment here.
