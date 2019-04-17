@@ -114,7 +114,8 @@ for k in range(0, len(genre_list_common)):
 			spot.genre = genre_list_name[k]
 			spotify_track_list.append(spot.__dict__)
 			tcount += 1
-			with open('spotify_play.csv', 'a', newline='') as file:
+			file_name="spotify_play_"+str(datetime.date.today())+".csv"
+			with open(file_name, 'a', newline='') as file:
 				fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'popularity', 'genre']
 				writer = csv.DictWriter(file, fieldnames=fieldnames)
 				# writer.writeheader()
