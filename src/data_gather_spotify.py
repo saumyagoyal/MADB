@@ -8,6 +8,7 @@ import requests
 import random
 import datetime
 import csv
+import base64
 
 class Spotify_Track:
 	def __init__(self):
@@ -48,16 +49,34 @@ class Spotify_Track:
 # -------
 # Source, Artist_id, artist_name, track_id, track_name, popularity_of_track
 
-# For One playlist
-playlist_id='37i9dQZEVXbLRQDuF5jeBp'
-# auth_key='BQBkt5GvvtxIomiHtfqjCQnw-JlhE56Jlpt77ReLZRpwB2e8cT6_omn9cvJRtgz4cFpeRIAydBXhORCDYXxbdvmtGpV0lTd_krFuyeymYVYHw2NdOqhvM0RPXNf5CIQpIWNJCJLkOB3c6K7JHoiragAwmkOhQ-8yIQ'
 data_points = []
 
+def get_access_key():
+	url = "https://accounts.spotify.com/api/token"
+	client_id = "bc66b8532c394a5cb916de445e2ba45b"
+	client_secret = "14d1aa898da940f2b06947620e366578"
+	auth_str = bytes('{}:{}'.format(client_id, client_secret), 'utf-8')
+	b64_auth_str = base64.b64encode(auth_str).decode('utf-8')
+	# authorization = base64.standard_b64encode(('Basic ' + client_id + ":" + client_secret).encode())
+
+	headers = {
+		'Authorization' : 'Basic ' + b64_auth_str
+	}
+
+	data = {
+		'grant_type' : 'client_credentials'
+	}
+
+	auth = requests.post(url=url,headers=headers,data=data)
+	print(auth.text)
+	authdata = json.loads(auth.text)
+	return authdata["access_token"]
+
+
+token = get_access_key()
 
 url= "https://api.spotify.com/v1/playlists/37i9dQZEVXbLRQDuF5jeBp/tracks"
-# parameters = dict(q='transfer AND football AND ' + cname, from_parameter="2017-12-01", to="2018-01-31",language='en', pageSize=10, page=1,apiKey="d3e56214150b4ef6821131c9ef777faa")
-auth_key='BQDAP3FqoKjl8aHl-05lTX-czuQn4uWmw6zRoUGxcdgeEigGeVAYeQxBTpg6o5uLoKJvSC4w_J1mxmlSTjhsvkBODPBeBZYOuiJBzN8vIbvq59FN0NX_KDbhmsbintDqd_bHrl5ESmi-F_G364jjsdNJcoQxpXSRbMo-XlBJ_SMpYzRT7kR_sQmNnPE'
-result = requests.get(url, headers={'Authorization': 'Bearer %s' % auth_key})#, params=parameters)
+result = requests.get(url, headers={'Authorization': 'Bearer %s' % token})
 print (result.status_code)
 val = json.loads(result.text)
 # print val["items"]
@@ -87,7 +106,7 @@ for i in val["items"]:
 
 # For Genres
 url1 = "https://api.spotify.com/v1/browse/categories"
-result1 = requests.get(url1, headers={'Authorization': 'Bearer %s' % auth_key})#, params=parameters)
+result1 = requests.get(url1, headers={'Authorization': 'Bearer %s' % token})#, params=parameters)
 val1 = json.loads(result1.text)
 # print (val1["categories"]["items"])
 
