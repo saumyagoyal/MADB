@@ -58,7 +58,7 @@ def get_access_key():
 token = get_access_key()
 today = datetime.datetime.now()
 parameters = {"country" : "US"}
-file_name="spotify_play_"+str(datetime.date.today())+".csv"
+file_name="spotify_files\\spotify_play_"+str(datetime.date.today())+".csv"
 # with open(file_name, 'a+', newline='') as file:
 # 	fieldnames = ['id', 'artist_name', 'track_name', 'track_url', 'popularity', 'genre']
 # 	writer = csv.DictWriter(file, fieldnames=fieldnames)
