@@ -72,7 +72,7 @@ def write_to_df(data_schema):
 
 def write_to_csv(df):
     ind = str(datetime.datetime.now()).split()
-    df.to_csv("FM_%s.csv" %ind[0], header = None, encoding="utf-8")
+    df.to_csv("last_fm_files\\FM_%s.csv" %ind[0], header = None, encoding="utf-8")
 
 
 tags = ['pop', 'classical', 'rock', 'jazz', 'rap', 'electronic', 'soul', 'metal']
