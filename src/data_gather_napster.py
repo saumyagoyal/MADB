@@ -40,24 +40,6 @@ genres = {
 	"Classical": "g.21",
 	"Metal": "g.394"
 }
-try:
-	with open("napster_play.csv", mode="r") as file:
-		if(sum(1 for line in file) == 0):
-			print("Empty file")
-		else:
-			csv_reader = csv.DictReader(file, delimiter=',')
-			line_count = 0
-			for row in csv_reader:
-				if line_count == 0:
-					print(f'Column names are {", ".join(row)}')
-					data_points.append((",".join(row)))
-					line_count += 1
-				else:
-					# print(f'\t{row["n"]} works in the {row[1]} department, and was born in {row[2]}.')
-					data_points.append((row["id"], row["name"], row["email"], row["genre"]))
-					line_count += 1
-except Exception as e:
-	print(e)
 
 print(data_points)
 random_genre = str(random.choice(list(genres.keys())))
