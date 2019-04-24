@@ -56,9 +56,9 @@ lastfm_top2 = lastfm_usergenre.sortBy(line=> line(4).toInt, ascending = false)
 // spotify_top2.foreach{ x => { println(x) }}
 val file_name = "recommendation_" + email
 // spotify_top2.saveAsTextFile(file_name)
-spotify_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString +","+ x(5).toString)).saveAsTextFile(file_name)
-napster_usergenre.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name)
-
+spotify_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString +","+ x(5).toString)).saveAsTextFile(file_name+"/spotify")
+napster_usergenre.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/napster")
+lastfm_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/lastfm")
 }
 
 spotify_top2.take(2)
