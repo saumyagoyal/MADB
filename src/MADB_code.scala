@@ -70,6 +70,11 @@ var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm ,"
 // lastfm_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/lastfm")
 }
 
+"rm recommendation_aav331@nyu.edu" !
+"rm recommendation_ss11485@nyu.edu" !
+"rm recommendation_sg5290@nyu.edu" !
+"rm recommendation_yp345@nyu.edu" !
+
 "hdfs dfs -getmerge recommendation_aav331@nyu.edu/* recommendation_aav331@nyu.edu" !
 "hdfs dfs -getmerge recommendation_ss11485@nyu.edu/* recommendation_ss11485@nyu.edu" !
 "hdfs dfs -getmerge recommendation_sg5290@nyu.edu/* recommendation_sg5290@nyu.edu" !
