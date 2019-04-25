@@ -1,4 +1,5 @@
 import sys.process._
+import java.io.file
 "hdfs dfs -rmr MADB" !
 "hdfs dfs -rmr recommendation_*" !
 "hdfs dfs -mkdir MADB" !
@@ -68,12 +69,14 @@ var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm ,"
 // spotify_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString +","+ x(5).toString)).saveAsTextFile(file_name+"/spotify")
 // napster_usergenre.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/napster")
 // lastfm_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/lastfm")
+// var file = file:file_name
+// file.delete()
 }
 
-"rm recommendation_aav331@nyu.edu" !
-"rm recommendation_ss11485@nyu.edu" !
-"rm recommendation_sg5290@nyu.edu" !
-"rm recommendation_yp345@nyu.edu" !
+// "rm recommendation_aav331@nyu.edu" !
+// "rm recommendation_ss11485@nyu.edu" !
+// "rm recommendation_sg5290@nyu.edu" !
+// "rm recommendation_yp345@nyu.edu" !
 
 "hdfs dfs -getmerge recommendation_aav331@nyu.edu/* recommendation_aav331@nyu.edu" !
 "hdfs dfs -getmerge recommendation_ss11485@nyu.edu/* recommendation_ss11485@nyu.edu" !
