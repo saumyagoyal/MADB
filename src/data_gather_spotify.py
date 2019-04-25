@@ -112,9 +112,9 @@ for k in range(0, len(genre_list_common)):
 				continue
 			spot = Spotify_Tracks()
 			spot.id = str(today) + "_" + str(tcount)
-			spot.artist_name = i["track"]["album"]["artists"][0]["name"]
-			spot.track_name = i["track"]["name"]
-			spot.track_url = i["track"]["external_urls"]["spotify"]
+			spot.artist_name = i["track"]["album"]["artists"][0]["name"].replace(","," ")
+			spot.track_name = i["track"]["name"].replace(","," ")
+			spot.track_url = i["track"]["external_urls"]["spotify"].replace(","," ")
 			spot.popularity = i["track"]["popularity"]
 			spot.genre = genre_list_name[k]
 			spotify_track_list.append(spot.__dict__)
