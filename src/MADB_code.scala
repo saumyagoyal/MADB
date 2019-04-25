@@ -38,6 +38,7 @@ var lastfm_values = lastfm_data.map(line => line.split(","))
 // var spotify_final_top2 =spotify_top2.sortByKey(ascending= False)
 // var napster_top2 = napster_usergenre.sortBy(line=> line(4).toInt, ascending = false)
 
+//Creating global variable
 // var spotify_top : org.apache.spark.rdd.RDD[Array[String]] =sc.emptyRDD
 // var napster_top : org.apache.spark.rdd.RDD[Array[String]] =sc.emptyRDD
 // var lastfm_top : org.apache.spark.rdd.RDD[Array[String]] =sc.emptyRDD
@@ -58,10 +59,11 @@ val lastfm_usergenre = lastfm_values.filter{ case line => line(1)==user_genre }
 //Sort of popularity
 val spotify_usergenre2 = spotify_usergenre.sortBy(line=> line(4).toInt, ascending = false)
 val lastfm_usergenre2 = lastfm_usergenre.sortBy(line=> line(4).toInt, ascending = false)
-//Take top 2 and save
-var spotify_top = sc.parallelize(spotify_usergenre2.take(2)).map( x => ("Spotify ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(5).toString )).saveAsTextFile(file_name+"/spotify")
-var napster_top = sc.parallelize(napster_usergenre.take(2)).map( x => ("Napster ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(4).toString)).saveAsTextFile(file_name+"/napster")
-var lastfm_top = sc.parallelize(lastfm_usergenre2.take(2)).map( x => ("LastFm ," + x(3).toString + "," + x(2).toString + "," + x(5).toString + "," + x(1).toString)).saveAsTextFile(file_name+"/lastfm")
+//Sort
+//Take top 4 and save
+var spotify_top = sc.parallelize(spotify_usergenre2.take(4)).map( x => ("Spotify ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(5).toString )).saveAsTextFile(file_name+"/spotify")
+var napster_top = sc.parallelize(napster_usergenre.take(4)).map( x => ("Napster ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(4).toString)).saveAsTextFile(file_name+"/napster")
+var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm ," + x(3).toString + "," + x(2).toString + "," + x(5).toString + "," + x(1).toString)).saveAsTextFile(file_name+"/lastfm")
 // spotify_top2.foreach{ x => { println(x) }}
 // spotify_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString +","+ x(5).toString)).saveAsTextFile(file_name+"/spotify")
 // napster_usergenre.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/napster")
@@ -69,7 +71,7 @@ var lastfm_top = sc.parallelize(lastfm_usergenre2.take(2)).map( x => ("LastFm ,"
 }
 
 "hdfs dfs -getmerge recommendation_aav331@nyu.edu/* recommendation_aav331@nyu.edu" !
-"hdfs dfs -getmerge recommendation_ss1482@nyu.edu/* recommendation_ss1482@nyu.edu" !
+"hdfs dfs -getmerge recommendation_ss11485@nyu.edu/* recommendation_ss11485@nyu.edu" !
 "hdfs dfs -getmerge recommendation_sg5290@nyu.edu/* recommendation_sg5290@nyu.edu" !
 "hdfs dfs -getmerge recommendation_yp345@nyu.edu/* recommendation_yp345@nyu.edu" !
 
