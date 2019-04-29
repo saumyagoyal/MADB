@@ -1,5 +1,4 @@
 import sys.process._
-import java.io.file
 import java.text.SimpleDateFormat
 "hdfs dfs -rmr MADB" !
 "hdfs dfs -rmr recommendation_*" !
@@ -48,7 +47,7 @@ var lastfm_values = lastfm_data.map(line => line.split(","))
 //Sorting by Date
 val format = new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS")
 val spotify_sorted = spotify_values.sortBy(line => format.parse(line(0)), ascending=false)
-val napster_sosrted = napster_values.sortBy(line => format.parse(line(0)), ascending=false)
+val napster_sorted = napster_values.sortBy(line => format.parse(line(0)), ascending=false)
 val lastfm_sorted = lastfm_values.sortBy(line => format.parse(line(0)), ascending=false)
 
 ////Reading the genre preference for all users
@@ -60,9 +59,9 @@ val user_genre = i(3)
 println(user_genre)
 val file_name = "recommendation_" + email
 //Filter in genre
-val spotify_usergenre = spotify_values.filter{ case line => line(5)==user_genre }
-val napster_usergenre = napster_values.filter{ case line => line(4)==user_genre }
-val lastfm_usergenre = lastfm_values.filter{ case line => line(1)==user_genre }
+val spotify_usergenre = spotify_sorted.filter{ case line => line(5)==user_genre }
+val napster_usergenre = napster_sorted.filter{ case line => line(4)==user_genre }
+val lastfm_usergenre = lastfm_sorted.filter{ case line => line(1)==user_genre }
 //Sort of popularity
 val spotify_usergenre2 = spotify_usergenre.sortBy(line=> line(4).toInt, ascending = false)
 val lastfm_usergenre2 = lastfm_usergenre.sortBy(line=> line(4).toInt, ascending = false)
@@ -84,10 +83,10 @@ var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm ,"
 // "rm recommendation_sg5290@nyu.edu" !
 // "rm recommendation_yp345@nyu.edu" !
 
-"hdfs dfs -getmerge recommendation_aav331@nyu.edu/* recommendation_aav331@nyu.edu" !
-"hdfs dfs -getmerge recommendation_ss11485@nyu.edu/* recommendation_ss11485@nyu.edu" !
-"hdfs dfs -getmerge recommendation_sg5290@nyu.edu/* recommendation_sg5290@nyu.edu" !
-"hdfs dfs -getmerge recommendation_yp345@nyu.edu/* recommendation_yp345@nyu.edu" !
+"hdfs dfs -getmerge recommendation_aav331@nyu.edu/* recommendation_aav331@nyu.edu.csv" !
+"hdfs dfs -getmerge recommendation_ss11485@nyu.edu/* recommendation_ss11485@nyu.edu.csv" !
+"hdfs dfs -getmerge recommendation_sg5290@nyu.edu/* recommendation_sg5290@nyu.edu.csv" !
+"hdfs dfs -getmerge recommendation_yp345@nyu.edu/* recommendation_yp345@nyu.edu.csv" !
 
 
 // var spotify_top = spotify_top2.top(2, keyFunc)
