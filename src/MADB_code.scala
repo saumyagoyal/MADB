@@ -1,5 +1,6 @@
 import sys.process._
 import java.io.file
+import java.text.SimpleDateFormat
 "hdfs dfs -rmr MADB" !
 "hdfs dfs -rmr recommendation_*" !
 "hdfs dfs -mkdir MADB" !
@@ -44,6 +45,11 @@ var lastfm_values = lastfm_data.map(line => line.split(","))
 // var napster_top : org.apache.spark.rdd.RDD[Array[String]] =sc.emptyRDD
 // var lastfm_top : org.apache.spark.rdd.RDD[Array[String]] =sc.emptyRDD
 
+//Sorting by Date
+val format = new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS")
+val spotify_sorted = spotify_values.sortBy(line => format.parse(line(0)), ascending=false)
+val napster_sosrted = napster_values.sortBy(line => format.parse(line(0)), ascending=false)
+val lastfm_sorted = lastfm_values.sortBy(line => format.parse(line(0)), ascending=false)
 
 ////Reading the genre preference for all users
 for (i <- userNoHeader)
