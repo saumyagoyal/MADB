@@ -62,14 +62,45 @@ val file_name = "recommendation_" + email
 val spotify_usergenre = spotify_sorted.filter{ case line => line(5)==user_genre }
 val napster_usergenre = napster_sorted.filter{ case line => line(4)==user_genre }
 val lastfm_usergenre = lastfm_sorted.filter{ case line => line(1)==user_genre }
-//Sort of popularity
-val spotify_usergenre2 = spotify_usergenre.sortBy(line=> line(4).toInt, ascending = false)
-val lastfm_usergenre2 = lastfm_usergenre.sortBy(line=> line(4).toInt, ascending = false)
-//Sort
-//Take top 4 and save
-var spotify_top = sc.parallelize(spotify_usergenre2.take(4)).map( x => ("Spotify ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(5).toString )).saveAsTextFile(file_name+"/spotify")
-var napster_top = sc.parallelize(napster_usergenre.take(4)).map( x => ("Napster ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(4).toString)).saveAsTextFile(file_name+"/napster")
-var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm ," + x(3).toString + "," + x(2).toString + "," + x(5).toString + "," + x(1).toString)).saveAsTextFile(file_name+"/lastfm")
+
+//Napster
+//Count and Sort by track_name in Napster
+val napster_needed= napster_usergenre.map(line=> List( line(1), line(2), line(3), line(4) ))
+val napster_tracks_name = napster_needed.keyBy(line => line).map(line => line._1)
+val napster_track_count= napster_tracks_name.map(line=>(line,1))
+val napster_tracks = napster_track_count.reduceByKey((v1,v2) => v1+v2)
+val napster_usergenre2 = napster_tracks.sortBy(line=> line._2, ascending = false)
+//Take 4 and save
+var napster_top = sc.parallelize(napster_usergenre2.take(4)).map( x => ("Napster," + x._1(1) + "," + x._1(0) + "," + x._1(2) + "," + x._1(3) + "," +x._2 )).saveAsTextFile(file_name+"/napster")
+
+//LastFM
+//Average of total listen by occurance in LastFM
+val lastfm_needed= lastfm_usergenre.map(line=> List( line(1), line(2), line(3), line(4), line(5) ))
+val lastfm_tracks_name = lastfm_needed.keyBy(line => List( line(1), line(2) )).mapValues(line => (line(0), line(4), line(3).toInt,1) )
+val lastfm_tracks = lastfm_tracks_name.reduceByKey{ case ((a,b,c,d),(a1,b1,c1,d1)) => (a,b,c+c1,d+d1)}.mapValues{ case(a,b,sum,count) => (a,b,sum/count)}
+val lastfm_usergenre2 = lastfm_tracks.sortBy(line=> line._2._3, ascending = false)
+//Take 4 and save
+var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm," + x._1(1) + "," + x._1(0) + "," + x._2._2 + "," + x._2._1 + "," + x._2._3 )).saveAsTextFile(file_name+"/lastfm")
+
+//Spotify
+//Total count of popularity in Spotify
+val spotify_needed= spotify_usergenre.map(line=> List( line(1), line(2), line(3), line(4), line(5) ))
+val spotify_tracks_name = spotify_needed.keyBy(line => List( line(0), line(1) )).mapValues(line => (line(2), line(4), line(3).toInt) )
+val spotify_tracks = spotify_tracks_name.reduceByKey{ case ((a,b,c),(a1,b1,c1)) => (a,b,c+c1)}
+val spotify_usergenre2 = spotify_tracks.sortBy(line=> line._2._3, ascending = false)
+//Take 4 and save
+var spotify_top = sc.parallelize(spotify_usergenre2.take(4)).map( x => ("Spotify," + x._1(1) + "," + x._1(0) + "," + x._2._1 + "," + x._2._2 + "," + x._2._3 ) ).saveAsTextFile(file_name+"/spotify")
+
+// //OLD LOGIC
+// //Sort of popularity
+// val spotify_usergenre2 = spotify_usergenre.sortBy(line=> line(4).toInt, ascending = false)
+// val lastfm_usergenre2 = lastfm_usergenre.sortBy(line=> line(4).toInt, ascending = false)
+// //Sort
+// //Take top 4 and save
+// var spotify_top = sc.parallelize(spotify_usergenre2.take(4)).map( x => ("Spotify ," + x(2).toString + "," + x(1).toString + "," + x(3).toString + "," + x(5).toString )).saveAsTextFile(file_name+"/spotify")
+// var lastfm_top = sc.parallelize(lastfm_usergenre2.take(4)).map( x => ("LastFm ," + x(3).toString + "," + x(2).toString + "," + x(5).toString + "," + x(1).toString)).saveAsTextFile(file_name+"/lastfm")
+
+// To-Print Logic
 // spotify_top2.foreach{ x => { println(x) }}
 // spotify_top2.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString +","+ x(5).toString)).saveAsTextFile(file_name+"/spotify")
 // napster_usergenre.map( x => (x(0).toString +","+ x(1).toString +","+ x(2).toString +","+ x(3).toString +","+ x(4).toString )).saveAsTextFile(file_name+"/napster")
