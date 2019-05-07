@@ -26,6 +26,9 @@ password = input("Type your password and press enter: ")
 context = ssl.create_default_context()
 for receipient in receiver_emails.keys():
 
+	# if receiver_emails[receipient] != "ss11485@nyu.edu":
+	# 	continue
+
 	person_name = ""
 
 	message = MIMEMultipart("html")
