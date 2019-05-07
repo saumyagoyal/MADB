@@ -49,8 +49,8 @@ def get_dict(total_songs, tag):
     for songs in total_songs:
         genre.append(tag.title())
         artist.append(songs['artist']['name'])
-        song_name.append(songs['name'])
-        playcount.append(get_listeners(songs['name']))
+        song_name.append(songs['name'].replace("," , " "))
+        playcount.append(get_listeners(songs['name'])
         url.append(songs['url'])
         ind = str(datetime.datetime.now()) + "_" + str(tcount)
         index.append(ind)
