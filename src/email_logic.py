@@ -41,7 +41,7 @@ for receipient in receiver_emails.keys():
 				line_count += 1
 				continue
 			else:
-				if receipient == row[2]:
+				if receiver_emails[receipient] == row[2]:
 					person_name = row[1]
 					break
 				line_count += 1
@@ -71,7 +71,7 @@ for receipient in receiver_emails.keys():
 	html = """\
 	<html>
 	  <body>
-	    <p style="color: red">Hi""" + person_name + """,<br><br>
+	    <p style="color: red">Hi """ + person_name + """,<br><br>
 	       Your MADB recommendations are waiting to be discovered!<br><br> 
 	       Click on the source links to go to track!<br><br>
 	    </p>
