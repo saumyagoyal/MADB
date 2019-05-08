@@ -121,6 +121,7 @@ var spotify_top = sc.parallelize(spotify_usergenre2.take(4)).map( x => ("Spotify
 "hdfs dfs -getmerge recommendation_arpit.tolia@gmail.com/* recommendation_arpit.tolia@gmail.com.csv" !
 "hdfs dfs -getmerge recommendation_yp1113@nyu.edu/* recommendation_yp1113@nyu.edu.csv" !
 "hdfs dfs -getmerge recommendation_saurabhsharan03@gmail.com/* recommendation_saurabhsharan03@gmail.com.csv" !
+"hdfs dfs -getmerge recommendation_rs4208@nyu.edu/* recommendation_rs4208@nyu.edu.csv" !
 
 // var spotify_top = spotify_top2.top(2, keyFunc)
 // spotify_top.top(2,key = (line=> line.split(",")(4)) )
