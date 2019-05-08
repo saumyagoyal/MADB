@@ -26,8 +26,8 @@ password = input("Type your password and press enter: ")
 context = ssl.create_default_context()
 for receipient in receiver_emails.keys():
 
-	if receiver_emails[receipient] != "rs4208@nyu.edu":
-		continue
+	# if receiver_emails[receipient] != "rs4208@nyu.edu":
+	# 	continue
 
 	person_name = ""
 
