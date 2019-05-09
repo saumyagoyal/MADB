@@ -73,11 +73,9 @@ def hello():
 			writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 			# writer.writeheader()
 			writer.writerow({'id': u.id, 'name': u.name, 'email': u.email, 'genre': u.genre})
+			flash('Thanks for registration ' + u.name)
 
-	if form.validate():
-	# Save the comment here.
-		flash('Thanks for registration ' + u.name)
-	else:
+	if form.validate() == False:
 		flash('Error: All the form fields are required. ')
 
 	return render_template('Register.html', form=form)

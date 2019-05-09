@@ -26,8 +26,8 @@ password = input("Type your password and press enter: ")
 context = ssl.create_default_context()
 for receipient in receiver_emails.keys():
 
-	# if receiver_emails[receipient] != "rs4208@nyu.edu":
-	# 	continue
+	if receiver_emails[receipient] != "ss11485@nyu.edu":
+		continue
 
 	person_name = ""
 
@@ -62,7 +62,7 @@ for receipient in receiver_emails.keys():
 			RecSongs.append(row[1]+","+row[0]+","+row[2]+","+url)
 			line_count += 1
 
-	print(RecSongs)
+	# print(RecSongs)
 
 	# Create the plain-text and HTML version of your message
 	song1 = RecSongs[0].split(",")
@@ -134,4 +134,4 @@ for receipient in receiver_emails.keys():
 	with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
 		server.login(sender_email, password)
 		server.sendmail(sender_email, receiver_emails[receipient],message.as_string())
-		print("Done")
+		print("Sending mail to " + receiver_emails[receipient] + " is Done")
